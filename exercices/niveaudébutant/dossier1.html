@@ -177,6 +177,36 @@
         const feedbackItems = document.getElementById('feedback-items');
         const globalProgress = document.getElementById('global-progress');
 
+
+        // Fonction pour mélanger un tableau (algorithme de Fisher-Yates)
+        function shuffleArray(array) {
+            const newArray = [...array];
+            for (let i = newArray.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+            }
+            return newArray;
+        }
+
+        // Fonction pour mélanger les options d'une question tout en gardant trace de la bonne réponse
+        function shuffleQuestion(question) {
+            // Crée un tableau d'objets avec les options et leurs indices originaux
+            const optionsWithIndex = question.options.map((option, index) => ({ option, originalIndex: index }));
+            
+            // Mélange les options
+            const shuffledOptions = shuffleArray(optionsWithIndex);
+            
+            // Trouve le nouvel index de la bonne réponse
+            const newCorrectIndex = shuffledOptions.findIndex(item => item.originalIndex === question.correct);
+            
+            // Retourne la question avec les options mélangées
+            return {
+                ...question,
+                options: shuffledOptions.map(item => item.option),
+                correct: newCorrectIndex
+            };
+        }
+
         // Initialize game
         function initGame() {
         fetch('themed_questions1.json')
@@ -248,6 +278,12 @@
                 alert("Les questions sont en cours de chargement, veuillez réessayer.");
                 return;
             }
+
+            // Mélanger l'ordre des questions
+            questions = shuffleArray(questions);
+            
+            // Mélanger les options pour chaque question
+            questions = questions.map(question => shuffleQuestion(question));
 
             startScreen.classList.add('hidden');
             questionScreen.classList.remove('hidden');
@@ -394,6 +430,10 @@
             score = 0;
             answersFeedback = [];
             globalProgress.style.width = '0%';
+            
+            // Re-mélanger les questions et options
+            questions = shuffleArray(questions);
+            questions = questions.map(question => shuffleQuestion(question));
             
             resultsScreen.classList.add('hidden');
             questionScreen.classList.remove('hidden');
