@@ -1,0 +1,364 @@
+{
+  "categories": [
+    {
+      "name": "Description d'un logement",
+      "questions": [
+        {
+          "question": "Comment décrit-on une pièce fonctionnelle ?",
+          "options": [
+            "La cuisine sert à préparer les repas",
+            "La cuisine sert de préparer les repas",
+            "La cuisine sert pour préparer les repas",
+            "La cuisine sert au préparation des repas"
+          ],
+          "correct": 0,
+          "explanation": "La structure correcte est 'servir à + infinitif'."
+        },
+        {
+          "question": "Comment dit-on 'The living room is brighter now' ?",
+          "options": [
+            "Le salon est de plus en plus lumineux",
+            "Le salon est plus lumineux maintenant",
+            "Le salon était plus lumineux",
+            "A et B"
+          ],
+          "correct": 3,
+          "explanation": "Les deux premières formulations sont correctes."
+        },
+        {
+          "question": "Que signifie 'Il y a un an, j'ai déménagé' ?",
+          "options": [
+            "Je déménage dans un an",
+            "Je déménage depuis un an",
+            "J'ai déménagé il y a douze mois",
+            "Je déménageais il y a un an"
+          ],
+          "correct": 2,
+          "explanation": "'Il y a' exprime une durée écoulée depuis un événement."
+        },
+        {
+          "question": "Comment dit-on 'The bedroom is for sleeping' ?",
+          "options": [
+            "La chambre sert à dormir",
+            "La chambre sert de dormir",
+            "La chambre sert pour dormir",
+            "La chambre est à dormir"
+          ],
+          "correct": 0,
+          "explanation": "Structure correcte avec 'servir à + infinitif'."
+        },
+        {
+          "question": "Comment exprime-t-on une évolution avec 'de moins en moins' ?",
+          "options": [
+            "Il y a de moins en moins d'espace",
+            "Il y a moins en moins d'espace",
+            "Il y a de moins d'espace",
+            "Il y a moins que d'espace"
+          ],
+          "correct": 0,
+          "explanation": "Structure correcte 'de moins en moins de + nom'."
+        }
+      ]
+    },
+    {
+      "name": "Annonces immobilières",
+      "questions": [
+        {
+          "question": "Que signifie 'F2 lumineux, 50m², proche métro' ?",
+          "options": [
+            "Un deux-pièces de 50m² bien situé",
+            "Un studio de 50m²",
+            "Une maison de 50m²",
+            "Un appartement avec deux chambres"
+          ],
+          "correct": 0,
+          "explanation": "'F2' signifie un appartement avec une pièce principale et une chambre."
+        },
+        {
+          "question": "Comment demande-t-on 'Does the apartment have a balcony?' ?",
+          "options": [
+            "L'appartement a-t-il un balcon ?",
+            "Est-ce que l'appartement a un balcon ?",
+            "L'appartement possède un balcon ?",
+            "A et B"
+          ],
+          "correct": 3,
+          "explanation": "Les deux premières formulations sont correctes."
+        },
+        {
+          "question": "Que trouve-t-on souvent dans une annonce immobilière ?",
+          "options": [
+            "Le prix des charges",
+            "La date de construction",
+            "La proximité des transports",
+            "Toutes ces réponses"
+          ],
+          "correct": 3,
+          "explanation": "Tous ces éléments peuvent figurer dans une annonce."
+        },
+        {
+          "question": "Comment dit-on 'The apartment has been renovated' ?",
+          "options": [
+            "L'appartement a été rénové",
+            "L'appartement était rénové",
+            "L'appartement est rénové",
+            "L'appartement sera rénové"
+          ],
+          "correct": 0,
+          "explanation": "Passé composé pour une action passée avec effet présent."
+        },
+        {
+          "question": "Que signifie 'CC' dans une annonce ?",
+          "options": [
+            "Charges comprises",
+            "Cuisine équipée",
+            "Climatisation centrale",
+            "Chambre commune"
+          ],
+          "correct": 0,
+          "explanation": "'CC' signifie que les charges sont incluses dans le loyer."
+        }
+      ]
+    },
+    {
+      "name": "Relations entre colocataires",
+      "questions": [
+        {
+          "question": "Comment exprime-t-on une règle avec 'devoir' ?",
+          "options": [
+            "Tu dois nettoyer la cuisine",
+            "Il faut nettoyer la cuisine",
+            "Nettoyez la cuisine",
+            "A et B"
+          ],
+          "correct": 3,
+          "explanation": "Les deux premières formulations expriment une obligation."
+        },
+        {
+          "question": "Comment dit-on 'We have lived together for 2 years' ?",
+          "options": [
+            "Nous vivons ensemble depuis 2 ans",
+            "Nous avons vécu ensemble il y a 2 ans",
+            "Nous vivions ensemble pendant 2 ans",
+            "Nous avons vécu ensemble depuis 2 ans"
+          ],
+          "correct": 0,
+          "explanation": "'Depuis' + présent pour une action qui continue."
+        },
+        {
+          "question": "Quelle phrase exprime une interdiction ?",
+          "options": [
+            "Ne pas fumer dans la chambre",
+            "Il est interdit de fumer",
+            "Défense de fumer",
+            "Toutes ces réponses"
+          ],
+          "correct": 3,
+          "explanation": "Toutes ces formulations expriment une interdiction."
+        },
+        {
+          "question": "Comment dit-on 'You must not make noise after 10pm' ?",
+          "options": [
+            "Il ne faut pas faire de bruit après 22h",
+            "Tu ne dois pas faire de bruit après 22h",
+            "Pas de bruit après 22h",
+            "Toutes ces réponses"
+          ],
+          "correct": 3,
+          "explanation": "Toutes ces formulations sont possibles."
+        },
+        {
+          "question": "Comment exprime-t-on une recommandation à l'infinitif ?",
+          "options": [
+            "Fermer la porte à clé",
+            "Vous devez fermer la porte",
+            "Il faut que tu fermes la porte",
+            "Ferme la porte"
+          ],
+          "correct": 0,
+          "explanation": "L'infinitif est souvent utilisé pour les notices/consignes."
+        }
+      ]
+    },
+    {
+      "name": "Temps et transformations",
+      "questions": [
+        {
+          "question": "Quand utilise-t-on l'imparfait pour décrire un logement ?",
+          "options": [
+            "Pour décrire son aspect habituel dans le passé",
+            "Pour parler d'une action ponctuelle",
+            "Pour décrire son état actuel",
+            "Pour parler des travaux récents"
+          ],
+          "correct": 0,
+          "explanation": "L'imparfait décrit des états ou habitudes passés."
+        },
+        {
+          "question": "Comment dit-on 'Before, the kitchen was smaller' ?",
+          "options": [
+            "Avant, la cuisine était plus petite",
+            "Avant, la cuisine a été plus petite",
+            "Avant, la cuisine est plus petite",
+            "Avant, la cuisine sera plus petite"
+          ],
+          "correct": 0,
+          "explanation": "Imparfait pour une description passée."
+        },
+        {
+          "question": "Comment exprime-t-on un changement avec 'de plus en plus' ?",
+          "options": [
+            "Il y a de plus en plus d'espace de stockage",
+            "Il y a plus en plus d'espace de stockage",
+            "Il y a de plus d'espace de stockage",
+            "Il y a plus que d'espace de stockage"
+          ],
+          "correct": 0,
+          "explanation": "Structure correcte 'de plus en plus de + nom'."
+        },
+        {
+          "question": "Comment dit-on 'We have lived here since 2020' ?",
+          "options": [
+            "Nous habitons ici depuis 2020",
+            "Nous avons habité ici en 2020",
+            "Nous habitions ici depuis 2020",
+            "Nous habiterons ici depuis 2020"
+          ],
+          "correct": 0,
+          "explanation": "'Depuis' avec le présent pour une action qui continue."
+        },
+        {
+          "question": "Que signifie 'J'ai repeint la chambre il y a un mois' ?",
+          "options": [
+            "Je vais repeindre la chambre dans un mois",
+            "Je suis en train de repeindre la chambre",
+            "J'ai repeint la chambre il y a 30 jours",
+            "Je repeignais la chambre pendant un mois"
+          ],
+          "correct": 2,
+          "explanation": "'Il y a' exprime une durée écoulée depuis l'action."
+        }
+      ]
+    },
+    {
+      "name": "Pronoms et règles",
+      "questions": [
+        {
+          "question": "Comment dit-on 'I'm giving it to my roommate' avec des pronoms ?",
+          "options": [
+            "Je le donne à mon colocataire",
+            "Je lui le donne",
+            "Je le lui donne",
+            "Je donne le lui"
+          ],
+          "correct": 2,
+          "explanation": "Ordre correct : COD avant COI."
+        },
+        {
+          "question": "Comment exprime-t-on une règle avec 'il faut' ?",
+          "options": [
+            "Il faut éteindre les lumières",
+            "Il faut que tu éteignes les lumières",
+            "Vous devez éteindre les lumières",
+            "A et B"
+          ],
+          "correct": 3,
+          "explanation": "Les deux premières formulations sont correctes."
+        },
+        {
+          "question": "Comment dit-on 'Don't leave them (the dishes) in the sink' ?",
+          "options": [
+            "Ne les laisse pas dans l'évier",
+            "Ne laisse pas eux dans l'évier",
+            "Ne laisse pas les dans l'évier",
+            "Ne laisse pas leur dans l'évier"
+          ],
+          "correct": 0,
+          "explanation": "'Les' est le pronom COD correct pour 'the dishes'."
+        },
+        {
+          "question": "Comment dit-on 'You must show him the apartment' ?",
+          "options": [
+            "Tu dois lui montrer l'appartement",
+            "Tu dois le montrer l'appartement",
+            "Tu dois montrer lui l'appartement",
+            "Tu dois leur montrer l'appartement"
+          ],
+          "correct": 0,
+          "explanation": "'Lui' est le COI pour 'à lui'."
+        },
+        {
+          "question": "Comment exprime-t-on une interdiction avec l'impératif ?",
+          "options": [
+            "Ne pas fumer dans les parties communes",
+            "Défense de fumer",
+            "Il est interdit de fumer",
+            "Toutes ces réponses"
+          ],
+          "correct": 3,
+          "explanation": "Toutes ces formulations expriment une interdiction."
+        }
+      ]
+    },
+    {
+      "name": "Habitat atypique",
+      "questions": [
+        {
+          "question": "Comment décrit-on une maison écologique ?",
+          "options": [
+            "Une maison qui consomme de moins en moins d'énergie",
+            "Une maison avec de plus en plus de panneaux solaires",
+            "Une maison servant à protéger l'environnement",
+            "Toutes ces réponses"
+          ],
+          "correct": 3,
+          "explanation": "Toutes ces formulations peuvent décrire une maison écologique."
+        },
+        {
+          "question": "Comment dit-on 'This space serves as a bedroom' ?",
+          "options": [
+            "Cet espace sert de chambre",
+            "Cet espace sert à chambre",
+            "Cet espace sert comme chambre",
+            "Cet espace est une chambre"
+          ],
+          "correct": 0,
+          "explanation": "Structure correcte avec 'servir de'."
+        },
+        {
+          "question": "Que signifie 'une yourte' ?",
+          "options": [
+            "Un type d'appartement moderne",
+            "Une habitation nomade traditionnelle",
+            "Une petite maison de campagne",
+            "Un studio urbain"
+          ],
+          "correct": 1,
+          "explanation": "Une yourte est une habitation nomade traditionnelle."
+        },
+        {
+          "question": "Comment dit-on 'We have been living on a boat for 3 years' ?",
+          "options": [
+            "Nous vivons sur un bateau depuis 3 ans",
+            "Nous avons vécu sur un bateau il y a 3 ans",
+            "Nous vivions sur un bateau pendant 3 ans",
+            "Nous avons vécu sur un bateau depuis 3 ans"
+          ],
+          "correct": 0,
+          "explanation": "'Depuis' avec le présent pour une action qui continue."
+        },
+        {
+          "question": "Comment décrit-on une tiny house ?",
+          "options": [
+            "Une maison de plus en plus petite",
+            "Une maison servant à vivre simplement",
+            "Une petite maison mobile",
+            "B et C"
+          ],
+          "correct": 3,
+          "explanation": "Les deux dernières réponses décrivent bien une tiny house."
+        }
+      ]
+    }
+  ]
+}

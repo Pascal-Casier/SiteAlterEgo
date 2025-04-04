@@ -1,0 +1,359 @@
+{
+  "categories": [
+    {
+      "name": "Saisons et météo",
+      "questions": [
+        {
+          "question": "Quelle est la bonne structure pour dire 'It's cold in winter' ?",
+          "options": ["Il fait froid en hiver", "Il est froid en hiver", "C'est froid en hiver", "Il a froid en hiver"],
+          "correct": 0,
+          "explanation": "On utilise 'il fait' pour parler de la température."
+        },
+        {
+          "question": "Comment dit-on 'I love summer because it's sunny' ?",
+          "options": [
+            "J'adore l'été parce qu'il y a du soleil",
+            "J'aime l'été parce qu'il est ensoleillé",
+            "J'adore l'été parce qu'il fait soleil",
+            "A et C"
+          ],
+          "correct": 3,
+          "explanation": "Les deux formulations sont correctes."
+        },
+        {
+          "question": "Comment situe-t-on un événement en septembre ?",
+          "options": [
+            "Au septembre",
+            "En septembre",
+            "Dans septembre",
+            "Sur septembre"
+          ],
+          "correct": 1,
+          "explanation": "Pour les mois, on utilise la préposition 'en'."
+        },
+        {
+          "question": "Quelle phrase décrit correctement la météo ?",
+          "options": [
+            "Il pleut des cordes",
+            "Il neige beaucoup",
+            "Il y a du brouillard",
+            "Toutes ces réponses"
+          ],
+          "correct": 3,
+          "explanation": "Toutes ces expressions météorologiques sont correctes."
+        },
+        {
+          "question": "Comment dit-on 'Spring begins in March' ?",
+          "options": [
+            "Le printemps commence en mars",
+            "Le printemps commence au mars",
+            "Le printemps commence mars",
+            "Le printemps commence dans mars"
+          ],
+          "correct": 0,
+          "explanation": "'En' pour les mois, et le verbe 'commencer'."
+        }
+      ]
+    },
+    {
+      "name": "Localisation géographique",
+      "questions": [
+        {
+          "question": "Comment dit-on 'The museum is next to the park' ?",
+          "options": [
+            "Le musée est à côté du parc",
+            "Le musée est près du parc",
+            "Le musée est vers le parc",
+            "A et B"
+          ],
+          "correct": 3,
+          "explanation": "Les deux premières formulations sont correctes."
+        },
+        {
+          "question": "Où place-t-on l'adjectif 'beau' avec 'village' ?",
+          "options": [
+            "Avant le nom",
+            "Après le nom",
+            "Les deux sont possibles",
+            "Cela dépend du contexte"
+          ],
+          "correct": 0,
+          "explanation": "'Beau' se place généralement avant le nom."
+        },
+        {
+          "question": "Comment utilise-t-on le pronom 'y' dans 'Je vais à la plage' ?",
+          "options": [
+            "J'y vais",
+            "Je vais y",
+            "Je y vais",
+            "Y je vais"
+          ],
+          "correct": 0,
+          "explanation": "Le pronom 'y' remplace le complément de lieu et se place avant le verbe."
+        },
+        {
+          "question": "Quelle phrase décrit une caractéristique géographique ?",
+          "options": [
+            "C'est une région montagneuse",
+            "Il y a beaucoup de forêts",
+            "La ville est côtière",
+            "Toutes ces réponses"
+          ],
+          "correct": 3,
+          "explanation": "Toutes ces phrases caractérisent des lieux."
+        },
+        {
+          "question": "Comment dit-on 'We go there every summer' ?",
+          "options": [
+            "Nous y allons chaque été",
+            "Nous allons y chaque été",
+            "Nous allons là chaque été",
+            "A et C"
+          ],
+          "correct": 0,
+          "explanation": "'Y' est la forme correcte pour 'there' dans ce contexte."
+        }
+      ]
+    },
+    {
+      "name": "Activités culturelles",
+      "questions": [
+        {
+          "question": "Comment dit-on 'We will visit the castle tomorrow' ?",
+          "options": [
+            "Nous visiterons le château demain",
+            "Nous allons visiter le château demain",
+            "Nous visitons le château demain",
+            "A et B"
+          ],
+          "correct": 3,
+          "explanation": "Les deux formes de futur sont possibles."
+        },
+        {
+          "question": "Quelle phrase utilise correctement 'on' pour parler d'habitudes ?",
+          "options": [
+            "On va souvent au théâtre",
+            "Nous on va souvent au théâtre",
+            "On va souvent au théâtre, nous",
+            "Toutes ces réponses"
+          ],
+          "correct": 0,
+          "explanation": "La forme la plus naturelle pour exprimer une habitude."
+        },
+        {
+          "question": "Comment dit-on 'I am visiting an exhibition' ?",
+          "options": [
+            "Je visite une exposition",
+            "Je suis en train de visiter une exposition",
+            "Je vais visiter une exposition",
+            "A et B"
+          ],
+          "correct": 3,
+          "explanation": "Les deux formes expriment une action en cours."
+        },
+        {
+          "question": "Quelle phrase pourrait figurer dans une lettre de vacances ?",
+          "options": [
+            "Nous nous amusons beaucoup ici",
+            "Le paysage est magnifique",
+            "Hier, nous avons visité un musée",
+            "Toutes ces réponses"
+          ],
+          "correct": 3,
+          "explanation": "Toutes ces phrases sont typiques d'une lettre de vacances."
+        },
+        {
+          "question": "Comment dit-on 'What cultural activities do you do?' ?",
+          "options": [
+            "Quelles activités culturelles fais-tu ?",
+            "Qu'est-ce que tu fais comme activités culturelles ?",
+            "Tu fais quoi comme activités culturelles ?",
+            "Toutes ces réponses"
+          ],
+          "correct": 3,
+          "explanation": "Toutes ces formulations sont correctes."
+        }
+      ]
+    },
+    {
+      "name": "Adjectifs et descriptions",
+      "questions": [
+        {
+          "question": "Où place-t-on l'adjectif 'ancien' quand il signifie 'former' ?",
+          "options": [
+            "Avant le nom",
+            "Après le nom",
+            "Les deux sont possibles",
+            "Cela dépend du contexte"
+          ],
+          "correct": 0,
+          "explanation": "Quand 'ancien' signifie 'former', il se place avant le nom."
+        },
+        {
+          "question": "Comment dit-on 'a big old house' ?",
+          "options": [
+            "Une grande vieille maison",
+            "Une vieille grande maison",
+            "Une maison grande et vieille",
+            "A et C"
+          ],
+          "correct": 3,
+          "explanation": "Les deux formulations sont correctes avec des nuances de sens."
+        },
+        {
+          "question": "Quelle phrase contient une erreur de place d'adjectif ?",
+          "options": [
+            "Un bel ancien château",
+            "Une rouge grande pomme",
+            "Un petit village tranquille",
+            "Une jolie petite fleur"
+          ],
+          "correct": 1,
+          "explanation": "'Grande' devrait être avant 'rouge' selon les règles de placement."
+        },
+        {
+          "question": "Comment dit-on 'the beautiful French countryside' ?",
+          "options": [
+            "La belle campagne française",
+            "La française belle campagne",
+            "La campagne belle française",
+            "La campagne française belle"
+          ],
+          "correct": 0,
+          "explanation": "Ordre correct : opinion (belle) + origine (française)."
+        },
+        {
+          "question": "Quelle règle générale pour les adjectifs ?",
+          "options": [
+            "Ils se placent toujours après le nom",
+            "Ils se placent toujours avant le nom",
+            "Certains se placent avant, d'autres après",
+            "Ils se placent selon l'humeur du locuteur"
+          ],
+          "correct": 2,
+          "explanation": "Le placement dépend du type d'adjectif."
+        }
+      ]
+    },
+    {
+      "name": "Futur et présent continu",
+      "questions": [
+        {
+          "question": "Conjuguez 'aller' au futur simple à 'nous'",
+          "options": [
+            "Nous irons",
+            "Nous allerons",
+            "Nous allons",
+            "Nous allirons"
+          ],
+          "correct": 0,
+          "explanation": "Conjugaison irrégulière du verbe 'aller'."
+        },
+        {
+          "question": "Comment exprime-t-on une action en cours en français ?",
+          "options": [
+            "Avec le présent simple",
+            "Avec 'être en train de' + infinitif",
+            "Les deux sont possibles",
+            "Avec l'imparfait"
+          ],
+          "correct": 2,
+          "explanation": "Les deux méthodes sont correctes en français."
+        },
+        {
+          "question": "Comment dit-on 'They will go hiking' ?",
+          "options": [
+            "Ils feront de la randonnée",
+            "Ils iront randonner",
+            "Ils vont faire de la randonnée",
+            "Toutes ces réponses"
+          ],
+          "correct": 3,
+          "explanation": "Toutes ces formulations sont possibles."
+        },
+        {
+          "question": "Quelle phrase utilise correctement le présent continu ?",
+          "options": [
+            "Je suis en train de préparer mes valises",
+            "Je prépare mes valises",
+            "Je vais préparer mes valises",
+            "A et B"
+          ],
+          "correct": 3,
+          "explanation": "Les deux premières expriment une action en cours."
+        },
+        {
+          "question": "Comment dit-on 'We are visiting the museum now' ?",
+          "options": [
+            "Nous visitons le musée maintenant",
+            "Nous sommes en train de visiter le musée",
+            "Nous allons visiter le musée",
+            "A et B"
+          ],
+          "correct": 3,
+          "explanation": "Les deux premières expriment l'action en cours."
+        }
+      ]
+    },
+    {
+      "name": "Pronom 'on' et activités",
+      "questions": [
+        {
+          "question": "Quand utilise-t-on 'on' à la place de 'nous' ?",
+          "options": [
+            "Dans un registre familier",
+            "Dans un discours formel",
+            "À l'écrit seulement",
+            "Jamais"
+          ],
+          "correct": 0,
+          "explanation": "'On' remplace souvent 'nous' dans le langage courant."
+        },
+        {
+          "question": "Comment dit-on 'We go camping every summer' en utilisant 'on' ?",
+          "options": [
+            "On va camper chaque été",
+            "On fait du camping chaque été",
+            "On part en camping chaque été",
+            "Toutes ces réponses"
+          ],
+          "correct": 3,
+          "explanation": "Toutes ces formulations sont correctes."
+        },
+        {
+          "question": "Quelle phrase montre une utilisation incorrecte de 'on' ?",
+          "options": [
+            "On a visité le musée hier",
+            "On est allé à la plage",
+            "On vous a attendu longtemps",
+            "On est contents de notre visite"
+          ],
+          "correct": 2,
+          "explanation": "L'accord devrait être 'On vous a attendus' (COD placé avant)."
+        },
+        {
+          "question": "Comment dit-on 'People say it's beautiful here' ?",
+          "options": [
+            "On dit que c'est beau ici",
+            "Nous disons que c'est beau ici",
+            "Ils disent que c'est beau ici",
+            "Vous dites que c'est beau ici"
+          ],
+          "correct": 0,
+          "explanation": "'On' a ici une valeur générale."
+        },
+        {
+          "question": "Quelle est la valeur de 'on' dans 'On se voit demain' ?",
+          "options": [
+            "Générale",
+            "Remplace 'nous'",
+            "Impersonnelle",
+            "Indéfinie"
+          ],
+          "correct": 1,
+          "explanation": "Ici 'on' remplace 'nous' dans un registre familier."
+        }
+      ]
+    }
+  ]
+}

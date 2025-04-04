@@ -1,0 +1,364 @@
+{
+  "categories": [
+    {
+      "name": "Alimentation et goûts",
+      "questions": [
+        {
+          "question": "Comment dit-on 'I like chocolate' en français ?",
+          "options": [
+            "J'aime le chocolat",
+            "Je aime chocolat",
+            "J'aime du chocolat",
+            "J'aime chocolat"
+          ],
+          "correct": 0,
+          "explanation": "On utilise 'aimer' + article défini pour les aliments en général."
+        },
+        {
+          "question": "Quelle préposition utilise-t-on dans 'tarte ___ pommes' ?",
+          "options": [
+            "à",
+            "de",
+            "en",
+            "avec"
+          ],
+          "correct": 1,
+          "explanation": "On dit 'tarte de pommes' (mais 'tarte aux pommes' est aussi correct)."
+        },
+        {
+          "question": "Comment dit-on 'I don't eat any meat' ?",
+          "options": [
+            "Je ne mange pas de viande",
+            "Je ne mange pas la viande",
+            "Je ne mange pas une viande",
+            "Je ne mange pas viande"
+          ],
+          "correct": 0,
+          "explanation": "La quantité négative utilise 'pas de' + nom."
+        },
+        {
+          "question": "Quel article utilise-t-on devant 'eau' dans 'Je bois ___ eau' ?",
+          "options": [
+            "de l'",
+            "la",
+            "une",
+            "d'"
+          ],
+          "correct": 0,
+          "explanation": "Article partitif pour les substances indénombrables."
+        },
+        {
+          "question": "Comment dit-on 'a cup of tea' ?",
+          "options": [
+            "Une tasse de thé",
+            "Une tasse du thé",
+            "Une tasse à thé",
+            "Une tasse thé"
+          ],
+          "correct": 0,
+          "explanation": "On utilise 'de' pour exprimer la quantité."
+        }
+      ]
+    },
+    {
+      "name": "Vêtements et appréciations",
+      "questions": [
+        {
+          "question": "Comment demande-t-on 'What size are you?' ?",
+          "options": [
+            "Quelle taille fais-tu ?",
+            "Quelle taille es-tu ?",
+            "Quelle taille portes-tu ?",
+            "A et C"
+          ],
+          "correct": 3,
+          "explanation": "Les deux formulations sont correctes."
+        },
+        {
+          "question": "Comment dit-on 'I like your dress' ?",
+          "options": [
+            "J'aime ta robe",
+            "Je t'aime robe",
+            "Je aime votre robe",
+            "J'aime la robe à toi"
+          ],
+          "correct": 0,
+          "explanation": "Structure correcte avec adjectif possessif."
+        },
+        {
+          "question": "Quel pronom COD utilise-t-on dans 'Je ___ achète' (pour 'le pull') ?",
+          "options": [
+            "le",
+            "la",
+            "les",
+            "lui"
+          ],
+          "correct": 0,
+          "explanation": "'Pull' est masculin singulier."
+        },
+        {
+          "question": "Comment conseille-t-on 'You should take the blue shirt' ?",
+          "options": [
+            "Tu devrais prendre la chemise bleue",
+            "Prends la chemise bleue",
+            "Il faut que tu prennes la chemise bleue",
+            "Toutes ces réponses"
+          ],
+          "correct": 3,
+          "explanation": "Toutes ces formulations expriment un conseil."
+        },
+        {
+          "question": "Comment dit-on 'These shoes don't fit me' ?",
+          "options": [
+            "Ces chaussures ne me vont pas",
+            "Ces chaussures ne sont pas à moi",
+            "Je ne prends pas ces chaussures",
+            "Ces chaussures ne me pas"
+          ],
+          "correct": 0,
+          "explanation": "'Aller à' pour parler de la taille qui convient."
+        }
+      ]
+    },
+    {
+      "name": "Cadeaux et objets",
+      "questions": [
+        {
+          "question": "Comment dit-on 'I give him a book' avec un pronom COI ?",
+          "options": [
+            "Je lui donne un livre",
+            "Je le donne un livre",
+            "Je donne lui un livre",
+            "Je lui donne livre"
+          ],
+          "correct": 0,
+          "explanation": "'Lui' est le pronom COI pour 'à lui'."
+        },
+        {
+          "question": "Quel pronom relatif utilise-t-on dans 'Le cadeau ___ j'ai choisi' ?",
+          "options": [
+            "qui",
+            "que",
+            "où",
+            "dont"
+          ],
+          "correct": 1,
+          "explanation": "'Que' car le cadeau est COD du verbe 'choisir'."
+        },
+        {
+          "question": "Comment caractérise-t-on un objet utile ?",
+          "options": [
+            "C'est un objet qui sert à...",
+            "C'est un objet que utile",
+            "C'est un objet dont utile",
+            "C'est un objet à utile"
+          ],
+          "correct": 0,
+          "explanation": "Structure correcte avec 'qui sert à'."
+        },
+        {
+          "question": "Comment dit-on 'The gift that pleases me' ?",
+          "options": [
+            "Le cadeau qui me plaît",
+            "Le cadeau que me plaît",
+            "Le cadeau dont me plaît",
+            "Le cadeau plaît me"
+          ],
+          "correct": 0,
+          "explanation": "'Qui' car c'est le sujet de 'plaît'."
+        },
+        {
+          "question": "Comment dit-on 'I'm buying it for her' avec des pronoms ?",
+          "options": [
+            "Je le lui achète",
+            "Je lui l'achète",
+            "Je achète le lui",
+            "Je lui achète le"
+          ],
+          "correct": 0,
+          "explanation": "Ordre correct : pronom COD + pronom COI."
+        }
+      ]
+    },
+    {
+      "name": "Articles partitifs",
+      "questions": [
+        {
+          "question": "Quel article utilise-t-on devant 'fromage' dans 'Je mange ___ fromage' ?",
+          "options": [
+            "le",
+            "du",
+            "un",
+            "de"
+          ],
+          "correct": 1,
+          "explanation": "Article partitif pour une partie indéterminée."
+        },
+        {
+          "question": "Comment dit-on 'some water' en français ?",
+          "options": [
+            "de l'eau",
+            "la eau",
+            "une eau",
+            "des eaux"
+          ],
+          "correct": 0,
+          "explanation": "Article partitif pour les substances indénombrables."
+        },
+        {
+          "question": "Que devient 'du' dans une phrase négative ?",
+          "options": [
+            "de",
+            "pas de",
+            "pas du",
+            "ne pas de"
+          ],
+          "correct": 1,
+          "explanation": "Ex: 'Je ne mange pas de fromage'."
+        },
+        {
+          "question": "Comment dit-on 'I want some bread' ?",
+          "options": [
+            "Je veux du pain",
+            "Je veux le pain",
+            "Je veux un pain",
+            "Je veux de pain"
+          ],
+          "correct": 0,
+          "explanation": "Article partitif pour une quantité indéterminée."
+        },
+        {
+          "question": "Quelle phrase est correcte ?",
+          "options": [
+            "Je prends des frites",
+            "Je prends de frites",
+            "Je prends les frites",
+            "Je prends frites"
+          ],
+          "correct": 0,
+          "explanation": "Article indéfini pluriel pour des éléments dénombrables."
+        }
+      ]
+    },
+    {
+      "name": "Pronoms COD/COI",
+      "questions": [
+        {
+          "question": "Quel pronom COD utilise-t-on pour remplacer 'les fleurs' ?",
+          "options": [
+            "le",
+            "la",
+            "les",
+            "leur"
+          ],
+          "correct": 2,
+          "explanation": "'Les' pour un pluriel quel que soit le genre."
+        },
+        {
+          "question": "Comment dit-on 'I see her' avec un pronom ?",
+          "options": [
+            "Je la vois",
+            "Je lui vois",
+            "Je vois elle",
+            "Je la voir"
+          ],
+          "correct": 0,
+          "explanation": "'La' pour un COD féminin singulier."
+        },
+        {
+          "question": "Où place-t-on les pronoms dans 'Je ___ ___ donne' (les fleurs à Marie) ?",
+          "options": [
+            "les lui",
+            "lui les",
+            "les leur",
+            "leur les"
+          ],
+          "correct": 0,
+          "explanation": "Ordre : COD avant COI."
+        },
+        {
+          "question": "Comment dit-on 'He speaks to them' avec des pronoms ?",
+          "options": [
+            "Il leur parle",
+            "Il les parle",
+            "Il parle eux",
+            "Il parle leur"
+          ],
+          "correct": 0,
+          "explanation": "'Leur' pour un COI pluriel."
+        },
+        {
+          "question": "Quelle phrase contient une erreur de pronom ?",
+          "options": [
+            "Je le lui donne",
+            "Je la leur montre",
+            "Je leur la donne",
+            "Je les leur prête"
+          ],
+          "correct": 2,
+          "explanation": "L'ordre devrait être 'Je la leur donne'."
+        }
+      ]
+    },
+    {
+      "name": "Menus et plats",
+      "questions": [
+        {
+          "question": "Quelle préposition utilise-t-on dans 'crème ___ caramel' ?",
+          "options": [
+            "à",
+            "de",
+            "en",
+            "au"
+          ],
+          "correct": 1,
+          "explanation": "On dit 'crème de caramel'."
+        },
+        {
+          "question": "Comment écrit-on 'beef with vegetables' au menu ?",
+          "options": [
+            "Bœuf aux légumes",
+            "Bœuf avec légumes",
+            "Bœuf de légumes",
+            "Bœuf et légumes"
+          ],
+          "correct": 0,
+          "explanation": "Préposition 'à' contractée en 'aux' pour les accompagnements."
+        },
+        {
+          "question": "Quelle section trouve-t-on généralement en premier dans un menu ?",
+          "options": [
+            "Les desserts",
+            "Les entrées",
+            "Les plats principaux",
+            "Les boissons"
+          ],
+          "correct": 1,
+          "explanation": "Les entrées viennent en premier dans un menu français."
+        },
+        {
+          "question": "Comment dit-on 'homemade pie' au menu ?",
+          "options": [
+            "Tarte maison",
+            "Tarte de maison",
+            "Tarte à la maison",
+            "Tarte fait maison"
+          ],
+          "correct": 0,
+          "explanation": "'Maison' se place après le nom sans préposition."
+        },
+        {
+          "question": "Que signifie 'plat du jour' ?",
+          "options": [
+            "Plat du chef",
+            "Plat du marché",
+            "Plat du moment",
+            "Plat du jour"
+          ],
+          "correct": 3,
+          "explanation": "Littéralement 'plat du jour', spécialité quotidienne."
+        }
+      ]
+    }
+  ]
+}

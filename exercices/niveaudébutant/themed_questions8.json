@@ -1,0 +1,364 @@
+{
+  "categories": [
+    {
+      "name": "Courses et quantités",
+      "questions": [
+        {
+          "question": "Comment dit-on 'a kilo of apples' en français ?",
+          "options": [
+            "Un kilo de pommes",
+            "Un kilo des pommes",
+            "Un kilo à pommes",
+            "Un kilo pommes"
+          ],
+          "correct": 0,
+          "explanation": "On utilise 'de' pour exprimer une quantité précise."
+        },
+        {
+          "question": "Comment utilise-t-on 'en' dans 'Vous avez du lait ? Oui, j'___ ai' ?",
+          "options": [
+            "en",
+            "le",
+            "la",
+            "y"
+          ],
+          "correct": 0,
+          "explanation": "'En' remplace les noms précédés d'un article partitif."
+        },
+        {
+          "question": "Quelle phrase exprime une quantité précise ?",
+          "options": [
+            "Je veux des bananes",
+            "Je veux trois bananes",
+            "Je veux de bananes",
+            "Je veux les bananes"
+          ],
+          "correct": 1,
+          "explanation": "'Trois' indique une quantité précise."
+        },
+        {
+          "question": "Comment caractérise-t-on un produit 'bio' ?",
+          "options": [
+            "Des œufs bio",
+            "Des œufs à bio",
+            "Des œufs de bio",
+            "Des œufs en bio"
+          ],
+          "correct": 0,
+          "explanation": "L'adjectif 'bio' se place après le nom."
+        },
+        {
+          "question": "Comment dit-on 'some' dans 'I want some bread' ?",
+          "options": [
+            "du",
+            "de la",
+            "des",
+            "A et B"
+          ],
+          "correct": 3,
+          "explanation": "Articles partitifs selon le genre du nom."
+        }
+      ]
+    },
+    {
+      "name": "Restaurants et commandes",
+      "questions": [
+        {
+          "question": "Comment dit-on 'The restaurant is full' ?",
+          "options": [
+            "Le restaurant est plein",
+            "Le restaurant est complet",
+            "Le restaurant est rempli",
+            "A et B"
+          ],
+          "correct": 3,
+          "explanation": "Les deux premières formulations sont correctes."
+        },
+        {
+          "question": "Comment propose-t-on un restaurant ?",
+          "options": [
+            "Et si on allait au restaurant italien ?",
+            "On pourrait aller au restaurant italien",
+            "Je te propose le restaurant italien",
+            "Toutes ces réponses"
+          ],
+          "correct": 3,
+          "explanation": "Toutes ces formulations sont possibles."
+        },
+        {
+          "question": "Comment dit-on 'I would like to order' ?",
+          "options": [
+            "Je voudrais commander",
+            "Je veux commander",
+            "J'aimerais commander",
+            "A et C"
+          ],
+          "correct": 3,
+          "explanation": "Le conditionnel est plus poli."
+        },
+        {
+          "question": "Comment exprime-t-on 'The dish is not hot enough' ?",
+          "options": [
+            "Le plat n'est pas assez chaud",
+            "Le plat est trop froid",
+            "Le plat est peu chaud",
+            "A et B"
+          ],
+          "correct": 0,
+          "explanation": "Construction correcte avec 'pas assez'."
+        },
+        {
+          "question": "Que signifie 'Je ne prends plus de vin' ?",
+          "options": [
+            "Je ne prends pas de vin",
+            "Je ne prends jamais de vin",
+            "Je ne prends pas encore de vin",
+            "Je ne prends pas de vin maintenant (alors qu'avant oui)"
+          ],
+          "correct": 3,
+          "explanation": "'Ne... plus' indique la cessation d'une action."
+        }
+      ]
+    },
+    {
+      "name": "Comparaisons et souvenirs",
+      "questions": [
+        {
+          "question": "Comment dit-on 'When I was young, I played football' ?",
+          "options": [
+            "Quand j'étais jeune, je jouais au football",
+            "Quand j'ai été jeune, j'ai joué au football",
+            "Quand j'étais jeune, je joue au football",
+            "Quand je suis jeune, je jouais au football"
+          ],
+          "correct": 0,
+          "explanation": "Imparfait pour une habitude passée."
+        },
+        {
+          "question": "Comment dit-on 'Before, there weren't any shops here' ?",
+          "options": [
+            "Avant, il n'y avait pas de magasins ici",
+            "Avant, il n'y a pas eu de magasins ici",
+            "Avant, il n'y a pas de magasins ici",
+            "Avant, il n'y avait pas des magasins ici"
+          ],
+          "correct": 0,
+          "explanation": "Imparfait avec négation correcte."
+        },
+        {
+          "question": "Comment compare-t-on deux villes ?",
+          "options": [
+            "Paris est plus grand que Lyon",
+            "Paris est le plus grand que Lyon",
+            "Paris est très grand que Lyon",
+            "Paris est aussi grand comme Lyon"
+          ],
+          "correct": 0,
+          "explanation": "Structure comparative correcte."
+        },
+        {
+          "question": "Que signifie 'Je ne mange que des légumes' ?",
+          "options": [
+            "Je ne mange pas de légumes",
+            "Je mange seulement des légumes",
+            "Je ne mange plus de légumes",
+            "Je mange beaucoup de légumes"
+          ],
+          "correct": 1,
+          "explanation": "'Ne... que' exprime la restriction."
+        },
+        {
+          "question": "Comment dit-on 'I don't eat meat either' ?",
+          "options": [
+            "Je ne mange pas de viande non plus",
+            "Je ne mange plus de viande",
+            "Je ne mange que de la viande",
+            "Je ne mange pas aussi de viande"
+          ],
+          "correct": 0,
+          "explanation": "'Non plus' pour l'accord négatif."
+        }
+      ]
+    },
+    {
+      "name": "Adjectifs et négations",
+      "questions": [
+        {
+          "question": "Où place-t-on 'ancien' quand il signifie 'former' ?",
+          "options": [
+            "Avant le nom",
+            "Après le nom",
+            "Les deux sont possibles",
+            "Cela dépend du contexte"
+          ],
+          "correct": 0,
+          "explanation": "Ex: 'Mon ancien professeur' (mon ex-professeur)."
+        },
+        {
+          "question": "Comment dit-on 'The food is too salty' ?",
+          "options": [
+            "La nourriture est trop salée",
+            "La nourriture est très salée",
+            "La nourriture est assez salée",
+            "La nourriture est plus salée"
+          ],
+          "correct": 0,
+          "explanation": "'Trop' exprime l'excès."
+        },
+        {
+          "question": "Comment forme-t-on la négation avec 'ne... plus' ?",
+          "options": [
+            "Je ne mange plus de viande",
+            "Je ne plus mange de viande",
+            "Je mange plus de viande",
+            "Je ne mange de viande plus"
+          ],
+          "correct": 0,
+          "explanation": "Placement correct des éléments de la négation."
+        },
+        {
+          "question": "Comment dit-on 'There isn't enough light' ?",
+          "options": [
+            "Il n'y a pas assez de lumière",
+            "Il y a trop de lumière",
+            "Il y a assez de lumière",
+            "Il n'y a plus de lumière"
+          ],
+          "correct": 0,
+          "explanation": "Construction correcte avec 'pas assez'."
+        },
+        {
+          "question": "Que signifie 'Je ne bois que de l'eau' ?",
+          "options": [
+            "Je ne bois pas d'eau",
+            "Je bois seulement de l'eau",
+            "Je bois beaucoup d'eau",
+            "Je ne bois plus d'eau"
+          ],
+          "correct": 1,
+          "explanation": "'Ne... que' exprime la restriction."
+        }
+      ]
+    },
+    {
+      "name": "Expressions de quantité",
+      "questions": [
+        {
+          "question": "Comment dit-on 'too much sugar' ?",
+          "options": [
+            "Trop de sucre",
+            "Trop du sucre",
+            "Trop sucre",
+            "Trop le sucre"
+          ],
+          "correct": 0,
+          "explanation": "'Trop de' + nom sans article."
+        },
+        {
+          "question": "Comment dit-on 'enough bread' ?",
+          "options": [
+            "Assez de pain",
+            "Assez du pain",
+            "Assez pain",
+            "Assez le pain"
+          ],
+          "correct": 0,
+          "explanation": "'Assez de' + nom sans article."
+        },
+        {
+          "question": "Comment dit-on 'I don't have any more money' ?",
+          "options": [
+            "Je n'ai plus d'argent",
+            "Je n'ai pas d'argent",
+            "Je n'ai jamais d'argent",
+            "Je n'ai pas encore d'argent"
+          ],
+          "correct": 0,
+          "explanation": "'Ne... plus' pour exprimer la cessation."
+        },
+        {
+          "question": "Comment dit-on 'not enough time' ?",
+          "options": [
+            "Pas assez de temps",
+            "Pas de assez temps",
+            "Pas assez temps",
+            "Pas assez du temps"
+          ],
+          "correct": 0,
+          "explanation": "Construction correcte avec 'pas assez de'."
+        },
+        {
+          "question": "Que signifie 'Il ne reste que deux pommes' ?",
+          "options": [
+            "Il ne reste pas deux pommes",
+            "Il reste exactement deux pommes",
+            "Il reste plus de deux pommes",
+            "Il reste moins de deux pommes"
+          ],
+          "correct": 1,
+          "explanation": "'Ne... que' exprime la restriction."
+        }
+      ]
+    },
+    {
+      "name": "Imparfait et présent",
+      "questions": [
+        {
+          "question": "Conjuguez 'être' à l'imparfait pour 'nous'",
+          "options": [
+            "Nous étions",
+            "Nous sommes",
+            "Nous étions",
+            "Nous serions"
+          ],
+          "correct": 0,
+          "explanation": "Conjugaison correcte de l'imparfait."
+        },
+        {
+          "question": "Comment dit-on 'Before, I lived in Paris' ?",
+          "options": [
+            "Avant, je vivais à Paris",
+            "Avant, j'ai vécu à Paris",
+            "Avant, je vis à Paris",
+            "Avant, je vécus à Paris"
+          ],
+          "correct": 0,
+          "explanation": "Imparfait pour une situation passée durable."
+        },
+        {
+          "question": "Comment compare-t-on avec 'more... than' ?",
+          "options": [
+            "plus... que",
+            "plus... de",
+            "très... que",
+            "beaucoup... que"
+          ],
+          "correct": 0,
+          "explanation": "Structure comparative correcte."
+        },
+        {
+          "question": "Comment dit-on 'Now I live in Lyon' ?",
+          "options": [
+            "Maintenant, je vis à Lyon",
+            "Maintenant, je vivais à Lyon",
+            "Maintenant, j'ai vécu à Lyon",
+            "Maintenant, je vécus à Lyon"
+          ],
+          "correct": 0,
+          "explanation": "Présent pour la situation actuelle."
+        },
+        {
+          "question": "Que signifie 'Autrefois, les magasins fermaient le dimanche' ?",
+          "options": [
+            "Les magasins ferment toujours le dimanche",
+            "Les magasins fermaient le dimanche dans le passé",
+            "Les magasins vont fermer le dimanche",
+            "Les magasins ont fermé le dimanche une fois"
+          ],
+          "correct": 1,
+          "explanation": "Imparfait pour une habitude passée."
+        }
+      ]
+    }
+  ]
+}
