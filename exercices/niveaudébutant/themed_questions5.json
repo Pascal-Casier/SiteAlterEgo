@@ -1,0 +1,214 @@
+{
+  "categories": [
+    {
+      "name": "Questionnement et enquêtes",
+      "questions": [
+        {
+          "question": "Quelle phrase est une question ouverte ?",
+          "options": ["Tu aimes le chocolat ?", "Quels sports pratiques-tu ?", "Est-ce que tu viens ?", "Vous partez quand ?"],
+          "correct": 1,
+          "explanation": "Une question ouverte appelle une réponse développée."
+        },
+        {
+          "question": "Comment dit-on 'At my place' en français ?",
+          "options": ["Chez moi", "À ma maison", "Dans mon endroit", "Sur ma place"],
+          "correct": 0,
+          "explanation": "'Chez + pronom tonique' est l'expression correcte."
+        },
+        {
+          "question": "Conjuguez 'essayer' à 'nous'",
+          "options": ["Nous essayons", "Nous essions", "Nous essayons", "Nous essons"],
+          "correct": 0,
+          "explanation": "Les verbes en -yer gardent le y devant un o."
+        },
+        {
+          "question": "Que signifie 'On dit que...' ?",
+          "options": ["Je dis que...", "Tu dis que...", "Les gens disent que...", "Nous disons que..."],
+          "correct": 2,
+          "explanation": "'On' a ici une valeur générale."
+        },
+        {
+          "question": "Quelle phrase contient un verbe pronominal réciproque ?",
+          "options": ["Ils se téléphonent", "Elle se réveille", "Je me lave", "Tu t'habilles"],
+          "correct": 0,
+          "explanation": "'Se téléphoner' implique une action réciproque."
+        }
+      ]
+    },
+    {
+      "name": "Communication téléphonique et conseils",
+      "questions": [
+        {
+          "question": "Comment répond-on au téléphone poliment ?",
+          "options": ["Oui ?", "Allô ?", "Bonjour, j'écoute", "Toutes ces réponses"],
+          "correct": 3,
+          "explanation": "Toutes ces formulations sont utilisées."
+        },
+        {
+          "question": "Comment dit-on 'I just called' ?",
+          "options": ["Je viens d'appeler", "J'ai juste appelé", "Je suis appelé", "J'appelais"],
+          "correct": 0,
+          "explanation": "Le passé récent se forme avec 'venir de'."
+        },
+        {
+          "question": "Quelle phrase donne un conseil ?",
+          "options": ["Tu dois te reposer", "Repose-toi", "Il faut que tu te reposes", "Toutes ces réponses"],
+          "correct": 3,
+          "explanation": "Toutes ces formulations expriment un conseil."
+        },
+        {
+          "question": "Conjuguez 's'asseoir' à l'impératif (tu)",
+          "options": ["Assieds-toi", "Assois-toi", "Assit-toi", "A ou B"],
+          "correct": 3,
+          "explanation": "Les deux formes sont acceptées."
+        },
+        {
+          "question": "Comment dit-on 'We're going to leave soon' ?",
+          "options": ["Nous allons partir bientôt", "Nous venons de partir", "Nous partons bientôt", "Nous partirons bientôt"],
+          "correct": 0,
+          "explanation": "Futur proche avec 'aller + infinitif'."
+        }
+      ]
+    },
+    {
+      "name": "Description et ressemblances",
+      "questions": [
+        {
+          "question": "Comment dit-on 'He is tall' ?",
+          "options": ["C'est grand", "Il est grand", "Il a grand", "Il fait grand"],
+          "correct": 1,
+          "explanation": "Pour les caractéristiques physiques permanentes."
+        },
+        {
+          "question": "Quelle phrase décrit correctement ?",
+          "options": ["Elle a les yeux bleus", "Elle est les yeux bleus", "Elle fait les yeux bleus", "Elle porte les yeux bleus"],
+          "correct": 0,
+          "explanation": "On utilise 'avoir' pour les parties du corps."
+        },
+        {
+          "question": "Comment dit-on 'She looks like her mother' ?",
+          "options": ["Elle ressemble à sa mère", "Elle semble sa mère", "Elle paraît sa mère", "Elle voit sa mère"],
+          "correct": 0,
+          "explanation": "'Ressembler à' est le verbe correct."
+        },
+        {
+          "question": "Quand utilise-t-on 'C'est' pour une personne ?",
+          "options": ["Pour décrire", "Pour identifier", "Pour le métier", "Jamais"],
+          "correct": 1,
+          "explanation": "Ex: C'est mon frère (identification)."
+        },
+        {
+          "question": "Comment dit-on 'They met in 2010' ?",
+          "options": ["Ils se sont rencontrés en 2010", "Ils ont rencontré en 2010", "Ils se rencontraient en 2010", "Ils rencontraient en 2010"],
+          "correct": 0,
+          "explanation": "Verbe pronominal au passé composé avec 'être'."
+        }
+      ]
+    },
+    {
+      "name": "Passé composé et biographies",
+      "questions": [
+        {
+          "question": "Quel auxiliaire utilise-t-on avec 'se souvenir' ?",
+          "options": ["Avoir", "Être", "Les deux", "Aucun"],
+          "correct": 0,
+          "explanation": "Les verbes pronominaux de sens non réfléchi utilisent 'avoir'."
+        },
+        {
+          "question": "Comment dit-on 'We got married' ?",
+          "options": ["Nous avons marié", "Nous nous sommes mariés", "Nous sommes mariés", "Nous avons nous mariés"],
+          "correct": 1,
+          "explanation": "Verbe pronominal réciproque avec 'être'."
+        },
+        {
+          "question": "Quelle phrase est correcte ?",
+          "options": ["Elle est née à Paris", "Elle a née à Paris", "Elle est né à Paris", "Elle a né à Paris"],
+          "correct": 0,
+          "explanation": "'Naître' utilise 'être' et s'accorde."
+        },
+        {
+          "question": "Comment dit-on 'He went down' ?",
+          "options": ["Il a descendu", "Il est descendu", "Il a descendu", "Il est descendu"],
+          "correct": 3,
+          "explanation": "'Descendre' utilisé intransitivement prend 'être'."
+        },
+        {
+          "question": "Comment traduire 'They met at school' ?",
+          "options": ["Ils se sont rencontrés à l'école", "Ils ont rencontré à l'école", "Ils sont rencontrés à l'école", "Ils se ont rencontré à l'école"],
+          "correct": 0,
+          "explanation": "Verbe pronominal réciproque correctement conjugué."
+        }
+      ]
+    },
+    {
+      "name": "Rituels et traditions",
+      "questions": [
+        {
+          "question": "Comment dit-on 'Christmas Eve' en français ?",
+          "options": ["La veille de Noël", "Le soir de Noël", "La nuit de Noël", "L'avant de Noël"],
+          "correct": 0,
+          "explanation": "Traduction exacte de 'Christmas Eve'."
+        },
+        {
+          "question": "Quelle phrase décrit une tradition ?",
+          "options": ["Nous allons au marché de Noël", "Nous sommes allés au marché", "Nous irons au marché", "Nous allions au marché"],
+          "correct": 0,
+          "explanation": "Le présent d'habitude décrit des traditions."
+        },
+        {
+          "question": "Comment dit-on 'We kiss under the mistletoe' ?",
+          "options": ["On s'embrasse sous le gui", "Nous embrassons sous le gui", "On embrasse sous le gui", "Nous s'embrassons sous le gui"],
+          "correct": 0,
+          "explanation": "Verbe pronominal réciproque correct."
+        },
+        {
+          "question": "Que signifie 'faire la bise' ?",
+          "options": ["Faire un bisou", "Se serrer la main", "Se faire un cadeau", "Se dire bonjour"],
+          "correct": 0,
+          "explanation": "Tradition française de salutation."
+        },
+        {
+          "question": "Comment dit-on 'They got engaged last year' ?",
+          "options": ["Ils se sont fiancés l'année dernière", "Ils ont fiancé l'année dernière", "Ils sont fiancés l'année dernière", "Ils se ont fiancé l'année dernière"],
+          "correct": 0,
+          "explanation": "Verbe pronominal au passé composé."
+        }
+      ]
+    },
+    {
+      "name": "Différences C'est/Il est",
+      "questions": [
+        {
+          "question": "Quelle phrase est correcte ?",
+          "options": ["C'est un médecin", "Il est un médecin", "C'est médecin", "Il est médecin"],
+          "correct": 0,
+          "explanation": "'C'est' pour identifier avec un article."
+        },
+        {
+          "question": "Comment dit-on 'He is Italian' ?",
+          "options": ["C'est italien", "Il est italien", "C'est un italien", "Il est un italien"],
+          "correct": 1,
+          "explanation": "Pour les nationalités sans article."
+        },
+        {
+          "question": "Quand utilise-t-on 'C'est' ?",
+          "options": ["Avec un adjectif seul", "Avec un nom précédé d'un déterminant", "Pour décrire une personne", "Pour le métier"],
+          "correct": 1,
+          "explanation": "Ex: C'est un bon professeur."
+        },
+        {
+          "question": "Comment dit-on 'It's my brother' ?",
+          "options": ["Il est mon frère", "C'est mon frère", "Il est frère", "C'est le mon frère"],
+          "correct": 1,
+          "explanation": "Pour identifier une personne spécifique."
+        },
+        {
+          "question": "Quelle phrase est correcte pour un objet ?",
+          "options": ["Il est beau", "C'est beau", "Il est un beau", "C'est un beau"],
+          "correct": 1,
+          "explanation": "Pour une appréciation générale."
+        }
+      ]
+    }
+  ]
+}

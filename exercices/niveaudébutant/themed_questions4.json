@@ -1,0 +1,214 @@
+{
+  "categories": [
+    {
+      "name": "Demander/Indiquer l'heure",
+      "questions": [
+        {
+          "question": "Comment demande-t-on l'heure poliment ?",
+          "options": ["Quelle heure est-il ?", "Il est quelle heure ?", "Donne-moi l'heure", "Tu as l'heure ?"],
+          "correct": 0,
+          "explanation": "Formulation la plus polie et standard."
+        },
+        {
+          "question": "Comment dit-on 'It's 3:15 PM' ?",
+          "options": ["Il est quinze heures quinze", "Il est trois heures et quart", "Il est trois heures quinze", "B et C"],
+          "correct": 3,
+          "explanation": "Les deux formulations sont correctes."
+        },
+        {
+          "question": "Quelle phrase indique 7:45 AM ?",
+          "options": ["Il est huit heures moins le quart", "Il est sept heures quarante-cinq", "Il est sept heures trois quarts", "A et B"],
+          "correct": 3,
+          "explanation": "Les deux premières formulations sont utilisées."
+        },
+        {
+          "question": "Comment dit-on 'The shop opens at 9:00' ?",
+          "options": ["Le magasin ouvre à neuf heures", "Le magasin ouvre en neuf heures", "Le magasin ouvre sur neuf heures", "Le magasin ouvre neuf heures"],
+          "correct": 0,
+          "explanation": "On utilise 'à' pour les horaires."
+        },
+        {
+          "question": "Quelle phrase demande les horaires d'ouverture ?",
+          "options": ["Quand est-ce que vous ouvrez ?", "Quels sont vos horaires ?", "À quelle heure vous ouvrez ?", "Toutes ces réponses"],
+          "correct": 3,
+          "explanation": "Toutes ces formulations sont correctes."
+        }
+      ]
+    },
+    {
+      "name": "Exprimer une obligation",
+      "questions": [
+        {
+          "question": "Comment dit-on 'I have to work' ?",
+          "options": ["Je dois travailler", "Il faut je travaille", "Je besoin travailler", "Je vais travailler"],
+          "correct": 0,
+          "explanation": "'Devoir' + infinitif exprime l'obligation."
+        },
+        {
+          "question": "Quelle phrase utilise correctement 'il faut' ?",
+          "options": ["Il faut que je vais", "Il faut aller", "Il faut j'irai", "Il faut de aller"],
+          "correct": 1,
+          "explanation": "'Il faut' + infinitif (sans 'que')."
+        },
+        {
+          "question": "Conjuguez 'devoir' à 'nous'",
+          "options": ["Nous devons", "Nous devont", "Nous doivons", "Nous devoir"],
+          "correct": 0,
+          "explanation": "Conjugaison correcte du verbe irrégulier."
+        },
+        {
+          "question": "Comment dit-on 'You must come' (tu) ?",
+          "options": ["Tu dois venir", "Tu deviens", "Tu doit venir", "Tu devras venir"],
+          "correct": 0,
+          "explanation": "Conjugaison correcte à la 2ème personne."
+        },
+        {
+          "question": "Quelle phrase exprime une obligation forte ?",
+          "options": ["Je devrais y aller", "Je dois absolument y aller", "J'aime y aller", "Je peux y aller"],
+          "correct": 1,
+          "explanation": "'Absolument' renforce l'obligation."
+        }
+      ]
+    },
+    {
+      "name": "Verbes pronominaux et habitudes",
+      "questions": [
+        {
+          "question": "Conjuguez 'se lever' à 'je'",
+          "options": ["Je me lève", "Je me lever", "Je me lève", "Je me lèves"],
+          "correct": 0,
+          "explanation": "Conjugaison correcte avec le pronom réfléchi."
+        },
+        {
+          "question": "Comment dit-on 'We get up early' ?",
+          "options": ["Nous se levons tôt", "Nous nous levons tôt", "Nous levons tôt", "Nous nous lever tôt"],
+          "correct": 1,
+          "explanation": "Pronom réfléchi 'nous' correspondant au sujet."
+        },
+        {
+          "question": "Quelle phrase décrit une habitude ?",
+          "options": ["Je vais au cinéma demain", "Je vais souvent au cinéma", "Je suis allé au cinéma", "J'irai au cinéma"],
+          "correct": 1,
+          "explanation": "'Souvent' indique une habitude."
+        },
+        {
+          "question": "Comment dit-on 'I brush my teeth' ?",
+          "options": ["Je me brosse les dents", "Je brosse mes dents", "Je brosse les dents", "A et C"],
+          "correct": 3,
+          "explanation": "Les deux formulations sont utilisées."
+        },
+        {
+          "question": "Quel adverbe exprime la régularité ?",
+          "options": ["Hier", "Souvent", "Demain", "Bientôt"],
+          "correct": 1,
+          "explanation": "'Souvent' indique une action répétée."
+        }
+      ]
+    },
+    {
+      "name": "Propositions et rendez-vous",
+      "questions": [
+        {
+          "question": "Comment propose-t-on une sortie ?",
+          "options": ["On va au cinéma ?", "Tu veux aller au cinéma ?", "Si on allait au cinéma ?", "Toutes ces réponses"],
+          "correct": 3,
+          "explanation": "Toutes ces formulations sont possibles."
+        },
+        {
+          "question": "Comment accepte-t-on poliment ?",
+          "options": ["Oui", "Avec plaisir", "Volontiers", "B et C"],
+          "correct": 3,
+          "explanation": "Les réponses B et C sont plus polies."
+        },
+        {
+          "question": "Comment dit-on 'Let's meet at 8:00' ?",
+          "options": ["On se voit à huit heures", "Nous rencontrons à huit heures", "On rencontre à huit heures", "On voit à huit heures"],
+          "correct": 0,
+          "explanation": "'Se voir' est l'expression naturelle."
+        },
+        {
+          "question": "Quelle phrase est un refus poli ?",
+          "options": ["Non", "Désolé, je ne peux pas", "Je ne veux pas", "Pas question"],
+          "correct": 1,
+          "explanation": "Formulation la plus polie."
+        },
+        {
+          "question": "Comment dit-on 'Would you like to come?' ?",
+          "options": ["Tu veux venir ?", "Tu aimerais venir ?", "Viens-tu ?", "Tu peux venir ?"],
+          "correct": 1,
+          "explanation": "Le conditionnel est plus poli."
+        }
+      ]
+    },
+    {
+      "name": "Impératif et futur proche",
+      "questions": [
+        {
+          "question": "Quelle est la forme impérative de 'prendre' (tu) ?",
+          "options": ["Prends", "Prend", "Prennes", "Prendre"],
+          "correct": 0,
+          "explanation": "Impératif de la 2ème personne du singulier."
+        },
+        {
+          "question": "Comment dit-on 'Let's go!' ?",
+          "options": ["Allons-y !", "Va !", "Allez !", "On y va !"],
+          "correct": 0,
+          "explanation": "Impératif à la 1ère personne du pluriel."
+        },
+        {
+          "question": "Comment forme-t-on le futur proche ?",
+          "options": ["Aller + infinitif", "Avoir + infinitif", "Être + infinitif", "Faire + infinitif"],
+          "correct": 0,
+          "explanation": "Construction avec 'aller' + infinitif."
+        },
+        {
+          "question": "Comment dit-on 'I'm going to eat' ?",
+          "options": ["Je vais manger", "Je vas manger", "Je aller manger", "Je vais mangé"],
+          "correct": 0,
+          "explanation": "Conjugaison correcte de 'aller'."
+        },
+        {
+          "question": "Quelle phrase est à l'impératif ?",
+          "options": ["Tu viens", "Viens", "Vous venez", "Il vient"],
+          "correct": 1,
+          "explanation": "Forme impérative du verbe 'venir'."
+        }
+      ]
+    },
+    {
+      "name": "Passé composé et récits",
+      "questions": [
+        {
+          "question": "Quel auxiliaire utilise-t-on avec 'arriver' ?",
+          "options": ["Avoir", "Être", "Les deux", "Aucun"],
+          "correct": 1,
+          "explanation": "Les verbes de mouvement utilisent 'être'."
+        },
+        {
+          "question": "Comment dit-on 'I ate' ?",
+          "options": ["J'ai mangé", "Je suis mangé", "J'ai manger", "Je mangeais"],
+          "correct": 0,
+          "explanation": "Construction avec 'avoir' + participe passé."
+        },
+        {
+          "question": "Où place-t-on 'pas' dans la négation au passé composé ?",
+          "options": ["Avant l'auxiliaire", "Après l'auxiliaire", "Avant le participe", "Après le participe"],
+          "correct": 1,
+          "explanation": "Ex: Je n'ai pas mangé."
+        },
+        {
+          "question": "Comment dit-on 'We went out' ?",
+          "options": ["Nous avons sorti", "Nous sommes sortis", "Nous sommes sorti", "Nous avons sortis"],
+          "correct": 1,
+          "explanation": "'Sortir' utilise 'être' et s'accorde."
+        },
+        {
+          "question": "Quelle expression indique un moment ponctuel ?",
+          "options": ["Hier", "Souvent", "Toujours", "D'habitude"],
+          "correct": 0,
+          "explanation": "'Hier' indique une action unique dans le passé."
+        }
+      ]
+    }
+  ]
+}

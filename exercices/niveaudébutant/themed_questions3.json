@@ -1,0 +1,214 @@
+{
+  "categories": [
+    {
+      "name": "Parler de ses goûts (1) et activités",
+      "questions": [
+        {
+          "question": "Comment dit-on 'I like music' en français ?",
+          "options": ["J'aime la musique", "Je like musique", "Je aime de musique", "J'aime musique"],
+          "correct": 0,
+          "explanation": "On utilise 'aimer' + article défini pour les goûts généraux."
+        },
+        {
+          "question": "Quelle phrase exprime une préférence forte ?",
+          "options": ["J'aime le cinéma", "J'adore le cinéma", "Je connais le cinéma", "Je vois le cinéma"],
+          "correct": 1,
+          "explanation": "'Adorer' exprime un goût plus fort qu'aimer."
+        },
+        {
+          "question": "Comment dit-on 'I hate spinach' ?",
+          "options": ["Je déteste les épinards", "Je n'aime pas les épinards", "Je refuse les épinards", "Je hais les épinards"],
+          "correct": 0,
+          "explanation": "'Détester' est le verbe courant pour exprimer la haine."
+        },
+        {
+          "question": "Comment dit-on 'I like to dance' ?",
+          "options": ["J'aime danser", "J'aime de danser", "J'aime la danse", "J'aime à danser"],
+          "correct": 0,
+          "explanation": "Aimer + infinitif (sans préposition)."
+        },
+        {
+          "question": "Quelle phrase est correcte pour un hobby ?",
+          "options": ["Je fais de la photographie", "Je fais la photographie", "Je fais des photographies", "Je fais photographie"],
+          "correct": 0,
+          "explanation": "On utilise 'faire de + activité' pour les loisirs."
+        }
+      ]
+    },
+    {
+      "name": "Le verbe faire et articles contractés",
+      "questions": [
+        {
+          "question": "Conjuguez 'faire' à 'nous'",
+          "options": ["Nous faisons", "Nous fait", "Nous fais", "Nous faire"],
+          "correct": 0,
+          "explanation": "Conjugaison irrégulière : nous faisons."
+        },
+        {
+          "question": "Comment dit-on 'I do sports' ?",
+          "options": ["Je fais du sport", "Je fais le sport", "Je fais de sport", "Je fais sport"],
+          "correct": 0,
+          "explanation": "Article contracté 'du' = de + le."
+        },
+        {
+          "question": "Comment dit-on 'We go to the swimming pool' ?",
+          "options": ["Nous allons à la piscine", "Nous allons en piscine", "Nous allons piscine", "Nous allons de la piscine"],
+          "correct": 0,
+          "explanation": "On utilise 'à + article' pour les lieux spécifiques."
+        },
+        {
+          "question": "Quelle phrase utilise correctement 'faire' ?",
+          "options": ["Je fais mes devoirs", "Je fais de mes devoirs", "Je fais les devoirs", "Je fais des devoirs"],
+          "correct": 0,
+          "explanation": "'Faire ses devoirs' est l'expression correcte."
+        },
+        {
+          "question": "Comment dit-on 'They do gardening' ?",
+          "options": ["Ils font du jardinage", "Ils font le jardinage", "Ils font de jardinage", "Ils font au jardinage"],
+          "correct": 0,
+          "explanation": "Article contracté 'du' pour les activités."
+        }
+      ]
+    },
+    {
+      "name": "Masculin/féminin des professions",
+      "questions": [
+        {
+          "question": "Quelle est la forme féminine de 'boulanger' ?",
+          "options": ["Boulangère", "Boulangeuse", "Boulangesse", "Boulangère"],
+          "correct": 0,
+          "explanation": "Terminaison en -ère pour ce métier."
+        },
+        {
+          "question": "Comment dit-on 'She is a doctor' ?",
+          "options": ["Elle est médecin", "Elle est une médecin", "Elle est docteure", "Elle est doctoresse"],
+          "correct": 0,
+          "explanation": "Certains métiers comme 'médecin' sont épicènes."
+        },
+        {
+          "question": "Quelle phrase est correcte pour une femme ?",
+          "options": ["Elle est professeur", "Elle est professeure", "Elle est une professeur", "A et B"],
+          "correct": 3,
+          "explanation": "Les deux formes sont acceptées."
+        },
+        {
+          "question": "Comment dit-on 'male nurse' ?",
+          "options": ["Infirmier", "Infirmière", "Infirmir", "Infirme"],
+          "correct": 0,
+          "explanation": "Forme masculine en -ier."
+        },
+        {
+          "question": "Quelle profession n'a pas de forme féminine ?",
+          "options": ["Écrivain", "Auteur", "Artiste", "Toutes ont une forme féminine"],
+          "correct": 3,
+          "explanation": "Tous ces métiers ont des formes féminines."
+        }
+      ]
+    },
+    {
+      "name": "Pronoms toniques et adjectifs",
+      "questions": [
+        {
+          "question": "Quel pronom tonique correspond à 'je' ?",
+          "options": ["Moi", "Toi", "Lui", "Elle"],
+          "correct": 0,
+          "explanation": "Moi est la forme tonique de je."
+        },
+        {
+          "question": "Comment dit-on 'This is for me' ?",
+          "options": ["C'est pour je", "C'est pour moi", "C'est pour j'", "C'est pour me"],
+          "correct": 1,
+          "explanation": "On utilise la forme tonique après préposition."
+        },
+        {
+          "question": "Quel est le féminin de 'petit' ?",
+          "options": ["Petite", "Petit", "Petites", "Petitesse"],
+          "correct": 0,
+          "explanation": "Ajout d'un -e au féminin."
+        },
+        {
+          "question": "Comment dit-on 'the big houses' ?",
+          "options": ["Les grandes maisons", "Les grands maisons", "La grande maison", "Le grand maison"],
+          "correct": 0,
+          "explanation": "Adjectif au féminin pluriel."
+        },
+        {
+          "question": "Quelle phrase utilise correctement un pronom tonique ?",
+          "options": ["Lui et moi allons au cinéma", "Il et je allons au cinéma", "Il et moi allons au cinéma", "Lui et je allons au cinéma"],
+          "correct": 0,
+          "explanation": "On utilise les formes toniques dans les sujets composés."
+        }
+      ]
+    },
+    {
+      "name": "Parler de sa famille",
+      "questions": [
+        {
+          "question": "Comment dit-on 'my parents' ?",
+          "options": ["Mes parents", "Mon parents", "Ma parents", "Me parents"],
+          "correct": 0,
+          "explanation": "'Parents' est toujours pluriel."
+        },
+        {
+          "question": "Quelle phrase est correcte ?",
+          "options": ["J'ai deux sœurs", "Je suis deux sœurs", "Je fais deux sœurs", "Je vais deux sœurs"],
+          "correct": 0,
+          "explanation": "On utilise 'avoir' pour parler de sa famille."
+        },
+        {
+          "question": "Comment dit-on 'our grandparents' ?",
+          "options": ["Notre grands-parents", "Nos grands-parents", "Nos grand-parents", "Notres grands-parents"],
+          "correct": 1,
+          "explanation": "Pluriel irrégulier avec -s."
+        },
+        {
+          "question": "Comment félicite-t-on pour un mariage ?",
+          "options": ["Félicitations pour ton mariage", "Bravo pour ton mariage", "Joyeux mariage", "Toutes ces réponses"],
+          "correct": 3,
+          "explanation": "Toutes ces formulations sont appropriées."
+        },
+        {
+          "question": "Comment demande-t-on des nouvelles de la famille ?",
+          "options": ["Comment va ta famille ?", "Comment est ta famille ?", "Comment sont ta famille ?", "Comment fait ta famille ?"],
+          "correct": 0,
+          "explanation": "Formulation la plus naturelle."
+        }
+      ]
+    },
+    {
+      "name": "Verbe dire et expressions",
+      "questions": [
+        {
+          "question": "Conjuguez 'dire' à 'vous'",
+          "options": ["Vous dites", "Vous disez", "Vous dit", "Vous dire"],
+          "correct": 0,
+          "explanation": "Conjugaison irrégulière : vous dites."
+        },
+        {
+          "question": "Comment dit-on 'I say hello' ?",
+          "options": ["Je dis bonjour", "Je dire bonjour", "Je dit bonjour", "Je dises bonjour"],
+          "correct": 0,
+          "explanation": "Conjugaison correcte à la 1ère personne."
+        },
+        {
+          "question": "Quelle phrase utilise correctement 'dire' ?",
+          "options": ["Je dis la vérité", "Je dis de la vérité", "Je dis à la vérité", "Je dis pour la vérité"],
+          "correct": 0,
+          "explanation": "Construction directe sans préposition."
+        },
+        {
+          "question": "Comment dit-on 'Tell me' ?",
+          "options": ["Dis-moi", "Dit-moi", "Dire-moi", "Disez-moi"],
+          "correct": 0,
+          "explanation": "Impératif de 'dire'."
+        },
+        {
+          "question": "Quelle expression signifie 'to gossip' ?",
+          "options": ["Dire des bêtises", "Dire des mots", "Dire des paroles", "Dire des cancans"],
+          "correct": 3,
+          "explanation": "'Dire des cancans' signifie potiner."
+        }
+      ]
+    }
+  ]
+}
