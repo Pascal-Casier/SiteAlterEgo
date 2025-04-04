@@ -1,0 +1,564 @@
+{
+    "categories": [
+        {
+            "name": "Saluer, prendre congé",
+            "questions": [
+                {
+                    "question": "Comment dit-on 'Good morning' en français ?",
+                    "options": ["Bonjour", "Bonsoir", "Salut", "Bonne nuit"],
+                    "correct": 0,
+                    "explanation": "'Bonjour' est la salutation standard pour la journée."
+                },
+                {
+                    "question": "Quelle expression utilise-t-on pour dire au revoir le soir ?",
+                    "options": ["Au revoir", "Bonne journée", "Bonsoir", "Bonne nuit"],
+                    "correct": 3,
+                    "explanation": "'Bonne nuit' s'utilise lorsqu'on se quitte pour la nuit."
+                },
+                {
+                    "question": "Comment répondre à 'Comment ça va ?' de manière neutre ?",
+                    "options": ["Ça va bien", "Ça va mal", "Ça va", "Super"],
+                    "correct": 2,
+                    "explanation": "'Ça va' est la réponse neutre et courante."
+                },
+                {
+                    "question": "Quelle formule est la plus polie pour saluer ?",
+                    "options": ["Salut", "Coucou", "Bonjour madame", "Hey"],
+                    "correct": 2,
+                    "explanation": "'Bonjour' + titre est la formule la plus polie."
+                },
+                {
+                    "question": "Comment dit-on 'See you tomorrow' en français ?",
+                    "options": ["À demain", "À bientôt", "À tout à l'heure", "À plus"],
+                    "correct": 0,
+                    "explanation": "'À demain' signifie qu'on se revoit le lendemain."
+                }
+            ]
+        },
+        {
+            "name": "Se présenter (2)",
+            "questions": [
+                {
+                    "question": "Comment présente-t-on son ami ?",
+                    "options": ["Il est Marc", "C'est Marc", "Lui est Marc", "Il s'appelle Marc"],
+                    "correct": 1,
+                    "explanation": "'C'est + prénom' est la formulation naturelle."
+                },
+                {
+                    "question": "Quelle phrase permet de donner son âge ?",
+                    "options": ["Je suis 25", "J'ai 25 ans", "Je fais 25", "Je vais 25"],
+                    "correct": 1,
+                    "explanation": "On utilise 'avoir + nombre + ans' pour l'âge."
+                },
+                {
+                    "question": "Comment dit-on 'I am a student' en français ?",
+                    "options": ["Je suis étudiant", "J'ai étudiant", "Je fais étudiant", "Je vais étudiant"],
+                    "correct": 0,
+                    "explanation": "On utilise 'être + profession' sans article."
+                },
+                {
+                    "question": "Quelle phrase donne correctement son origine ?",
+                    "options": ["Je viens de Paris", "Je viens à Paris", "Je viens Paris", "Je viens dans Paris"],
+                    "correct": 0,
+                    "explanation": "La préposition 'de' est utilisée pour l'origine."
+                },
+                {
+                    "question": "Comment présente-t-on sa famille ?",
+                    "options": ["C'est ma famille", "Elle est ma famille", "Ils sont ma famille", "Nous sommes famille"],
+                    "correct": 0,
+                    "explanation": "'C'est ma famille' est la formulation correcte."
+                }
+            ]
+        },
+        {
+            "name": "Demander/Donner des informations personnelles (1)",
+            "questions": [
+                {
+                    "question": "Comment demande-t-on le métier de quelqu'un ?",
+                    "options": ["Quel est ton travail ?", "Que fais-tu ?", "Tu travailles ?", "C'est quoi ton job ?"],
+                    "correct": 1,
+                    "explanation": "'Que fais-tu ?' est la formulation la plus courante."
+                },
+                {
+                    "question": "Quelle question demande l'adresse ?",
+                    "options": ["Où habites-tu ?", "Tu es d'où ?", "Quelle est ton adresse ?", "Tu vis où ?"],
+                    "correct": 2,
+                    "explanation": "'Quelle est ton adresse ?' est la question directe."
+                },
+                {
+                    "question": "Comment demande-t-on l'âge poliment ?",
+                    "options": ["Tu as quel âge ?", "Quel âge as-tu ?", "Tu es vieux ?", "C'est quand ton anniversaire ?"],
+                    "correct": 1,
+                    "explanation": "L'inversion verbe-sujet est plus formelle."
+                },
+                {
+                    "question": "Quelle phrase demande le numéro de téléphone ?",
+                    "options": ["Quel est ton numéro ?", "Tu as un téléphone ?", "Je peux avoir ton 06 ?", "Donne-moi ton numéro"],
+                    "correct": 0,
+                    "explanation": "La formulation complète est la plus polie."
+                },
+                {
+                    "question": "Comment demande-t-on si quelqu'un a des frères et sœurs ?",
+                    "options": ["Tu as des enfants ?", "Tu as des frères ?", "Tu as des frères et sœurs ?", "Ta famille est grande ?"],
+                    "correct": 2,
+                    "explanation": "La question complète est la plus claire."
+                }
+            ]
+        },
+        {
+            "name": "Le verbe avoir au présent",
+            "questions": [
+                {
+                    "question": "Conjuguez 'avoir' à la 1ère personne du singulier",
+                    "options": ["J'ai", "Je ai", "Je as", "Je avez"],
+                    "correct": 0,
+                    "explanation": "La forme correcte est 'j'ai' avec élision."
+                },
+                {
+                    "question": "Comment dit-on 'We have' en français ?",
+                    "options": ["Nous avons", "Nous ont", "Nous avez", "Nous avons"],
+                    "correct": 0,
+                    "explanation": "La conjugaison correcte est 'nous avons'."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement 'avoir' ?",
+                    "options": ["J'ai faim", "Je suis faim", "Je fais faim", "Je vais faim"],
+                    "correct": 0,
+                    "explanation": "Les sensations utilisent 'avoir' (j'ai faim/soif/etc.)."
+                },
+                {
+                    "question": "Comment dit-on 'You have (singular)' ?",
+                    "options": ["Tu as", "Tu a", "Tu ai", "Tu avez"],
+                    "correct": 0,
+                    "explanation": "La conjugaison correcte est 'tu as'."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["Ils ont un chien", "Ils avons un chien", "Ils avez un chien", "Ils as un chien"],
+                    "correct": 0,
+                    "explanation": "'Ils ont' est la forme correcte au pluriel."
+                }
+            ]
+        },
+        {
+            "name": "Les adjectifs possessifs (1)",
+            "questions": [
+                {
+                    "question": "Quel adjectif possessif utilise-t-on avec 'livre' (masculin singulier) ?",
+                    "options": ["ma", "mon", "mes", "ton"],
+                    "correct": 1,
+                    "explanation": "'Mon' est l'adjectif possessif masculin singulier."
+                },
+                {
+                    "question": "Comment dit-on 'your (singular) house' (féminin) ?",
+                    "options": ["ta maison", "ton maison", "tes maison", "votre maison"],
+                    "correct": 0,
+                    "explanation": "'Ta' est l'adjectif possessif féminin singulier."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["C'est mon amie", "C'est ma amie", "C'est mes amie", "C'est ton amie"],
+                    "correct": 0,
+                    "explanation": "On utilise 'mon' devant un nom féminin commençant par une voyelle."
+                },
+                {
+                    "question": "Comment dit-on 'our parents' ?",
+                    "options": ["notre parents", "nos parents", "notres parents", "nos parent"],
+                    "correct": 1,
+                    "explanation": "'Nos' est l'adjectif possessif pluriel."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement les possessifs ?",
+                    "options": ["Son frère et sa sœur", "Sa frère et son sœur", "Ses frère et sœur", "Son frère et son sœur"],
+                    "correct": 0,
+                    "explanation": "'Frère' est masculin, 'sœur' est féminin."
+                }
+            ]
+        },
+        {
+            "name": "La négation ne... pas",
+            "questions": [
+                {
+                    "question": "Où place-t-on 'ne...pas' dans une phrase simple ?",
+                    "options": ["Autour du sujet", "Autour du verbe", "À la fin", "Au début"],
+                    "correct": 1,
+                    "explanation": "La négation encadre le verbe conjugué."
+                },
+                {
+                    "question": "Comment dit-on 'I don't speak' ?",
+                    "options": ["Je ne parle pas", "Je parle pas", "Je ne pas parle", "Pas je parle"],
+                    "correct": 0,
+                    "explanation": "La forme complète est 'ne + verbe + pas'."
+                },
+                {
+                    "question": "Quelle est la forme contractée de 'ne' devant une voyelle ?",
+                    "options": ["n'", "ne", "ni", "nu"],
+                    "correct": 0,
+                    "explanation": "Devant une voyelle, 'ne' devient 'n''."
+                },
+                {
+                    "question": "Comment dit-on 'We don't have' ?",
+                    "options": ["Nous n'avons pas", "Nous ne avons pas", "Nous n'avons pas", "Nous n'avons pas"],
+                    "correct": 0,
+                    "explanation": "Avec élision : 'n' + apostrophe devant voyelle."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["Je ne suis pas français", "Je ne pas suis français", "Je suis pas français", "Pas je suis français"],
+                    "correct": 0,
+                    "explanation": "La négation encadre le verbe 'suis'."
+                }
+            ]
+        },
+        {
+            "name": "Demander poliment",
+            "questions": [
+                {
+                    "question": "Comment demande-t-on l'heure poliment ?",
+                    "options": ["Quelle heure est-il ?", "Il est quelle heure ?", "Donne-moi l'heure", "L'heure !"],
+                    "correct": 0,
+                    "explanation": "'Quelle heure est-il ?' est la forme polie."
+                },
+                {
+                    "question": "Quelle formule est la plus polie ?",
+                    "options": ["Donne-moi", "Je veux", "Je voudrais", "Apporte-moi"],
+                    "correct": 2,
+                    "explanation": "'Je voudrais' est la forme conditionnelle polie."
+                },
+                {
+                    "question": "Comment demande-t-on à s'asseoir ?",
+                    "options": ["Je peux m'asseoir ?", "Je m'assieds", "Assieds-toi", "Puis-je m'asseoir ?"],
+                    "correct": 3,
+                    "explanation": "'Puis-je' est la forme très polie."
+                },
+                {
+                    "question": "Quelle phrase demande poliment de répéter ?",
+                    "options": ["Quoi ?", "Hein ?", "Pouvez-vous répéter ?", "Encore"],
+                    "correct": 2,
+                    "explanation": "Le vouvoiement est la forme polie."
+                },
+                {
+                    "question": "Comment dit-on 'Can you help me?' poliment ?",
+                    "options": ["Aide-moi", "Tu peux m'aider ?", "Pourriez-vous m'aider ?", "Je veux de l'aide"],
+                    "correct": 2,
+                    "explanation": "Le conditionnel et le vouvoiement sont polis."
+                }
+            ]
+        },
+        {
+            "name": "Demander/Donner des informations personnelles (2)",
+            "questions": [
+                {
+                    "question": "Comment demande-t-on l'état civil ?",
+                    "options": ["Tu es marié ?", "Quel est ton statut marital ?", "Tu as un mari ?", "Célibataire ou pas ?"],
+                    "correct": 1,
+                    "explanation": "La formulation complète est plus polie."
+                },
+                {
+                    "question": "Quelle question demande les études ?",
+                    "options": ["Tu étudies quoi ?", "Qu'as-tu étudié ?", "Quelle est ta formation ?", "Tu es étudiant ?"],
+                    "correct": 2,
+                    "explanation": "La formulation nominale est plus formelle."
+                },
+                {
+                    "question": "Comment demande-t-on la situation professionnelle ?",
+                    "options": ["Tu travailles ?", "Quel est ton métier ?", "Tu fais quoi dans la vie ?", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces formulations sont correctes selon le contexte."
+                },
+                {
+                    "question": "Quelle phrase demande les loisirs ?",
+                    "options": ["Tu fais quoi comme sport ?", "Quels sont tes hobbies ?", "Tu aimes quoi ?", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Plusieurs formulations sont possibles."
+                },
+                {
+                    "question": "Comment demande-t-on l'origine ethnique avec tact ?",
+                    "options": ["Tu es d'où à l'origine ?", "Quelles sont tes origines ?", "Tu es quel type ?", "C'est quoi ta race ?"],
+                    "correct": 1,
+                    "explanation": "La formulation la plus neutre et respectueuse."
+                }
+            ]
+        },
+        {
+            "name": "Demander le prix de quelque chose",
+            "questions": [
+                {
+                    "question": "Comment demande-t-on le prix dans un magasin ?",
+                    "options": ["Ça coûte combien ?", "Quel est le prix ?", "C'est combien ?", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces formulations sont utilisées."
+                },
+                {
+                    "question": "Quelle phrase est la plus polie ?",
+                    "options": ["Donne-moi le prix", "Je veux savoir le prix", "Combien ça coûte ?", "Pourriez-vous me dire le prix ?"],
+                    "correct": 3,
+                    "explanation": "Le conditionnel et le vouvoiement sont polis."
+                },
+                {
+                    "question": "Comment dit-on 'How much is this?' ?",
+                    "options": ["Combien est-ce ?", "Combien ça coûte ?", "C'est combien ?", "Combien il coûte ?"],
+                    "correct": 1,
+                    "explanation": "'Combien ça coûte ?' est la traduction directe."
+                },
+                {
+                    "question": "Quelle question demande le prix d'un service ?",
+                    "options": ["C'est combien ?", "Quel est votre tarif ?", "Vous facturez comment ?", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces formulations sont possibles."
+                },
+                {
+                    "question": "Comment demande-t-on le prix au marché ?",
+                    "options": ["C'est combien le kilo ?", "Donne-moi le prix", "Je veux savoir combien", "Prix maintenant"],
+                    "correct": 0,
+                    "explanation": "La formulation spécifique est la plus courante."
+                }
+            ]
+        },
+        {
+            "name": "Les articles indéfinis",
+            "questions": [
+                {
+                    "question": "Quel est l'article indéfini masculin ?",
+                    "options": ["la", "le", "un", "des"],
+                    "correct": 2,
+                    "explanation": "'Un' est l'article indéfini masculin."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement les articles indéfinis ?",
+                    "options": ["Je veux un croissant", "Je veux le croissant", "Je veux croissant", "Je veux des croissant"],
+                    "correct": 0,
+                    "explanation": "'Un' est utilisé pour un objet non spécifié."
+                },
+                {
+                    "question": "Comment dit-on 'some apples' ?",
+                    "options": ["des pommes", "les pommes", "un pommes", "de pommes"],
+                    "correct": 0,
+                    "explanation": "'Des' est l'article indéfini pluriel."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["C'est une amie", "C'est un amie", "C'est la amie", "C'est des amie"],
+                    "correct": 0,
+                    "explanation": "'Une' est l'article indéfini féminin."
+                },
+                {
+                    "question": "Quand utilise-t-on 'de' à la place de 'des' ?",
+                    "options": ["Avec les adjectifs", "Avec la négation", "Avec les verbes", "Avec les adverbes"],
+                    "correct": 1,
+                    "explanation": "Dans la négation, 'des' devient 'de'."
+                }
+            ]
+        },
+        {
+            "name": "L'adjectif interrogatif quel(le)",
+            "questions": [
+                {
+                    "question": "Quelle est la forme féminine de 'quel' ?",
+                    "options": ["quelle", "quella", "quell", "quelles"],
+                    "correct": 0,
+                    "explanation": "'Quelle' est la forme féminine singulière."
+                },
+                {
+                    "question": "Comment dit-on 'Which book?' (masculin) ?",
+                    "options": ["Quel livre ?", "Quelle livre ?", "Quels livre ?", "Quelles livre ?"],
+                    "correct": 0,
+                    "explanation": "'Quel' s'accorde en genre avec le nom."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["Quel est ton nom ?", "Quelle est ton nom ?", "Quels est ton nom ?", "Quelles est ton nom ?"],
+                    "correct": 0,
+                    "explanation": "'Nom' est masculin, donc 'quel'."
+                },
+                {
+                    "question": "Comment dit-on 'What time is it?' ?",
+                    "options": ["Quelle heure est-il ?", "Quel heure est-il ?", "Quels heure est-il ?", "Quelles heure est-il ?"],
+                    "correct": 0,
+                    "explanation": "'Heure' est féminin, donc 'quelle'."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement le pluriel ?",
+                    "options": ["Quels sont tes hobbies ?", "Quel sont tes hobbies ?", "Quelle sont tes hobbies ?", "Quelles sont tes hobbies ?"],
+                    "correct": 0,
+                    "explanation": "'Hobbies' est masculin pluriel, donc 'quels'."
+                }
+            ]
+        },
+        {
+            "name": "Donner des informations personnelles (3)",
+            "questions": [
+                {
+                    "question": "Comment donne-t-on son adresse ?",
+                    "options": ["J'habite 12 rue des Fleurs", "Je suis 12 rue des Fleurs", "Ma maison est 12 rue des Fleurs", "C'est 12 rue des Fleurs"],
+                    "correct": 0,
+                    "explanation": "'J'habite + adresse' est la formulation standard."
+                },
+                {
+                    "question": "Quelle phrase donne correctement son email ?",
+                    "options": ["Mon email est test@example.com", "Je suis test@example.com", "C'est test@example.com", "Email test@example.com"],
+                    "correct": 0,
+                    "explanation": "La formulation avec 'mon email est' est claire."
+                },
+                {
+                    "question": "Comment dit-on 'My phone number is 06...' ?",
+                    "options": ["Mon téléphone est 06...", "Mon numéro est 06...", "Je suis 06...", "C'est 06..."],
+                    "correct": 1,
+                    "explanation": "'Mon numéro est' est la formulation la plus naturelle."
+                },
+                {
+                    "question": "Quelle phrase donne correctement sa date de naissance ?",
+                    "options": ["Je suis né le 12 janvier", "Ma naissance est 12 janvier", "J'ai 12 janvier", "C'est 12 janvier"],
+                    "correct": 0,
+                    "explanation": "'Je suis né(e) le + date' est la formulation correcte."
+                },
+                {
+                    "question": "Comment parle-t-on de sa situation familiale ?",
+                    "options": ["Je suis marié", "J'ai un mariage", "Je fais marié", "Je vais marié"],
+                    "correct": 0,
+                    "explanation": "'Être + état civil' est la construction correcte."
+                }
+            ]
+        },
+        {
+            "name": "Parler de ses passions, de ses rêves",
+            "questions": [
+                {
+                    "question": "Comment dit-on 'I like music' ?",
+                    "options": ["J'aime la musique", "Je aime musique", "Je like musique", "J'aime de la musique"],
+                    "correct": 0,
+                    "explanation": "'Aimer' se construit avec l'article défini."
+                },
+                {
+                    "question": "Quelle phrase parle d'une passion ?",
+                    "options": ["Je fais du sport", "Je vais au sport", "Je suis sport", "J'ai sport"],
+                    "correct": 0,
+                    "explanation": "'Faire de + activité' est la construction correcte."
+                },
+                {
+                    "question": "Comment dit-on 'My dream is to travel' ?",
+                    "options": ["Mon rêve est voyager", "Mon rêve est de voyager", "Je rêve voyager", "Je rêve à voyager"],
+                    "correct": 1,
+                    "explanation": "Après 'être', on utilise 'de + infinitif'."
+                },
+                {
+                    "question": "Quelle phrase est correcte pour un hobby ?",
+                    "options": ["Je lis des livres", "Je lis les livres", "Je lis de livres", "Je lis livres"],
+                    "correct": 0,
+                    "explanation": "L'article indéfini pluriel 'des' est correct ici."
+                },
+                {
+                    "question": "Comment parle-t-on d'un projet ?",
+                    "options": ["Je voudrais apprendre", "Je veux apprendre", "J'aimerais apprendre", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces formulations expriment un désir."
+                }
+            ]
+        },
+        {
+            "name": "Les prépositions + noms de pays (1)",
+            "questions": [
+                {
+                    "question": "Quelle préposition utilise-t-on avec les pays féminins ?",
+                    "options": ["au", "en", "à", "dans"],
+                    "correct": 1,
+                    "explanation": "Les pays féminins utilisent 'en' (ex: en France)."
+                },
+                {
+                    "question": "Comment dit-on 'in Canada' ?",
+                    "options": ["au Canada", "en Canada", "à Canada", "dans Canada"],
+                    "correct": 0,
+                    "explanation": "Les pays masculins utilisent 'au'."
+                },
+                {
+                    "question": "Quelle phrase est correcte pour 'I am going to Japan' ?",
+                    "options": ["Je vais au Japon", "Je vais en Japon", "Je vais à Japon", "Je vais Japon"],
+                    "correct": 0,
+                    "explanation": "Japon est masculin, donc 'au'."
+                },
+                {
+                    "question": "Comment dit-on 'from Italy' ?",
+                    "options": ["de Italie", "d'Italie", "en Italie", "à Italie"],
+                    "correct": 1,
+                    "explanation": "Italie est féminin, 'de' devient 'd'' devant voyelle."
+                },
+                {
+                    "question": "Quelle préposition utilise-t-on avec les villes ?",
+                    "options": ["au", "en", "à", "dans"],
+                    "correct": 2,
+                    "explanation": "Pour les villes, on utilise toujours 'à'."
+                }
+            ]
+        },
+        {
+            "name": "Le présent des verbes en -er",
+            "questions": [
+                {
+                    "question": "Conjuguez 'parler' à la 1ère personne du singulier",
+                    "options": ["Je parle", "Je parles", "Je parlons", "Je parlez"],
+                    "correct": 0,
+                    "explanation": "Les verbes en -er ont la terminaison -e au singulier."
+                },
+                {
+                    "question": "Comment dit-on 'you eat' (tu) ?",
+                    "options": ["Tu manges", "Tu mange", "Tu mangons", "Tu mangez"],
+                    "correct": 0,
+                    "explanation": "Terminaison -es pour la 2ème personne du singulier."
+                },
+                {
+                    "question": "Quelle est la conjugaison correcte de 'nous aimer' ?",
+                    "options": ["Nous aime", "Nous aimes", "Nous aimons", "Nous aimez"],
+                    "correct": 2,
+                    "explanation": "Terminaison -ons pour la 1ère personne du pluriel."
+                },
+                {
+                    "question": "Comment dit-on 'they listen' ?",
+                    "options": ["Ils écoutes", "Ils écoute", "Ils écoutons", "Ils écoutent"],
+                    "correct": 3,
+                    "explanation": "Terminaison -ent pour la 3ème personne du pluriel."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["Vous chantez bien", "Vous chante bien", "Vous chantons bien", "Vous chantes bien"],
+                    "correct": 0,
+                    "explanation": "Terminaison -ez pour la 2ème personne du pluriel."
+                }
+            ]
+        },
+        {
+            "name": "Les verbes être/avoir",
+            "questions": [
+                {
+                    "question": "Conjuguez 'être' à la 3ème personne du singulier",
+                    "options": ["Il est", "Il es", "Il êtes", "Il suis"],
+                    "correct": 0,
+                    "explanation": "'Il est' est la forme correcte."
+                },
+                {
+                    "question": "Comment dit-on 'we have' ?",
+                    "options": ["Nous avons", "Nous ont", "Nous avez", "Nous as"],
+                    "correct": 0,
+                    "explanation": "'Nous avons' est la conjugaison correcte."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement 'être' ?",
+                    "options": ["Je suis content", "J'ai content", "Je fais content", "Je vais content"],
+                    "correct": 0,
+                    "explanation": "Les émotions utilisent 'être'."
+                },
+                {
+                    "question": "Comment dit-on 'you are (plural)' ?",
+                    "options": ["Vous êtes", "Vous est", "Vous es", "Vous suis"],
+                    "correct": 0,
+                    "explanation": "'Vous êtes' est la forme correcte."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement 'avoir' ?",
+                    "options": ["J'ai froid", "Je suis froid", "Je fais froid", "Je vais froid"],
+                    "correct": 0,
+                    "explanation": "Les sensations physiques utilisent 'avoir'."
+                }
+            ]
+        }
+    ]
+}

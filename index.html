@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alter Ego + - Plateforme de Révision</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .level-card {
+            transition: all 0.3s ease;
+            transform-style: preserve-3d;
+        }
+        .level-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+        }
+        .folder {
+            transition: all 0.2s ease;
+        }
+        .folder:hover {
+            transform: scale(1.05);
+            background-color: #f0f9ff;
+        }
+        .fade-in {
+            animation: fadeIn 0.5s ease-in-out;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+        <!-- Header -->
+        <header class="text-center mb-12">
+            <h1 class="text-4xl font-bold text-blue-800 mb-2">Alter Ego +</h1>
+            <p class="text-xl text-gray-600">Votre plateforme de révision de français</p>
+            <div class="w-24 h-1 bg-blue-500 mx-auto mt-4 rounded-full"></div>
+        </header>
+
+        <!-- Main Content -->
+        <main>
+            <!-- Level Selection -->
+            <section id="level-selection" class="mb-12">
+                <h2 class="text-2xl font-semibold text-gray-800 mb-6 text-center">Choisissez votre niveau</h2>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                    <!-- Débutant -->
+                    <div class="level-card bg-white rounded-xl shadow-md p-6 text-center cursor-pointer" 
+                         onclick="showFolders('débutant', 10, 0)">
+                        <div class="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <i class="fas fa-seedling text-blue-600 text-2xl"></i>
+                        </div>
+                        <h3 class="text-xl font-medium text-blue-800 mb-2">Débutant</h3>
+                        <p class="text-gray-600">Niveau A1</p>
+                    </div>
+                    
+                    <!-- Élémentaire -->
+                    <div class="level-card bg-white rounded-xl shadow-md p-6 text-center cursor-pointer" 
+                         onclick="showFolders('élémentaire', 8, 1)">
+                        <div class="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <i class="fas fa-leaf text-green-600 text-2xl"></i>
+                        </div>
+                        <h3 class="text-xl font-medium text-green-800 mb-2">Élémentaire</h3>
+                        <p class="text-gray-600">Niveau A2</p>
+                    </div>
+                    
+                    <!-- Intermédiaire -->
+                    <div class="level-card bg-white rounded-xl shadow-md p-6 text-center cursor-pointer" 
+                         onclick="showFolders('intermédiaire', 9, 1)">
+                        <div class="w-16 h-16 bg-yellow-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <i class="fas fa-tree text-yellow-600 text-2xl"></i>
+                        </div>
+                        <h3 class="text-xl font-medium text-yellow-800 mb-2">Intermédiaire</h3>
+                        <p class="text-gray-600">Niveau B1</p>
+                    </div>
+                    
+                    <!-- Avancé -->
+                    <div class="level-card bg-white rounded-xl shadow-md p-6 text-center cursor-pointer" 
+                         onclick="showFolders('avancé', 8, 1)">
+                        <div class="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <i class="fas fa-mountain text-red-600 text-2xl"></i>
+                        </div>
+                        <h3 class="text-xl font-medium text-red-800 mb-2">Avancé</h3>
+                        <p class="text-gray-600">Niveau B2</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Folders Section -->
+            <section id="folders-section" class="hidden">
+                <div class="flex justify-between items-center mb-6">
+                    <h2 id="folder-level-title" class="text-2xl font-semibold text-gray-800"></h2>
+                    <button onclick="backToLevels()" class="px-4 py-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 transition">
+                        <i class="fas fa-arrow-left mr-2"></i>Retour
+                    </button>
+                </div>
+                
+                <div id="folders-container" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+                    <!-- Folders will be generated here -->
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="mt-16 pt-8 border-t border-gray-200 text-center text-gray-600">
+            <p>© 2025 Alter Ego + - Tous droits réservés</p>
+        </footer>
+    </div>
+
+    <script>
+        // Show folders for selected level
+        function showFolders(level, count, startFrom) {
+            // Update UI
+            document.getElementById('level-selection').classList.add('hidden');
+            document.getElementById('folders-section').classList.remove('hidden');
+            document.getElementById('folder-level-title').textContent = `Dossiers - Niveau ${level}`;
+            
+            // Generate folders
+            const foldersContainer = document.getElementById('folders-container');
+            foldersContainer.innerHTML = '';
+            
+            for (let i = 0; i < count; i++) {
+                const folderNumber = startFrom === 0 ? i : i + 1;
+                const folderElement = document.createElement('div');
+                folderElement.className = 'folder bg-white rounded-lg shadow p-4 text-center cursor-pointer fade-in';
+                folderElement.innerHTML = `
+                    <div class="w-12 h-12 bg-blue-50 rounded-full flex items-center justify-center mx-auto mb-3">
+                        <i class="fas fa-folder text-blue-500 text-xl"></i>
+                    </div>
+                    <div class="font-medium">Dossier ${folderNumber}</div>
+                `;
+                
+                folderElement.addEventListener('click', function() {
+                    // Option 1: Redirection simple
+                    //window.location.href = `folder_${level}_${folderNumber}.html`;
+                    window.location.href = `exercices/niveau${level}/dossier${folderNumber}.html`;
+                    // Option 2: Avec des paramètres dans l'URL
+                    // window.location.href = `viewer.html?level=${level}&folder=${folderNumber}`;
+                    
+                    // Option 3: Pour le débogage (à enlever en production)
+                    // console.log(`Navigation vers le dossier ${folderNumber} du niveau ${level}`);
+                });
+                
+                foldersContainer.appendChild(folderElement);
+            }
+        }
+        
+        // Go back to level selection
+        function backToLevels() {
+            document.getElementById('level-selection').classList.remove('hidden');
+            document.getElementById('folders-section').classList.add('hidden');
+        }
+    </script>
+</body>
+</html>
