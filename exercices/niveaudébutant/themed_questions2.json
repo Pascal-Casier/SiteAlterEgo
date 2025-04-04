@@ -1,0 +1,284 @@
+{
+    "categories": [
+      {
+        "name": "Nommer et localiser des lieux dans la ville",
+        "questions": [
+          {
+            "question": "Comment dit-on 'Where is the museum?' en français ?",
+            "options": ["Où est le musée ?", "Où se trouve le musée ?", "Où est situé le musée ?", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Les trois formulations sont correctes pour localiser un lieu."
+          },
+          {
+            "question": "Quel mot désigne un parc public avec des arbres ?",
+            "options": ["Un centre commercial", "Un square", "Une avenue", "Un boulevard"],
+            "correct": 1,
+            "explanation": "Un 'square' est un petit parc urbain."
+          },
+          {
+            "question": "Comment demande-t-on la direction pour la gare ?",
+            "options": ["Pour aller à la gare ?", "La gare est où ?", "Je cherche la gare", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Toutes ces formulations sont utilisées couramment."
+          },
+          {
+            "question": "Quelle phrase décrit une localisation ?",
+            "options": ["La boulangerie est à côté de la banque", "J'aime la boulangerie", "La boulangerie est bonne", "Je vais à la boulangerie"],
+            "correct": 0,
+            "explanation": "Elle indique une position relative."
+          },
+          {
+            "question": "Comment dit-on 'train station' en français ?",
+            "options": ["La gare", "Le métro", "L'aéroport", "Le bus"],
+            "correct": 0,
+            "explanation": "'La gare' désigne spécifiquement la gare ferroviaire."
+          }
+        ]
+      },
+      {
+        "name": "Les articles définis/indéfinis",
+        "questions": [
+          {
+            "question": "Quel article utilise-t-on devant 'hôtel' (masculin) ?",
+            "options": ["la", "le", "un", "l'"],
+            "correct": 1,
+            "explanation": "'Hôtel' est masculin : 'le' ou 'un'."
+          },
+          {
+            "question": "Comment dit-on 'a book' en français ?",
+            "options": ["le livre", "la livre", "un livre", "des livre"],
+            "correct": 2,
+            "explanation": "Article indéfini masculin 'un'."
+          },
+          {
+            "question": "Quelle phrase utilise correctement 'des' ?",
+            "options": ["Des chaussures neuves", "De chaussures neuves", "Les chaussures neuves", "La chaussures neuves"],
+            "correct": 0,
+            "explanation": "'Des' est l'article indéfini pluriel."
+          },
+          {
+            "question": "Quand utilise-t-on 'de' à la place de 'des' ?",
+            "options": ["Avec la négation", "Après un adjectif", "Avec les verbes", "Jamais"],
+            "correct": 0,
+            "explanation": "Ex: 'Je n'ai pas de frères' (négation)."
+          },
+          {
+            "question": "Comment dit-on 'the schools' ?",
+            "options": ["la école", "les écoles", "des écoles", "l'école"],
+            "correct": 1,
+            "explanation": "Article défini pluriel 'les' + nom au pluriel."
+          }
+        ]
+      },
+      {
+        "name": "Prépositions de lieu + articles contractés",
+        "questions": [
+          {
+            "question": "Comment dit-on 'to the museum' ?",
+            "options": ["au musée", "à le musée", "en musée", "dans musée"],
+            "correct": 0,
+            "explanation": "Contraction 'à + le = au'."
+          },
+          {
+            "question": "Quelle préposition utilise-t-on avec les villes ?",
+            "options": ["au", "en", "à", "dans"],
+            "correct": 2,
+            "explanation": "Ex: 'Je vais à Paris'."
+          },
+          {
+            "question": "Comment dit-on 'from the park' ?",
+            "options": ["de le parc", "du parc", "de parc", "dans le parc"],
+            "correct": 1,
+            "explanation": "Contraction 'de + le = du'."
+          },
+          {
+            "question": "Quelle phrase est correcte ?",
+            "options": ["Je suis dans la gare", "Je suis en la gare", "Je suis à la gare", "Je suis au la gare"],
+            "correct": 2,
+            "explanation": "Pour les bâtiments publics, on utilise souvent 'à'."
+          },
+          {
+            "question": "Comment dit-on 'in Canada' (pays masculin) ?",
+            "options": ["au Canada", "en Canada", "à Canada", "dans Canada"],
+            "correct": 0,
+            "explanation": "Pays masculins : 'au'."
+          }
+        ]
+      },
+      {
+        "name": "Pourquoi/Parce que",
+        "questions": [
+          {
+            "question": "Comment répondre à 'Pourquoi es-tu triste ?'",
+            "options": ["Parce que je suis fatigué", "Pour je suis fatigué", "Car je suis fatigué", "A et C"],
+            "correct": 3,
+            "explanation": "'Parce que' et 'car' sont corrects."
+          },
+          {
+            "question": "Quel mot pose une question de cause ?",
+            "options": ["Comment", "Pourquoi", "Quand", "Où"],
+            "correct": 1,
+            "explanation": "'Pourquoi' demande la raison."
+          },
+          {
+            "question": "Comment dit-on 'Because I'm happy' ?",
+            "options": ["Pour je suis heureux", "Parce que je suis heureux", "Car je suis heureux", "B et C"],
+            "correct": 3,
+            "explanation": "Les deux formulations sont correctes."
+          },
+          {
+            "question": "Quelle phrase utilise mal 'parce que' ?",
+            "options": ["Je reste parce qu'il pleut", "Parce que je suis malade", "Je mange parce que j'ai faim", "Parce que je suis parti"],
+            "correct": 1,
+            "explanation": "'Parce que' ne peut pas commencer une phrase déclarative."
+          },
+          {
+            "question": "Comment dit-on 'Why are you late?' ?",
+            "options": ["Comment tu es en retard ?", "Pourquoi es-tu en retard ?", "Quand es-tu en retard ?", "Où es-tu en retard ?"],
+            "correct": 1,
+            "explanation": "'Pourquoi' demande la raison."
+          }
+        ]
+      },
+      {
+        "name": "Réserver un hébergement",
+        "questions": [
+          {
+            "question": "Comment demande-t-on une chambre d'hôtel ?",
+            "options": ["Je voudrais réserver une chambre", "Donne-moi une chambre", "Je prends une chambre", "Je veux une chambre"],
+            "correct": 0,
+            "explanation": "Le conditionnel ('voudrais') est poli."
+          },
+          {
+            "question": "Quelle information est essentielle pour réserver ?",
+            "options": ["Votre couleur préférée", "Vos dates de séjour", "Votre animal de compagnie", "Votre film préféré"],
+            "correct": 1,
+            "explanation": "Les dates sont indispensables."
+          },
+          {
+            "question": "Comment dit-on 'Do you have a room available?' ?",
+            "options": ["Avez-vous une chambre libre ?", "Vous avez une chambre ?", "Une chambre est disponible ?", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Toutes ces formulations sont utilisées."
+          },
+          {
+            "question": "Quelle phrase demande le prix ?",
+            "options": ["C'est combien ?", "Quel est le tarif ?", "Ça coûte combien ?", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Toutes ces formulations sont correctes."
+          },
+          {
+            "question": "Comment dit-on 'I'd like a double room' ?",
+            "options": ["Je veux une chambre double", "Je prends une chambre double", "Je voudrais une chambre double", "Donne-moi une double"],
+            "correct": 2,
+            "explanation": "'Je voudrais' est la forme polie."
+          }
+        ]
+      },
+      {
+        "name": "Le présent des verbes prendre, descendre, aller",
+        "questions": [
+          {
+            "question": "Conjuguez 'prendre' à 'nous'",
+            "options": ["Nous prenons", "Nous prendons", "Nous prennes", "Nous prends"],
+            "correct": 0,
+            "explanation": "Conjugaison irrégulière : nous prenons."
+          },
+          {
+            "question": "Comment dit-on 'you take' (tu) ?",
+            "options": ["Tu prends", "Tu prend", "Tu prenes", "Tu prendes"],
+            "correct": 0,
+            "explanation": "Terminaison -s pour 'tu'."
+          },
+          {
+            "question": "Quelle phrase utilise 'descendre' correctement ?",
+            "options": ["Je descends du bus", "Je descend du bus", "Je descende du bus", "Je descends de bus"],
+            "correct": 0,
+            "explanation": "Conjugaison correcte + article."
+          },
+          {
+            "question": "Comment dit-on 'we go by car' ?",
+            "options": ["Nous allons en voiture", "Nous allons à voiture", "Nous allons de voiture", "Nous allons voiture"],
+            "correct": 0,
+            "explanation": "'En' pour le mode de transport."
+          },
+          {
+            "question": "Quelle phrase est correcte ?",
+            "options": ["Ils vont à pied", "Ils vont en pied", "Ils vont sur pied", "Ils vont par pied"],
+            "correct": 0,
+            "explanation": "À pied = on foot."
+          }
+        ]
+      },
+      {
+        "name": "Les adjectifs démonstratifs",
+        "questions": [
+          {
+            "question": "Quel est l'adjectif démonstratif masculin ?",
+            "options": ["cette", "ce", "ces", "cet"],
+            "correct": 1,
+            "explanation": "'Ce' pour les noms masculins (ex: ce livre)."
+          },
+          {
+            "question": "Comment dit-on 'this woman' ?",
+            "options": ["cet femme", "cette femme", "ces femme", "ce femme"],
+            "correct": 1,
+            "explanation": "'Cette' pour les noms féminins."
+          },
+          {
+            "question": "Quelle phrase est correcte ?",
+            "options": ["Ces arbres sont grands", "Cet arbres sont grands", "Cette arbres sont grands", "Ce arbres sont grands"],
+            "correct": 0,
+            "explanation": "'Ces' pour les pluriels."
+          },
+          {
+            "question": "Quand utilise-t-on 'cet' ?",
+            "options": ["Devant voyelle masculine", "Devant consonne féminine", "Au pluriel", "Jamais"],
+            "correct": 0,
+            "explanation": "Ex: cet homme (h muet)."
+          },
+          {
+            "question": "Comment dit-on 'those hotels' ?",
+            "options": ["ce hôtel", "cet hôtels", "ces hôtels", "cette hôtels"],
+            "correct": 2,
+            "explanation": "'Ces' pour les pluriels."
+          }
+        ]
+      },
+      {
+        "name": "Le verbe venir",
+        "questions": [
+          {
+            "question": "Conjuguez 'venir' à 'je'",
+            "options": ["Je viens", "Je vient", "Je vien", "Je venis"],
+            "correct": 0,
+            "explanation": "Conjugaison irrégulière : je viens."
+          },
+          {
+            "question": "Comment dit-on 'they come' ?",
+            "options": ["Ils viennent", "Ils viennent", "Ils viennet", "Ils venient"],
+            "correct": 0,
+            "explanation": "Ils viennent (avec double 'n')."
+          },
+          {
+            "question": "Quelle phrase utilise 'venir' correctement ?",
+            "options": ["Tu viens de Paris ?", "Tu vient de Paris ?", "Tu venis de Paris ?", "Tu viennes de Paris ?"],
+            "correct": 0,
+            "explanation": "Conjugaison correcte pour 'tu'."
+          },
+          {
+            "question": "Comment dit-on 'we come from Spain' ?",
+            "options": ["Nous venons d'Espagne", "Nous venons de Espagne", "Nous venons Espagne", "Nous venons à Espagne"],
+            "correct": 0,
+            "explanation": "'De' devient 'd'' devant voyelle."
+          },
+          {
+            "question": "Quelle phrase est correcte ?",
+            "options": ["Elle vient du Canada", "Elle vient de Canada", "Elle vient au Canada", "Elle vient en Canada"],
+            "correct": 0,
+            "explanation": "'Du' = de + le (Canada est masculin)."
+          }
+        ]
+      }
+    ]
+  }

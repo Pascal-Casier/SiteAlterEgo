@@ -1,0 +1,319 @@
+{
+    "categories": [
+      {
+        "name": "Identifier une langue",
+        "questions": [
+          {
+            "question": "Comment dit-on 'What language is this?' en français ?",
+            "options": ["Quelle langue est-ce ?", "Comment est cette langue ?", "Quel langue est-ce ?", "C'est quelle langue ?"],
+            "correct": 0,
+            "explanation": "'Quelle' s'accorde avec 'langue' (féminin)."
+          },
+          {
+            "question": "Quelle phrase demande si quelqu'un parle anglais ?",
+            "options": ["Tu sais anglais ?", "Tu parles anglais ?", "Tu connais anglais ?", "Tu comprends anglais ?"],
+            "correct": 1,
+            "explanation": "On utilise le verbe 'parler' pour les langues."
+          },
+          {
+            "question": "Comment dit-on 'I speak French' ?",
+            "options": ["Je parle français", "Je parle le français", "Je parle française", "Je parle en français"],
+            "correct": 0,
+            "explanation": "Pas d'article devant les langues avec 'parler'."
+          },
+          {
+            "question": "Quel mot complète : '___ est ta langue maternelle ?'",
+            "options": ["Quel", "Quelle", "Quels", "Quelles"],
+            "correct": 1,
+            "explanation": "'Langue' est féminin, donc 'quelle'."
+          },
+          {
+            "question": "Comment dit-on 'This is Spanish' ?",
+            "options": ["C'est espagnol", "C'est l'espagnol", "C'est de l'espagnol", "C'est en espagnol"],
+            "correct": 0,
+            "explanation": "Pas d'article pour identifier une langue."
+          }
+        ]
+      },
+      {
+        "name": "Se présenter (1)",
+        "questions": [
+          {
+            "question": "Comment dit-on 'My name is Paul' ?",
+            "options": ["Je m'appelle Paul", "Je suis Paul", "Mon nom est Paul", "Je me appelle Paul"],
+            "correct": 0,
+            "explanation": "Forme correcte avec élision (m')."
+          },
+          {
+            "question": "Quelle phrase donne correctement son âge ?",
+            "options": ["Je suis 25 ans", "J'ai 25 ans", "Je fais 25 ans", "Je vais 25 ans"],
+            "correct": 1,
+            "explanation": "On utilise 'avoir' pour l'âge."
+          },
+          {
+            "question": "Comment dit-on 'I am from Canada' ?",
+            "options": ["Je viens du Canada", "Je viens au Canada", "Je viens Canada", "Je viens de Canada"],
+            "correct": 0,
+            "explanation": "'Du' = de + le (Canada est masculin)."
+          },
+          {
+            "question": "Quelle phrase est correcte pour une femme ?",
+            "options": ["Je suis étudiante", "Je suis un étudiante", "Je suis l'étudiante", "Je suis d'étudiante"],
+            "correct": 0,
+            "explanation": "Pas d'article avec 'être + profession'."
+          },
+          {
+            "question": "Comment dit-on 'Nice to meet you' ?",
+            "options": ["Enchanté", "Content de vous rencontrer", "Bonjour à vous", "Ravi de faire connaissance"],
+            "correct": 1,
+            "explanation": "Formulation la plus courante."
+          }
+        ]
+      },
+      {
+        "name": "S'informer sur l'identité de l'autre",
+        "questions": [
+          {
+            "question": "Comment demande-t-on le nom poliment ?",
+            "options": ["Comment tu t'appelles ?", "Comment vous appelez-vous ?", "C'est quoi ton nom ?", "Quel est ton nom ?"],
+            "correct": 1,
+            "explanation": "Forme polie avec inversion verbe-sujet."
+          },
+          {
+            "question": "Quelle phrase demande la nationalité ?",
+            "options": ["Tu es d'où ?", "Tu es quel pays ?", "Tu es quelle nationalité ?", "Tu viens comment ?"],
+            "correct": 2,
+            "explanation": "Question directe et claire."
+          },
+          {
+            "question": "Comment demande-t-on l'âge à un adulte ?",
+            "options": ["Tu as quel âge ?", "Quel âge as-tu ?", "Tu es vieux ?", "Vous avez quel âge ?"],
+            "correct": 3,
+            "explanation": "Le vouvoiement est plus poli pour un adulte."
+          },
+          {
+            "question": "Quelle question demande la profession ?",
+            "options": ["Tu travailles ?", "Quel est ton travail ?", "Que fais-tu dans la vie ?", "Tu es un travailleur ?"],
+            "correct": 2,
+            "explanation": "Formulation naturelle en français."
+          },
+          {
+            "question": "Comment demande-t-on 'Where do you live?' ?",
+            "options": ["Où tu habites ?", "Où habites-tu ?", "Tu vis où ?", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Les trois formulations sont correctes selon le contexte."
+          }
+        ]
+      },
+      {
+        "name": "Compter de 0 à 69",
+        "questions": [
+          {
+            "question": "Comment écrit-on '21' en lettres ?",
+            "options": ["Vingt-et-un", "Vingt et un", "Vingt-un", "Vingt et une"],
+            "correct": 1,
+            "explanation": "Pas de trait d'union avec 'et'."
+          },
+          {
+            "question": "Quel nombre suit 'soixante-neuf' ?",
+            "options": ["Soixante-dix", "Septante", "Soixante et dix", "Soixante-onze"],
+            "correct": 0,
+            "explanation": "En France, on dit 'soixante-dix'."
+          },
+          {
+            "question": "Comment dit-on '37' ?",
+            "options": ["Trente-sept", "Trente et sept", "Trente sept", "Trois dix-sept"],
+            "correct": 0,
+            "explanation": "Avec trait d'union entre dizaine et unité."
+          },
+          {
+            "question": "Quelle est la forme correcte de '55' ?",
+            "options": ["Cinquante-cinq", "Cinquante cinq", "Cinquante et cinq", "Cinq cinquante"],
+            "correct": 0,
+            "explanation": "Avec trait d'union."
+          },
+          {
+            "question": "Comment dit-on '0' en français ?",
+            "options": ["Zéro", "Zéroo", "Zérro", "Zerou"],
+            "correct": 0,
+            "explanation": "Orthographe exacte : 'zéro'."
+          }
+        ]
+      },
+      {
+        "name": "Communiquer en classe",
+        "questions": [
+          {
+            "question": "Comment demande-t-on de répéter poliment ?",
+            "options": ["Répète", "Pouvez-vous répéter ?", "Encore", "Hein ?"],
+            "correct": 1,
+            "explanation": "Le vouvoiement est poli."
+          },
+          {
+            "question": "Que signifie 'Je ne comprends pas' ?",
+            "options": ["I don't know", "I don't understand", "I don't agree", "I don't remember"],
+            "correct": 1,
+            "explanation": "Traduction exacte."
+          },
+          {
+            "question": "Comment dit-on 'How do you say...?' ?",
+            "options": ["Comment dire... ?", "Comment dit-on... ?", "Comment on dit... ?", "Comment tu dis... ?"],
+            "correct": 1,
+            "explanation": "Formulation impersonnelle correcte."
+          },
+          {
+            "question": "Quelle phrase demande l'aide du professeur ?",
+            "options": ["Aide-moi", "Je ne sais pas", "Je besoin d'aide", "Pourriez-vous m'aider ?"],
+            "correct": 3,
+            "explanation": "Forme polie avec conditionnel."
+          },
+          {
+            "question": "Comment dit-on 'I have a question' ?",
+            "options": ["J'ai une question", "Je prends une question", "Je fais une question", "Je veux une question"],
+            "correct": 0,
+            "explanation": "On utilise 'avoir' pour exprimer la possession."
+          }
+        ]
+      },
+      {
+        "name": "Les adjectifs de nationalité (masculin/féminin)",
+        "questions": [
+          {
+            "question": "Quelle est la forme féminine de 'canadien' ?",
+            "options": ["Canadienne", "Canadiene", "Canadienne", "Canadiense"],
+            "correct": 0,
+            "explanation": "Avec double 'n'."
+          },
+          {
+            "question": "Comment dit-on 'She is Italian' ?",
+            "options": ["Elle est italien", "Elle est italienne", "Elle est italiana", "Elle est italique"],
+            "correct": 1,
+            "explanation": "Féminin en '-ienne'."
+          },
+          {
+            "question": "Quelle nationalité correspond à 'Allemagne' ?",
+            "options": ["Allemand", "Allemande", "Allemagne", "German"],
+            "correct": 0,
+            "explanation": "Masculin : 'un Allemand'."
+          },
+          {
+            "question": "Comment dit-on 'They are Spanish' (féminin) ?",
+            "options": ["Elles sont espagnoles", "Elles sont espagnols", "Elles sont españoles", "Elles sont espagnoles"],
+            "correct": 0,
+            "explanation": "Féminin pluriel en '-oles'."
+          },
+          {
+            "question": "Quelle phrase est correcte ?",
+            "options": ["Il est français", "Il est française", "Il est françaises", "Il est de France"],
+            "correct": 0,
+            "explanation": "Masculin singulier sans 'e'."
+          }
+        ]
+      },
+      {
+        "name": "Les verbes s’appeler et être",
+        "questions": [
+          {
+            "question": "Conjuguez 's'appeler' à 'nous'",
+            "options": ["Nous s'appelons", "Nous nous appelons", "Nous appelons", "Nous sommes appelons"],
+            "correct": 1,
+            "explanation": "Forme réfléchie correcte."
+          },
+          {
+            "question": "Comment dit-on 'You are (singular)' ?",
+            "options": ["Tu es", "Tu est", "Tu êtes", "Tu as"],
+            "correct": 0,
+            "explanation": "Conjugaison correcte."
+          },
+          {
+            "question": "Quelle phrase utilise 'être' correctement ?",
+            "options": ["Je suis fatigue", "Je suis fatigué", "Je suis fatiguée", "Je suis fatigués"],
+            "correct": 1,
+            "explanation": "Accord avec le sujet (masculin ici)."
+          },
+          {
+            "question": "Comment dit-on 'They are called' ?",
+            "options": ["Ils s'appellent", "Ils sont appelés", "Ils appellent", "Ils sont appellent"],
+            "correct": 0,
+            "explanation": "Forme réfléchie."
+          },
+          {
+            "question": "Quelle phrase est correcte ?",
+            "options": ["Vous êtes étudiants", "Vous êtes étudiant", "Vous êtes étudients", "Vous êtes étudiantes"],
+            "correct": 0,
+            "explanation": "Pluriel masculin correct."
+          }
+        ]
+      },
+      {
+        "name": "Les articles définis",
+        "questions": [
+          {
+            "question": "Quel est l'article défini féminin ?",
+            "options": ["le", "la", "un", "des"],
+            "correct": 1,
+            "explanation": "'La' pour les noms féminins."
+          },
+          {
+            "question": "Quelle phrase est correcte ?",
+            "options": ["J'aime la France", "J'aime France", "J'aime une France", "J'aime de France"],
+            "correct": 0,
+            "explanation": "Article défini devant les pays féminins."
+          },
+          {
+            "question": "Comment dit-on 'the books' ?",
+            "options": ["le livre", "la livre", "les livres", "des livres"],
+            "correct": 2,
+            "explanation": "Pluriel : 'les'."
+          },
+          {
+            "question": "Quel article utilise-t-on devant une voyelle ?",
+            "options": ["le", "la", "l'", "les"],
+            "correct": 2,
+            "explanation": "Élision obligatoire."
+          },
+          {
+            "question": "Quelle phrase utilise correctement 'les' ?",
+            "options": ["Les garçon", "Les garçons", "Le garçons", "La garçons"],
+            "correct": 1,
+            "explanation": "Article + nom au pluriel."
+          }
+        ]
+      },
+      {
+        "name": "Le genre des noms de pays",
+        "questions": [
+          {
+            "question": "Quel est le genre de 'Portugal' ?",
+            "options": ["Masculin", "Féminin", "Les deux", "Neutre"],
+            "correct": 0,
+            "explanation": "La plupart des pays en -al sont masculins."
+          },
+          {
+            "question": "Comment dit-on 'in Italy' ?",
+            "options": ["au Italie", "en Italie", "à Italie", "dans Italie"],
+            "correct": 1,
+            "explanation": "'Italie' est féminin : 'en'."
+          },
+          {
+            "question": "Quel est le genre de 'Mexique' ?",
+            "options": ["Masculin", "Féminin", "Les deux", "Neutre"],
+            "correct": 0,
+            "explanation": "Pays en -e mais masculin."
+          },
+          {
+            "question": "Comment dit-on 'from Canada' ?",
+            "options": ["de Canada", "du Canada", "au Canada", "dans Canada"],
+            "correct": 1,
+            "explanation": "'Du' = de + le (masculin)."
+          },
+          {
+            "question": "Quelle phrase est correcte ?",
+            "options": ["Je vais en Belgique", "Je vais au Belgique", "Je vais à Belgique", "Je vais dans Belgique"],
+            "correct": 0,
+            "explanation": "'Belgique' est féminin : 'en'."
+          }
+        ]
+      }
+    ]
+  }
