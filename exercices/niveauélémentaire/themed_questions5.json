@@ -1,0 +1,494 @@
+{
+  "categories": [
+      {
+          "name": "Présenter un réalisateur / un film",
+          "questions": [
+              {
+                  "question": "Comment présente-t-on un réalisateur ?",
+                  "options": ["C'est le réalisateur de...", "Il a fait...", "Ce film est réalisé par...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Toutes ces formulations permettent de présenter un réalisateur."
+              },
+              {
+                  "question": "Quelle phrase décrit correctement un film ?",
+                  "options": ["C'est l'histoire de...", "Ça se passe...", "Le film raconte...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois formulations sont couramment utilisées pour décrire un film."
+              },
+              {
+                  "question": "Comment présente-t-on le genre d'un film ?",
+                  "options": ["C'est un film d'action", "Ce film est d'action", "Il s'agit d'action", "Le genre est action"],
+                  "correct": 0,
+                  "explanation": "'C'est un film de + genre' est la formulation standard."
+              },
+              {
+                  "question": "Comment dit-on 'It was released in 2020' ?",
+                  "options": ["Il est sorti en 2020", "Il sort en 2020", "Il était sorti en 2020", "Il a sorti en 2020"],
+                  "correct": 0,
+                  "explanation": "Le passé composé est utilisé pour indiquer la date de sortie."
+              },
+              {
+                  "question": "Quelle phrase présente correctement le rôle principal ?",
+                  "options": ["Le rôle principal est joué par...", "... joue dans le film", "... est l'acteur principal", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois formulations sont correctes pour présenter l'acteur principal."
+              }
+          ]
+      },
+      {
+          "name": "Exprimer des appréciations",
+          "questions": [
+              {
+                  "question": "Comment exprime-t-on une appréciation positive ?",
+                  "options": ["J'ai adoré ce film", "Ce film me plaît", "Je trouve ce film intéressant", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois expressions montrent une appréciation positive."
+              },
+              {
+                  "question": "Quelle expression montre une opinion négative ?",
+                  "options": ["Je n'ai pas aimé", "Je trouve ça nul", "Ce n'est pas mon truc", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois expressions montrent une appréciation négative."
+              },
+              {
+                  "question": "Comment exprime-t-on son opinion de manière nuancée ?",
+                  "options": ["J'ai aimé, mais...", "C'est pas mal, cependant...", "C'est intéressant, toutefois...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Utiliser une conjonction d'opposition permet de nuancer son opinion."
+              },
+              {
+                  "question": "Quelle expression est la plus formelle ?",
+                  "options": ["C'est nul", "Je n'apprécie pas particulièrement", "Bof", "Je déteste"],
+                  "correct": 1,
+                  "explanation": "La formulation avec 'apprécier' est plus formelle et nuancée."
+              },
+              {
+                  "question": "Comment demande-t-on l'avis de quelqu'un poliment ?",
+                  "options": ["Tu aimes ?", "Qu'en pensez-vous ?", "C'est bien ?", "Ton opinion ?"],
+                  "correct": 1,
+                  "explanation": "Le vouvoiement et la formulation complète sont plus polis."
+              }
+          ]
+      },
+      {
+          "name": "Inciter à pratiquer une activité",
+          "questions": [
+              {
+                  "question": "Comment suggère-t-on une activité à quelqu'un ?",
+                  "options": ["Tu devrais essayer...", "Pourquoi ne pas tenter... ?", "Je te conseille de...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois formulations sont des suggestions courantes."
+              },
+              {
+                  "question": "Quelle phrase est une invitation à faire une activité ?",
+                  "options": ["Ça te dit de... ?", "On pourrait... ?", "Tu es partant pour... ?", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces expressions invitent toutes à participer à une activité."
+              },
+              {
+                  "question": "Comment persuade-t-on quelqu'un de manière polie ?",
+                  "options": ["Tu dois absolument...", "Vous devriez essayer...", "Fais ça !", "Il faut que tu..."],
+                  "correct": 1,
+                  "explanation": "Le conditionnel et le vouvoiement sont plus polis."
+              },
+              {
+                  "question": "Quelle phrase présente les avantages d'une activité ?",
+                  "options": ["C'est bon pour la santé", "Ça permet de...", "C'est l'occasion de...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois expressions présentent des avantages différents."
+              },
+              {
+                  "question": "Comment encourager quelqu'un à continuer une activité ?",
+                  "options": ["Continue comme ça !", "Ne t'arrête pas", "Tu progresses bien", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois expressions sont des encouragements positifs."
+              }
+          ]
+      },
+      {
+          "name": "Parler de ses activités de loisirs et de la vie associative",
+          "questions": [
+              {
+                  "question": "Comment parle-t-on de son passe-temps préféré ?",
+                  "options": ["J'adore faire du...", "Ma passion, c'est...", "Je pratique... depuis...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois formulations expriment un intérêt pour une activité."
+              },
+              {
+                  "question": "Quelle phrase exprime la fréquence d'une activité ?",
+                  "options": ["Je joue au tennis une fois par semaine", "Je fais du tennis souvent", "Je vais au tennis quelquefois", "Je pratique le tennis régulièrement"],
+                  "correct": 0,
+                  "explanation": "La formulation précise avec 'une fois par semaine' est la plus claire."
+              },
+              {
+                  "question": "Comment explique-t-on son engagement associatif ?",
+                  "options": ["Je suis membre de...", "Je fais partie de...", "Je suis bénévole à...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois expressions décrivent un engagement associatif."
+              },
+              {
+                  "question": "Quelle phrase décrit une responsabilité dans une association ?",
+                  "options": ["Je suis le président", "Je m'occupe de...", "Je suis responsable de...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois formulations décrivent des responsabilités."
+              },
+              {
+                  "question": "Comment parle-t-on des bénéfices de la vie associative ?",
+                  "options": ["Ça me permet de rencontrer des gens", "J'apprends beaucoup", "C'est enrichissant", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois phrases évoquent différents bénéfices."
+              }
+          ]
+      },
+      {
+          "name": "Sélectionner une prestation touristique",
+          "questions": [
+              {
+                  "question": "Comment demande-t-on des informations sur un circuit touristique ?",
+                  "options": ["Je voudrais des renseignements sur...", "Pouvez-vous me parler de ce circuit ?", "Qu'est-ce que ce tour comprend ?", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois formulations demandent des informations."
+              },
+              {
+                  "question": "Quelle question porte sur le prix ?",
+                  "options": ["Combien coûte cette excursion ?", "Quel est le tarif ?", "Est-ce que le prix inclut... ?", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois questions concernent le prix."
+              },
+              {
+                  "question": "Comment demande-t-on la durée d'une visite ?",
+                  "options": ["Combien de temps dure la visite ?", "À quelle heure finit la visite ?", "C'est long ?", "Quelle est la durée ?"],
+                  "correct": 0,
+                  "explanation": "'Combien de temps dure...' est la formulation la plus claire."
+              },
+              {
+                  "question": "Quelle phrase compare deux options touristiques ?",
+                  "options": ["Je préfère le circuit A au circuit B", "Le circuit A est mieux que le B", "Entre A et B, je choisis A", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois phrases expriment une comparaison et une préférence."
+              },
+              {
+                  "question": "Comment exprime-t-on ses attentes pour une excursion ?",
+                  "options": ["Je voudrais voir...", "Je m'intéresse surtout à...", "Je cherche une excursion qui...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois formulations expriment des souhaits différents."
+              }
+          ]
+      },
+      {
+          "name": "Faire une réservation",
+          "questions": [
+              {
+                  "question": "Comment fait-on une réservation polie ?",
+                  "options": ["Je veux réserver", "Je souhaiterais réserver", "Réservez-moi", "J'ai besoin d'une réservation"],
+                  "correct": 1,
+                  "explanation": "Le conditionnel 'souhaiterais' est plus poli."
+              },
+              {
+                  "question": "Quelle phrase précise la date d'une réservation ?",
+                  "options": ["Pour le 15 juin", "Au 15 juin", "En 15 juin", "Du 15 juin"],
+                  "correct": 0,
+                  "explanation": "'Pour le + date' est la formulation standard."
+              },
+              {
+                  "question": "Comment précise-t-on le nombre de personnes ?",
+                  "options": ["Nous sommes quatre", "Pour quatre personnes", "Une table de quatre", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois formulations sont correctes selon le contexte."
+              },
+              {
+                  "question": "Quelle phrase demande une confirmation de réservation ?",
+                  "options": ["Est-ce que c'est bien réservé ?", "Pouvez-vous confirmer la réservation ?", "J'ai bien une réservation ?", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois questions demandent une confirmation."
+              },
+              {
+                  "question": "Comment annule-t-on une réservation poliment ?",
+                  "options": ["J'annule", "Je dois annuler ma réservation", "Annulez ma réservation", "Je ne viendrai pas"],
+                  "correct": 1,
+                  "explanation": "La formulation complète avec 'devoir' est polie et claire."
+              }
+          ]
+      },
+      {
+          "name": "Informer sur un itinéraire",
+          "questions": [
+              {
+                  "question": "Comment demande-t-on son chemin poliment ?",
+                  "options": ["Où est... ?", "Pour aller à... ?", "Excusez-moi, pourriez-vous m'indiquer le chemin pour... ?", "Comment je vais à... ?"],
+                  "correct": 2,
+                  "explanation": "La formule complète avec 'excusez-moi' et le conditionnel est la plus polie."
+              },
+              {
+                  "question": "Quelle phrase indique correctement une direction ?",
+                  "options": ["Allez tout droit", "Continuez jusqu'au feu", "Prenez la première à droite", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois indications sont claires et précises."
+              },
+              {
+                  "question": "Comment indique-t-on la distance ?",
+                  "options": ["C'est à 200 mètres", "C'est à environ 5 minutes à pied", "Ce n'est pas loin d'ici", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois formulations donnent une indication de distance."
+              },
+              {
+                  "question": "Quelle phrase est utile pour vérifier la compréhension ?",
+                  "options": ["Vous avez compris ?", "C'est clair ?", "Vous voyez où c'est ?", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois questions vérifient la compréhension de l'interlocuteur."
+              },
+              {
+                  "question": "Comment indique-t-on un point de repère ?",
+                  "options": ["Vous verrez une église", "C'est juste à côté de la poste", "C'est en face du parc", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois phrases décrivent des points de repère."
+              }
+          ]
+      },
+      {
+          "name": "La place de l'adverbe dans les temps composés",
+          "questions": [
+              {
+                  "question": "Où place-t-on l'adverbe dans le passé composé ?",
+                  "options": ["Avant l'auxiliaire", "Entre l'auxiliaire et le participe passé", "Après le participe passé", "N'importe où"],
+                  "correct": 1,
+                  "explanation": "L'adverbe se place généralement entre l'auxiliaire et le participe passé."
+              },
+              {
+                  "question": "Quelle phrase place correctement l'adverbe 'bien' ?",
+                  "options": ["J'ai bien mangé", "Je bien ai mangé", "J'ai mangé bien", "Bien j'ai mangé"],
+                  "correct": 0,
+                  "explanation": "'Bien' se place entre l'auxiliaire 'ai' et le participe passé 'mangé'."
+              },
+              {
+                  "question": "Comment place-t-on l'adverbe 'beaucoup' ?",
+                  "options": ["Nous avons beaucoup travaillé", "Nous beaucoup avons travaillé", "Nous avons travaillé beaucoup", "Beaucoup nous avons travaillé"],
+                  "correct": 0,
+                  "explanation": "'Beaucoup' se place entre l'auxiliaire et le participe passé."
+              },
+              {
+                  "question": "Quelle phrase place correctement l'adverbe 'souvent' ?",
+                  "options": ["Elle a souvent voyagé", "Elle souvent a voyagé", "Elle a voyagé souvent", "Souvent elle a voyagé"],
+                  "correct": 0,
+                  "explanation": "'Souvent' se place entre l'auxiliaire et le participe passé."
+              },
+              {
+                  "question": "Quels adverbes peuvent se placer après le participe passé ?",
+                  "options": ["Bien, mal", "Toujours, jamais", "Aujourd'hui, hier", "Ici, là-bas"],
+                  "correct": 3,
+                  "explanation": "Les adverbes de lieu comme 'ici', 'là-bas' peuvent se placer après."
+              }
+          ]
+      },
+      {
+          "name": "La place des adjectifs",
+          "questions": [
+              {
+                  "question": "Quelle est la position standard des adjectifs en français ?",
+                  "options": ["Avant le nom", "Après le nom", "Ça dépend de l'adjectif", "N'importe où"],
+                  "correct": 1,
+                  "explanation": "En français, la majorité des adjectifs se placent après le nom."
+              },
+              {
+                  "question": "Quels adjectifs se placent généralement avant le nom ?",
+                  "options": ["Long, court", "Rouge, bleu", "Beau, petit, grand", "Français, américain"],
+                  "correct": 2,
+                  "explanation": "Les adjectifs courts et fréquents comme beau, petit, grand se placent avant."
+              },
+              {
+                  "question": "Quelle phrase place correctement l'adjectif ?",
+                  "options": ["Une rouge voiture", "Une voiture rouge", "Rouge une voiture", "Une voiture la rouge"],
+                  "correct": 1,
+                  "explanation": "Les adjectifs de couleur se placent après le nom."
+              },
+              {
+                  "question": "Comment place-t-on les adjectifs de nationalité ?",
+                  "options": ["Un français film", "Un film français", "Un film de France", "Français un film"],
+                  "correct": 1,
+                  "explanation": "Les adjectifs de nationalité se placent après le nom."
+              },
+              {
+                  "question": "Quelle phrase montre un adjectif qui change de sens selon sa position ?",
+                  "options": ["Un grand homme / Un homme grand", "Un petit chat / Un chat petit", "Un vieux livre / Un livre vieux", "Un beau jardin / Un jardin beau"],
+                  "correct": 0,
+                  "explanation": "'Un grand homme' (important) vs 'un homme grand' (de grande taille)."
+              }
+          ]
+      },
+      {
+          "name": "Les pronoms personnels après à et de",
+          "questions": [
+              {
+                  "question": "Quel est le pronom tonique pour 'je' ?",
+                  "options": ["me", "moi", "à moi", "de moi"],
+                  "correct": 1,
+                  "explanation": "'Moi' est le pronom tonique correspondant à 'je'."
+              },
+              {
+                  "question": "Comment dit-on 'to her' ?",
+                  "options": ["elle", "la", "lui", "à elle"],
+                  "correct": 2,
+                  "explanation": "'Lui' est le pronom COI pour 'à elle'."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement le pronom après 'de' ?",
+                  "options": ["Je parle de tu", "Je parle de toi", "Je parle tu", "Je parle toi"],
+                  "correct": 1,
+                  "explanation": "Après 'de', on utilise le pronom tonique 'toi'."
+              },
+              {
+                  "question": "Comment dit-on 'with us' ?",
+                  "options": ["avec nous", "avec on", "avec notres", "avec les nous"],
+                  "correct": 0,
+                  "explanation": "'Nous' est à la fois pronom sujet et tonique."
+              },
+              {
+                  "question": "Quelle phrase est correcte ?",
+                  "options": ["C'est pour ils", "C'est pour eux", "C'est pour ils-mêmes", "C'est pour leur"],
+                  "correct": 1,
+                  "explanation": "'Eux' est le pronom tonique correspondant à 'ils'."
+              }
+          ]
+      },
+      {
+          "name": "Les pronoms COI (rappel)",
+          "questions": [
+              {
+                  "question": "Où place-t-on le pronom COI dans une phrase ?",
+                  "options": ["Après le verbe", "Avant le verbe", "À la fin de la phrase", "Au début de la phrase"],
+                  "correct": 1,
+                  "explanation": "Le pronom COI se place avant le verbe."
+              },
+              {
+                  "question": "Quel est le pronom COI pour 'à Pierre' ?",
+                  "options": ["le", "la", "lui", "leur"],
+                  "correct": 2,
+                  "explanation": "'Lui' remplace 'à + personne singulier'."
+              },
+              {
+                  "question": "Comment dit-on 'I speak to them' ?",
+                  "options": ["Je les parle", "Je parle les", "Je leur parle", "Je parle à eux"],
+                  "correct": 2,
+                  "explanation": "'Leur' est le COI pluriel pour 'à eux/elles'."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement le pronom COI ?",
+                  "options": ["Je donne le livre à Marie → Je donne le livre à elle", "Je donne le livre à Marie → Je lui donne le livre", "Je donne le livre à Marie → Je la donne le livre", "Je donne le livre à Marie → Je donne lui le livre"],
+                  "correct": 1,
+                  "explanation": "'Lui' remplace 'à Marie' et se place avant le verbe."
+              },
+              {
+                  "question": "Où se place le pronom COI dans l'impératif affirmatif ?",
+                  "options": ["Avant le verbe", "Après le verbe", "Au début de la phrase", "N'importe où"],
+                  "correct": 1,
+                  "explanation": "À l'impératif affirmatif, le pronom COI suit le verbe (ex: parle-lui)."
+              }
+          ]
+      },
+      {
+          "name": "Les pronoms indirects en et y",
+          "questions": [
+              {
+                  "question": "À quoi sert le pronom 'en' ?",
+                  "options": ["Remplacer un lieu", "Remplacer une personne", "Remplacer un objet introduit par 'de'", "Remplacer une action"],
+                  "correct": 2,
+                  "explanation": "'En' remplace un nom précédé de 'de', 'du', 'des', etc."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement le pronom 'en' ?",
+                  "options": ["Je parle de mon travail → J'en parle", "Je vais à mon travail → J'en vais", "Je pense à mon travail → J'en pense", "Je travaille → J'en travaille"],
+                  "correct": 0,
+                  "explanation": "'En' remplace 'de mon travail'."
+              },
+              {
+                  "question": "À quoi sert le pronom 'y' ?",
+                  "options": ["Remplacer une personne", "Remplacer un lieu ou complément avec 'à'", "Remplacer une quantité", "Remplacer un animal"],
+                  "correct": 1,
+                  "explanation": "'Y' remplace un lieu ou un complément introduit par 'à'."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement le pronom 'y' ?",
+                  "options": ["Je vais à Paris → J'y vais", "Je parle de Paris → J'y parle", "Je viens de Paris → J'y viens", "Je suis Paris → J'y suis"],
+                  "correct": 0,
+                  "explanation": "'Y' remplace 'à Paris'."
+              },
+              {
+                  "question": "Où place-t-on les pronoms 'en' et 'y' ?",
+                  "options": ["Avant le verbe", "Après le verbe", "Au début de la phrase", "À la fin de la phrase"],
+                  "correct": 0,
+                  "explanation": "'En' et 'y' se placent directement avant le verbe."
+              }
+          ]
+      },
+      {
+          "name": "Le gérondif",
+          "questions": [
+              {
+                  "question": "Comment forme-t-on le gérondif ?",
+                  "options": ["en + participe présent", "en + infinitif", "en + participe passé", "en + verbe conjugué"],
+                  "correct": 0,
+                  "explanation": "Le gérondif se forme avec 'en' suivi du participe présent."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement le gérondif ?",
+                  "options": ["Je mange en lisant", "Je mange en lit", "Je mange en lu", "Je mange avec lire"],
+                  "correct": 0,
+                  "explanation": "Le gérondif correct est 'en lisant'."
+              },
+              {
+                  "question": "À quoi sert le gérondif ?",
+                  "options": ["Exprimer la simultanéité", "Exprimer l'antériorité", "Exprimer le futur", "Exprimer une condition"],
+                  "correct": 0,
+                  "explanation": "Le gérondif exprime principalement deux actions simultanées."
+              },
+              {
+                  "question": "Comment forme-t-on le participe présent de 'finir' ?",
+                  "options": ["finant", "finissant", "fini", "finient"],
+                  "correct": 1,
+                  "explanation": "Pour les verbes du 2e groupe, on utilise le radical + -issant."
+              },
+              {
+                  "question": "Quelle phrase exprime la manière avec le gérondif ?",
+                  "options": ["Il est parti en courant", "Il part et il court", "Il part pour courir", "Il part à courir"],
+                  "correct": 0,
+                  "explanation": "'En courant' exprime la manière dont il est parti."
+              }
+          ]
+      },
+      {
+          "name": "Les pronoms de lieu en et y",
+          "questions": [
+              {
+                  "question": "Quelle phrase remplace correctement le lieu par 'y' ?",
+                  "options": ["Je vais à la plage → J'y vais", "Je viens de la plage → J'y viens", "Je parle de la plage → J'y parle", "Je suis la plage → J'y suis"],
+                  "correct": 0,
+                  "explanation": "'Y' remplace un lieu introduit par 'à', 'au', 'aux', etc."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement 'en' pour un lieu ?",
+                  "options": ["Je vais en France", "Je viens en France", "Je viens de France → J'en viens", "Je suis en France → J'en suis"],
+                  "correct": 2,
+                  "explanation": "'En' remplace un lieu introduit par 'de', 'du', 'des', etc."
+              },
+              {
+                  "question": "Comment remplace-t-on 'au cinéma' par un pronom ?",
+                  "options": ["J'en vais", "J'y vais", "Je le vais", "Je lui vais"],
+                  "correct": 1,
+                  "explanation": "'Y' remplace 'au cinéma' car il est introduit par 'à' + article."
+              },
+              {
+                  "question": "Quelle phrase est correcte avec 'en' comme pronom de lieu ?",
+                  "options": ["Je reviens de Paris → J'en reviens", "Je vais à Paris → J'en vais", "Je suis à Paris → J'en suis", "J'habite Paris → J'en habite"],
+                  "correct": 0,
+                  "explanation": "'En' remplace 'de Paris'."
+              },
+              {
+                  "question": "Où place-t-on les pronoms 'en' et 'y' à l'impératif affirmatif ?",
+                  "options": ["Avant le verbe", "Après le verbe avec un trait d'union", "Au début de la phrase", "À la fin sans trait d'union"],
+                  "correct": 1,
+                  "explanation": "À l'impératif affirmatif : vas-y, parles-en (après le verbe)."
+              }
+          ]
+      }
+  ]
+}

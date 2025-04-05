@@ -1,0 +1,529 @@
+{
+  "categories": [
+      {
+          "name": "Envisager l'avenir : exprimer des souhaits / des espoirs / des vœux",
+          "questions": [
+              {
+                  "question": "Comment exprime-t-on un souhait personnel ?",
+                  "options": ["Je voulais", "J'espère", "Je souhaiterais", "Toutes ces réponses"],
+                  "correct": 2,
+                  "explanation": "Le conditionnel 'Je souhaiterais' exprime poliment un souhait."
+              },
+              {
+                  "question": "Quelle expression permet d'exprimer un espoir ?",
+                  "options": ["J'ai l'espoir que", "J'espère que", "Je pense que", "Je crois que"],
+                  "correct": 1,
+                  "explanation": "'J'espère que' est l'expression standard pour un espoir."
+              },
+              {
+                  "question": "Comment formule-t-on un vœu pour quelqu'un d'autre ?",
+                  "options": ["Je te souhaite", "J'aimerais pour toi", "Je veux que tu", "Je pense que tu"],
+                  "correct": 0,
+                  "explanation": "'Je te souhaite + complément' exprime un vœu pour autrui."
+              },
+              {
+                  "question": "Quelle phrase exprime un projet futur ?",
+                  "options": ["J'ai envie de voyager", "Je voyage", "Je suis en voyage", "Je voyage souvent"],
+                  "correct": 0,
+                  "explanation": "'Avoir envie de + infinitif' exprime un désir futur."
+              },
+              {
+                  "question": "Comment exprime-t-on un rêve pour l'avenir ?",
+                  "options": ["Un jour, je serai", "Je suis", "J'étais", "Je suis en train de"],
+                  "correct": 0,
+                  "explanation": "Le futur simple exprime une projection dans l'avenir."
+              }
+          ]
+      },
+      {
+          "name": "Faire des suggestions",
+          "questions": [
+              {
+                  "question": "Quelle formule est utilisée pour faire une suggestion ?",
+                  "options": ["Tu dois", "Et si on", "Je veux", "Il faut"],
+                  "correct": 1,
+                  "explanation": "'Et si on + verbe' propose une action commune."
+              },
+              {
+                  "question": "Comment suggère-t-on une activité poliment ?",
+                  "options": ["Fais ça", "On pourrait", "Tu vas", "Il est nécessaire"],
+                  "correct": 1,
+                  "explanation": "Le conditionnel 'On pourrait' est poli pour une suggestion."
+              },
+              {
+                  "question": "Quelle phrase fait une suggestion indirecte ?",
+                  "options": ["Va au cinéma", "Tu devrais aller au cinéma", "Allons au cinéma", "Le cinéma est sympa"],
+                  "correct": 3,
+                  "explanation": "Une affirmation positive peut suggérer indirectement."
+              },
+              {
+                  "question": "Comment formule-t-on une suggestion avec 'si' ?",
+                  "options": ["Si tu vas", "Si tu irais", "Si tu allais", "Si tu iras"],
+                  "correct": 2,
+                  "explanation": "L'imparfait après 'si' formule une suggestion hypothétique."
+              },
+              {
+                  "question": "Quelle expression suggère une alternative ?",
+                  "options": ["Plutôt que", "Mieux que", "Plus que", "Autant que"],
+                  "correct": 0,
+                  "explanation": "'Plutôt que' introduit une alternative préférable."
+              }
+          ]
+      },
+      {
+          "name": "L'expression du souhait",
+          "questions": [
+              {
+                  "question": "Quel mode suit 'souhaiter que' ?",
+                  "options": ["Indicatif", "Subjonctif", "Conditionnel", "Impératif"],
+                  "correct": 1,
+                  "explanation": "'Souhaiter que' est suivi du subjonctif."
+              },
+              {
+                  "question": "Quel mode suit 'espérer que' ?",
+                  "options": ["Indicatif", "Subjonctif", "Conditionnel", "Impératif"],
+                  "correct": 0,
+                  "explanation": "'Espérer que' est suivi de l'indicatif."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement le subjonctif ?",
+                  "options": ["Je voudrais que tu viens", "Je voudrais que tu viennes", "Je voudrais que tu viendrais", "Je voudrais que tu venais"],
+                  "correct": 1,
+                  "explanation": "'Vouloir que' est suivi du subjonctif présent."
+              },
+              {
+                  "question": "Comment exprimer un souhait avec l'infinitif ?",
+                  "options": ["J'aimerais partir", "J'aime partir", "J'aimais partir", "J'aimerai partir"],
+                  "correct": 0,
+                  "explanation": "Le conditionnel 'aimerais' + infinitif exprime un souhait."
+              },
+              {
+                  "question": "Quelle phrase est correcte ?",
+                  "options": ["Je souhaite qu'il réussit", "Je souhaite qu'il réussisse", "Je souhaite qu'il réussirait", "Je souhaite qu'il réussissait"],
+                  "correct": 1,
+                  "explanation": "Le subjonctif présent 'réussisse' est requis après 'souhaiter que'."
+              }
+          ]
+      },
+      {
+          "name": "Le conditionnel présent pour faire une suggestion",
+          "questions": [
+              {
+                  "question": "Comment forme-t-on le conditionnel présent ?",
+                  "options": ["Radical du futur + terminaisons de l'imparfait", "Infinitif + terminaisons du présent", "Radical du présent + terminaisons du futur", "Participe passé + avoir au présent"],
+                  "correct": 0,
+                  "explanation": "Le conditionnel = radical du futur + terminaisons de l'imparfait."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement le conditionnel ?",
+                  "options": ["Tu pourrais essayer", "Tu peux essayer", "Tu pouvais essayer", "Tu pourras essayer"],
+                  "correct": 0,
+                  "explanation": "'Pourrais' est la forme correcte du conditionnel."
+              },
+              {
+                  "question": "Comment suggérer poliment une activité ?",
+                  "options": ["Nous allons au cinéma", "Nous irions au cinéma", "Nous allions au cinéma", "Nous irons au cinéma"],
+                  "correct": 1,
+                  "explanation": "Le conditionnel 'irions' adoucit la suggestion."
+              },
+              {
+                  "question": "Quelle est la forme du conditionnel de 'faire' à la 1ère personne du singulier ?",
+                  "options": ["Je fais", "Je ferais", "Je ferai", "Je faisais"],
+                  "correct": 1,
+                  "explanation": "'Je ferais' est le conditionnel présent de 'faire'."
+              },
+              {
+                  "question": "Quelle phrase est une suggestion polie ?",
+                  "options": ["Il faut ranger ta chambre", "Range ta chambre", "Tu devrais ranger ta chambre", "Tu ranges ta chambre"],
+                  "correct": 2,
+                  "explanation": "'Devrais' au conditionnel adoucit le conseil."
+              }
+          ]
+      },
+      {
+          "name": "Parler de ses centres d'intérêt, de ses engagements",
+          "questions": [
+              {
+                  "question": "Comment parle-t-on d'une passion ?",
+                  "options": ["Je suis passionné(e) par", "J'ai passionné", "Je fais passionné", "Je vais passionné"],
+                  "correct": 0,
+                  "explanation": "'Être passionné(e) par' exprime un intérêt fort."
+              },
+              {
+                  "question": "Quelle phrase exprime un engagement associatif ?",
+                  "options": ["Je travaille pour", "Je fais partie de", "Je suis avec", "Je vais à"],
+                  "correct": 1,
+                  "explanation": "'Faire partie de' indique l'appartenance à un groupe."
+              },
+              {
+                  "question": "Comment dit-on qu'on participe régulièrement à une activité ?",
+                  "options": ["Je pratique", "J'ai fait", "Je vais faire", "Je ferais"],
+                  "correct": 0,
+                  "explanation": "'Pratiquer' au présent indique une habitude."
+              },
+              {
+                  "question": "Quelle expression décrit un centre d'intérêt ?",
+                  "options": ["Je m'intéresse à", "J'ai intérêt à", "Je suis intéressé", "J'intéresse à"],
+                  "correct": 0,
+                  "explanation": "'Se intéresser à' est la construction correcte."
+              },
+              {
+                  "question": "Comment parle-t-on d'un engagement bénévole ?",
+                  "options": ["Je travaille comme bénévole", "Je suis bénévole", "Je fais du bénévolat", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Toutes ces formulations sont correctes."
+              }
+          ]
+      },
+      {
+          "name": "Exprimer un but, un objectif",
+          "questions": [
+              {
+                  "question": "Quelle préposition introduit un but avec un infinitif ?",
+                  "options": ["à", "de", "pour", "par"],
+                  "correct": 2,
+                  "explanation": "'Pour + infinitif' exprime le but."
+              },
+              {
+                  "question": "Comment introduit-on un objectif avec le subjonctif ?",
+                  "options": ["parce que", "à condition que", "afin que", "bien que"],
+                  "correct": 2,
+                  "explanation": "'Afin que + subjonctif' exprime le but."
+              },
+              {
+                  "question": "Quelle phrase exprime correctement un but ?",
+                  "options": ["J'étudie parce que je veux réussir", "J'étudie pour réussir", "J'étudie donc je réussis", "J'étudie mais je veux réussir"],
+                  "correct": 1,
+                  "explanation": "'Pour + infinitif' est la construction la plus directe."
+              },
+              {
+                  "question": "Comment exprime-t-on l'objectif avec 'dans le but de' ?",
+                  "options": ["dans le but de + nom", "dans le but de + verbe conjugué", "dans le but de + infinitif", "dans le but de + adjectif"],
+                  "correct": 2,
+                  "explanation": "'Dans le but de' est suivi de l'infinitif."
+              },
+              {
+                  "question": "Quelle locution exprime un objectif ?",
+                  "options": ["en vue de", "à cause de", "grâce à", "malgré"],
+                  "correct": 0,
+                  "explanation": "'En vue de' exprime la finalité, l'objectif."
+              }
+          ]
+      },
+      {
+          "name": "Présenter un projet",
+          "questions": [
+              {
+                  "question": "Comment introduit-on la présentation d'un projet ?",
+                  "options": ["Je vais vous parler de", "Je parle de", "Je parlais de", "Je parlerais de"],
+                  "correct": 0,
+                  "explanation": "Le futur proche est adapté pour introduire un projet."
+              },
+              {
+                  "question": "Quelle formule exprime une intention future ?",
+                  "options": ["J'ai l'intention de", "J'avais l'intention de", "J'aurais l'intention de", "J'ai eu l'intention de"],
+                  "correct": 0,
+                  "explanation": "'Avoir l'intention de' au présent exprime un projet."
+              },
+              {
+                  "question": "Comment exprime-t-on les étapes d'un projet ?",
+                  "options": ["D'abord... ensuite... enfin", "Peut-être... probablement... sans doute", "Hier... aujourd'hui... demain", "Rarement... parfois... souvent"],
+                  "correct": 0,
+                  "explanation": "Les connecteurs temporels structurent les étapes."
+              },
+              {
+                  "question": "Quelle expression présente un objectif de projet ?",
+                  "options": ["Ce projet vise à", "Ce projet est", "Ce projet était", "Ce projet a"],
+                  "correct": 0,
+                  "explanation": "'Viser à + infinitif' précise l'objectif."
+              },
+              {
+                  "question": "Comment conclut-on la présentation d'un projet ?",
+                  "options": ["En conclusion", "Pour finir", "Pour résumer", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Toutes ces formules peuvent conclure une présentation."
+              }
+          ]
+      },
+      {
+          "name": "Imaginer une situation hypothétique ou irréelle",
+          "questions": [
+              {
+                  "question": "Quelle structure exprime une hypothèse au présent ?",
+                  "options": ["Si + présent + présent", "Si + imparfait + conditionnel présent", "Si + plus-que-parfait + conditionnel passé", "Si + futur + futur"],
+                  "correct": 0,
+                  "explanation": "'Si + présent + présent' exprime une hypothèse probable."
+              },
+              {
+                  "question": "Comment exprime-t-on une situation irréelle au présent ?",
+                  "options": ["Si + présent + futur", "Si + imparfait + conditionnel présent", "Si + présent + impératif", "Si + conditionnel + conditionnel"],
+                  "correct": 1,
+                  "explanation": "'Si + imparfait + conditionnel présent' pour l'irréel du présent."
+              },
+              {
+                  "question": "Quelle phrase exprime une hypothèse correctement ?",
+                  "options": ["Si j'aurais le temps, je viendrais", "Si j'ai le temps, je viendrais", "Si j'avais le temps, je viendrais", "Si j'ai le temps, je viendrai"],
+                  "correct": 2,
+                  "explanation": "'Si + imparfait, conditionnel présent' est la structure correcte."
+              },
+              {
+                  "question": "Comment exprime-t-on un regret sur le passé ?",
+                  "options": ["Si j'étudiais", "Si j'avais étudié", "Si j'étudierai", "Si j'étudie"],
+                  "correct": 1,
+                  "explanation": "Le plus-que-parfait exprime un regret sur le passé."
+              },
+              {
+                  "question": "Quelle expression introduit une supposition ?",
+                  "options": ["Imaginons que", "Parce que", "À cause de", "Grâce à"],
+                  "correct": 0,
+                  "explanation": "'Imaginons que + subjonctif' introduit une hypothèse."
+              }
+          ]
+      },
+      {
+          "name": "Le but : afin de/ pour+ infinitif, afin que/pour que + subjonctif",
+          "questions": [
+              {
+                  "question": "Quelle expression de but utilise-t-on avec l'infinitif ?",
+                  "options": ["afin de", "afin que", "pour que", "de sorte que"],
+                  "correct": 0,
+                  "explanation": "'Afin de' est suivi de l'infinitif."
+              },
+              {
+                  "question": "Quel mode suit 'pour que' ?",
+                  "options": ["Indicatif", "Subjonctif", "Conditionnel", "Infinitif"],
+                  "correct": 1,
+                  "explanation": "'Pour que' est suivi du subjonctif."
+              },
+              {
+                  "question": "Quelle phrase exprime correctement un but ?",
+                  "options": ["J'économise afin d'acheter une voiture", "J'économise afin qu'acheter une voiture", "J'économise afin que j'achète une voiture", "J'économise afin j'achète une voiture"],
+                  "correct": 0,
+                  "explanation": "'Afin de + infinitif' est la construction correcte."
+              },
+              {
+                  "question": "Dans quel cas utilise-t-on 'pour que' au lieu de 'pour' ?",
+                  "options": ["Quand le sujet change", "Quand le sujet reste le même", "Dans tous les cas", "Jamais"],
+                  "correct": 0,
+                  "explanation": "'Pour que + subjonctif' quand les sujets sont différents."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement 'afin que' ?",
+                  "options": ["Je parle fort afin que tu entends", "Je parle fort afin que tu entendes", "Je parle fort afin tu entends", "Je parle fort afin de tu entendes"],
+                  "correct": 1,
+                  "explanation": "'Afin que' doit être suivi du subjonctif."
+              }
+          ]
+      },
+      {
+          "name": "Le conditionnel présent (projet, situation irréelle)",
+          "questions": [
+              {
+                  "question": "Quelle est la terminaison du conditionnel à la 1ère personne du singulier ?",
+                  "options": ["-ais", "-ai", "-a", "-as"],
+                  "correct": 0,
+                  "explanation": "La terminaison est '-ais' (je ferais)."
+              },
+              {
+                  "question": "Comment forme-t-on le conditionnel du verbe 'aller' ?",
+                  "options": ["j'allais", "j'irai", "j'irais", "je vais"],
+                  "correct": 2,
+                  "explanation": "On utilise le radical du futur 'ir-' + terminaison '-ais'."
+              },
+              {
+                  "question": "Quelle phrase utilise le conditionnel pour un projet ?",
+                  "options": ["Nous partons en vacances", "Nous partirions volontiers en vacances", "Nous partirons en vacances", "Nous partions en vacances"],
+                  "correct": 1,
+                  "explanation": "Le conditionnel exprime un projet hypothétique."
+              },
+              {
+                  "question": "Comment exprime-t-on une suggestion avec le conditionnel ?",
+                  "options": ["Tu dois faire cela", "Tu feras cela", "Tu pourrais faire cela", "Tu faisais cela"],
+                  "correct": 2,
+                  "explanation": "Le conditionnel avec 'pouvoir' adoucit la suggestion."
+              },
+              {
+                  "question": "Quelle phrase illustre une situation irréelle ?",
+                  "options": ["Si j'étais riche, j'achèterais une maison", "Si je suis riche, j'achèterai une maison", "Si j'étais riche, j'achète une maison", "Si je serai riche, j'achèterais une maison"],
+                  "correct": 0,
+                  "explanation": "L'imparfait + conditionnel exprime l'irréel du présent."
+              }
+          ]
+      },
+      {
+          "name": "Présenter / Résumer un livre",
+          "questions": [
+              {
+                  "question": "Comment introduit-on la présentation d'un livre ?",
+                  "options": ["Ce livre est écrit par", "Ce livre raconte", "Dans ce livre, il y a", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Toutes ces formulations sont possibles."
+              },
+              {
+                  "question": "Quel temps utilise-t-on pour résumer l'intrigue ?",
+                  "options": ["Passé composé", "Présent", "Imparfait", "Futur"],
+                  "correct": 1,
+                  "explanation": "Le présent de narration est le plus courant."
+              },
+              {
+                  "question": "Comment présente-t-on un personnage ?",
+                  "options": ["Le personnage principal est", "Il était une fois", "Dans cette histoire", "À la fin"],
+                  "correct": 0,
+                  "explanation": "Cette formulation directe présente le protagoniste."
+              },
+              {
+                  "question": "Quelle expression permet de ne pas révéler la fin ?",
+                  "options": ["Pour connaître la fin", "Sans dévoiler la fin", "Je ne dis pas la fin", "La fin c'est"],
+                  "correct": 1,
+                  "explanation": "'Sans dévoiler la fin' est l'expression consacrée."
+              },
+              {
+                  "question": "Comment donne-t-on son appréciation sur un livre ?",
+                  "options": ["À mon avis", "Je pense que", "J'ai trouvé que", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Toutes ces formules introduisent une opinion."
+              }
+          ]
+      },
+      {
+          "name": "Donner son avis, justifier ses choix",
+          "questions": [
+              {
+                  "question": "Quelle expression introduit une opinion personnelle ?",
+                  "options": ["Selon moi", "Il est certain que", "Tout le monde sait que", "Il est évident que"],
+                  "correct": 0,
+                  "explanation": "'Selon moi' indique clairement un avis personnel."
+              },
+              {
+                  "question": "Comment nuance-t-on son opinion ?",
+                  "options": ["Je suis sûr que", "Il me semble que", "Il est certain que", "Sans aucun doute"],
+                  "correct": 1,
+                  "explanation": "'Il me semble que' exprime une opinion nuancée."
+              },
+              {
+                  "question": "Quelle expression justifie un choix ?",
+                  "options": ["J'ai choisi... car", "Je préfère", "Je n'aime pas", "C'est mieux"],
+                  "correct": 0,
+                  "explanation": "'Car' introduit une justification directe."
+              },
+              {
+                  "question": "Comment exprime-t-on une préférence ?",
+                  "options": ["Je déteste", "Je préfère... à", "J'aime", "J'adore"],
+                  "correct": 1,
+                  "explanation": "'Préférer... à' exprime une comparaison préférentielle."
+              },
+              {
+                  "question": "Quelle expression renforce une opinion ?",
+                  "options": ["Je crois", "Je pense", "Je suis convaincu que", "Il est possible que"],
+                  "correct": 2,
+                  "explanation": "'Je suis convaincu que' exprime une forte conviction."
+              }
+          ]
+      },
+      {
+          "name": "Exprimer l'accord, le désaccord",
+          "questions": [
+              {
+                  "question": "Comment exprime-t-on un accord total ?",
+                  "options": ["Je suis d'accord", "Je suis tout à fait d'accord", "Je suis assez d'accord", "Je ne suis pas contre"],
+                  "correct": 1,
+                  "explanation": "'Tout à fait' renforce l'accord."
+              },
+              {
+                  "question": "Quelle expression marque un désaccord poli ?",
+                  "options": ["Tu as tort", "Ce n'est pas vrai", "Je ne suis pas vraiment d'accord", "C'est faux"],
+                  "correct": 2,
+                  "explanation": "L'adverbe 'vraiment' adoucit le désaccord."
+              },
+              {
+                  "question": "Comment nuance-t-on un accord partiel ?",
+                  "options": ["Oui, mais", "Absolument", "Tout à fait", "Je suis entièrement d'accord"],
+                  "correct": 0,
+                  "explanation": "'Oui, mais' introduit une nuance ou restriction."
+              },
+              {
+                  "question": "Quelle expression marque une opposition forte ?",
+                  "options": ["Je ne pense pas", "Je ne suis pas d'accord", "Pas du tout !", "Je suis contre"],
+                  "correct": 2,
+                  "explanation": "'Pas du tout' exprime un refus catégorique."
+              },
+              {
+                  "question": "Comment approuve-t-on une idée ?",
+                  "options": ["C'est une bonne idée", "Pourquoi pas", "Je n'ai rien contre", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Toutes ces expressions marquent l'approbation."
+              }
+          ]
+      },
+      {
+          "name": "Les connecteurs pour exprimer la cause et la conséquence",
+          "questions": [
+              {
+                  "question": "Quel connecteur exprime la cause ?",
+                  "options": ["donc", "alors", "car", "c'est pourquoi"],
+                  "correct": 2,
+                  "explanation": "'Car' introduit une cause, une explication."
+              },
+              {
+                  "question": "Quelle expression introduit une conséquence ?",
+                  "options": ["parce que", "puisque", "comme", "c'est pour cette raison que"],
+                  "correct": 3,
+                  "explanation": "'C'est pour cette raison que' introduit une conséquence."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement 'donc' ?",
+                  "options": ["Il pleut donc je prends mon parapluie", "Il pleut donc parce que je prends mon parapluie", "Je prends mon parapluie donc il pleut", "Il pleut comme donc je prends mon parapluie"],
+                  "correct": 0,
+                  "explanation": "'Donc' relie une cause à sa conséquence."
+              },
+              {
+                  "question": "Comment utilise-t-on 'en effet' ?",
+                  "options": ["Comme connecteur de cause", "Comme connecteur de conséquence", "Pour confirmer une idée", "Pour introduire une opposition"],
+                  "correct": 2,
+                  "explanation": "'En effet' renforce ou confirme une idée précédente."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement 'comme' ?",
+                  "options": ["Je sors comme il fait beau", "Il fait beau comme je sors", "Comme il fait beau, je sors", "Je sors, comme il fait beau"],
+                  "correct": 2,
+                  "explanation": "'Comme + cause' se place généralement en début de phrase."
+              }
+          ]
+      },
+      {
+          "name": "Grâce à / à cause de",
+          "questions": [
+              {
+                  "question": "Dans quel cas utilise-t-on 'grâce à' ?",
+                  "options": ["Pour une conséquence négative", "Pour une cause positive", "Pour une opposition", "Pour une condition"],
+                  "correct": 1,
+                  "explanation": "'Grâce à' introduit une cause aux effets positifs."
+              },
+              {
+                  "question": "Quelle préposition suit 'à cause de' ?",
+                  "options": ["de", "aucune, c'est déjà une préposition composée", "à", "pour"],
+                  "correct": 1,
+                  "explanation": "'À cause de' est une locution prépositive complète."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement 'grâce à' ?",
+                  "options": ["J'ai réussi grâce à mon travail", "J'ai échoué grâce à mon travail", "Grâce à la pluie, je suis trempé", "Je suis malade grâce au froid"],
+                  "correct": 0,
+                  "explanation": "'Grâce à' introduit la cause d'un événement positif."
+              },
+              {
+                  "question": "Dans quel contexte utilise-t-on 'à cause de' ?",
+                  "options": ["Pour un résultat positif", "Pour un résultat négatif", "Pour une condition", "Pour une hypothèse"],
+                  "correct": 1,
+                  "explanation": "'À cause de' introduit la cause d'un événement négatif."
+              },
+              {
+                  "question": "Quelle phrase est correcte ?",
+                  "options": ["À cause de son aide, j'ai réussi", "Grâce à son retard, nous avons manqué le train", "À cause de la pluie, la sortie est annulée", "Grâce à la maladie, je reste au lit"],
+                  "correct": 2,
+                  "explanation": "L'annulation (négative) est causée par la pluie."
+              }
+          ]
+      }
+  ]
+}

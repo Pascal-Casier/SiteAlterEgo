@@ -1,0 +1,494 @@
+{
+  "categories": [
+      {
+          "name": "Évoquer un changement de vie",
+          "questions": [
+              {
+                  "question": "Comment parle-t-on d'un changement récent ?",
+                  "options": ["Je viens de déménager", "Je déménageais", "Je déménagerai", "J'ai déménagé"],
+                  "correct": 0,
+                  "explanation": "Le passé récent 'venir de + infinitif' exprime un changement qui vient de se produire."
+              },
+              {
+                  "question": "Quelle structure exprime une nouvelle situation ?",
+                  "options": ["Maintenant, je suis...", "Désormais, je suis...", "Depuis, je suis...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois expressions peuvent introduire une nouvelle situation."
+              },
+              {
+                  "question": "Comment exprime-t-on un changement radical ?",
+                  "options": ["J'ai tout changé", "Tout a changé", "J'ai changé de vie", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois formulations expriment bien un changement radical."
+              },
+              {
+                  "question": "Quelle expression marque la rupture avec le passé ?",
+                  "options": ["Avant, j'étais...", "Auparavant, je travaillais...", "Autrefois, je vivais...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces marqueurs temporels introduisent un contraste avec le présent."
+              },
+              {
+                  "question": "Comment parle-t-on d'un projet de changement ?",
+                  "options": ["Je vais changer", "Je changerai", "J'ai l'intention de changer", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois formulations expriment un projet futur."
+              }
+          ]
+      },
+      {
+          "name": "Comprendre une biographie",
+          "questions": [
+              {
+                  "question": "Quel temps verbal est privilégié dans une biographie ?",
+                  "options": ["Présent", "Passé composé", "Imparfait", "Passé simple"],
+                  "correct": 3,
+                  "explanation": "Le passé simple est le temps du récit littéraire et biographique."
+              },
+              {
+                  "question": "Comment marque-t-on la chronologie dans une biographie ?",
+                  "options": ["En 1980...", "Puis...", "Ensuite...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces marqueurs temporels structurent une biographie."
+              },
+              {
+                  "question": "Quelle phrase est typique d'une biographie ?",
+                  "options": ["Il naquit en 1950", "Il est né en 1950", "Il naît en 1950", "Il va naître en 1950"],
+                  "correct": 0,
+                  "explanation": "Le passé simple 'naquit' est caractéristique du style biographique."
+              },
+              {
+                  "question": "Comment introduit-on un événement marquant ?",
+                  "options": ["C'est à cette époque qu'il...", "C'est alors qu'il...", "Ce fut à ce moment qu'il...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces formulations mettent en relief un événement important."
+              },
+              {
+                  "question": "Quelle formulation est appropriée pour conclure une biographie ?",
+                  "options": ["Il décéda en 2010", "Il mourut en 2010", "Il nous quitta en 2010", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces expressions sont adaptées pour mentionner un décès."
+              }
+          ]
+      },
+      {
+          "name": "Les marqueurs temporels : en + durée",
+          "questions": [
+              {
+                  "question": "Quand utilise-t-on 'en + durée' ?",
+                  "options": ["Pour une durée précise", "Pour indiquer en combien de temps", "Pour le moment exact", "Pour une durée indéterminée"],
+                  "correct": 1,
+                  "explanation": "'En + durée' indique en combien de temps une action est réalisée."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement 'en' ?",
+                  "options": ["J'ai fini en deux heures", "J'ai fini dans deux heures", "J'ai fini pendant deux heures", "J'ai fini pour deux heures"],
+                  "correct": 0,
+                  "explanation": "'En deux heures' indique la durée nécessaire pour accomplir l'action."
+              },
+              {
+                  "question": "Quelle est la différence entre 'en' et 'pendant' ?",
+                  "options": ["'En' = rapidité, 'pendant' = durée", "'En' = durée totale, 'pendant' = moment", "'En' = futur, 'pendant' = passé", "'En' = continu, 'pendant' = ponctuel"],
+                  "correct": 0,
+                  "explanation": "'En' suggère une efficacité, 'pendant' indique simplement une durée."
+              },
+              {
+                  "question": "Comment dit-on 'in 5 minutes (from now)' ?",
+                  "options": ["En 5 minutes", "Dans 5 minutes", "Pendant 5 minutes", "Pour 5 minutes"],
+                  "correct": 1,
+                  "explanation": "'Dans' indique un moment futur, 'en' une durée nécessaire."
+              },
+              {
+                  "question": "Quelle phrase est correcte ?",
+                  "options": ["Je peux le faire en une journée", "Je peux le faire dans une journée", "Je peux le faire pendant une journée", "Toutes sont correctes"],
+                  "correct": 0,
+                  "explanation": "'En une journée' indique la capacité de terminer dans ce délai."
+              }
+          ]
+      },
+      {
+          "name": "L'expression de rapports temporels",
+          "questions": [
+              {
+                  "question": "Quelle construction suit 'avant de' ?",
+                  "options": ["+ infinitif", "+ infinitif passé", "+ nom", "+ verbe conjugué"],
+                  "correct": 0,
+                  "explanation": "'Avant de' est toujours suivi de l'infinitif présent."
+              },
+              {
+                  "question": "Comment exprime-t-on une action antérieure ?",
+                  "options": ["Après avoir mangé", "Avant de manger", "En mangeant", "Pour manger"],
+                  "correct": 0,
+                  "explanation": "'Après + infinitif passé' exprime l'antériorité."
+              },
+              {
+                  "question": "Quelle phrase est correcte ?",
+                  "options": ["Avant de partir, j'ai fermé la porte", "Avant partir, j'ai fermé la porte", "Avant que je pars, j'ai fermé la porte", "Avant de je pars, j'ai fermé la porte"],
+                  "correct": 0,
+                  "explanation": "La construction correcte est 'avant de + infinitif'."
+              },
+              {
+                  "question": "Comment dit-on 'after having finished' ?",
+                  "options": ["Après finir", "Après avoir fini", "Après de finir", "Après que j'ai fini"],
+                  "correct": 1,
+                  "explanation": "'Après + infinitif passé' est la structure correcte."
+              },
+              {
+                  "question": "Quelle phrase exprime correctement la postériorité ?",
+                  "options": ["Il est parti après avoir mangé", "Il est parti après mange", "Il est parti après de manger", "Il est parti après qu'il a mangé"],
+                  "correct": 0,
+                  "explanation": "La structure correcte est 'après + infinitif passé' quand le sujet est le même."
+              }
+          ]
+      },
+      {
+          "name": "Le pronom relatif où",
+          "questions": [
+              {
+                  "question": "À quoi fait référence le pronom 'où' ?",
+                  "options": ["Un lieu", "Un moment", "Les deux", "Une personne"],
+                  "correct": 2,
+                  "explanation": "'Où' peut se référer à l'espace ou au temps."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement 'où' pour un lieu ?",
+                  "options": ["La ville où j'habite", "La ville que j'habite", "La ville laquelle j'habite", "La ville dont j'habite"],
+                  "correct": 0,
+                  "explanation": "'Où' remplace 'dans laquelle' pour un lieu."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement 'où' pour un moment ?",
+                  "options": ["Le jour où je suis né", "Le jour que je suis né", "Le jour lequel je suis né", "Le jour dont je suis né"],
+                  "correct": 0,
+                  "explanation": "'Où' remplace 'pendant lequel' pour le temps."
+              },
+              {
+                  "question": "Comment remplacer 'où' dans 'la maison où je vis' ?",
+                  "options": ["La maison dans laquelle je vis", "La maison que je vis", "La maison dont je vis", "La maison de laquelle je vis"],
+                  "correct": 0,
+                  "explanation": "'Où' équivaut à 'dans laquelle' pour un lieu."
+              },
+              {
+                  "question": "Quelle phrase est incorrecte ?",
+                  "options": ["Le moment où il est arrivé", "La raison où il est parti", "L'hôtel où nous logeons", "Le siècle où il vivait"],
+                  "correct": 1,
+                  "explanation": "Pour 'raison', on utiliserait 'pour laquelle', pas 'où'."
+              }
+          ]
+      },
+      {
+          "name": "Rapporter une conversation",
+          "questions": [
+              {
+                  "question": "Quel verbe introduit des paroles rapportées ?",
+                  "options": ["Dire", "Demander", "Répondre", "Tous ces choix"],
+                  "correct": 3,
+                  "explanation": "Ces trois verbes peuvent introduire du discours rapporté."
+              },
+              {
+                  "question": "Comment rapporte-t-on une question ?",
+                  "options": ["Il a demandé si...", "Il a dit est-ce que...", "Il a questionné que...", "Il a interrogé pourquoi..."],
+                  "correct": 0,
+                  "explanation": "'Demander si' introduit une question fermée rapportée."
+              },
+              {
+                  "question": "Quelle phrase est au discours indirect ?",
+                  "options": ["Il a dit : 'Je viens'", "Il a dit qu'il venait", "Il a dit 'viens !'", "Il m'a dit de venir"],
+                  "correct": 1,
+                  "explanation": "'Il a dit que...' introduit du discours indirect."
+              },
+              {
+                  "question": "Comment rapporte-t-on un ordre ?",
+                  "options": ["Il a dit : 'Viens !'", "Il a dit de venir", "Il a dit que je vienne", "Il a ordonné 'viens !'"],
+                  "correct": 1,
+                  "explanation": "'Dire de + infinitif' rapporte un ordre ou une demande."
+              },
+              {
+                  "question": "Quelle transformation est correcte ?",
+                  "options": ["'Je suis là' → Il a dit qu'il était là", "'Je suis là' → Il a dit qu'il est là", "'Je suis là' → Il a dit être là", "'Je suis là' → Il a dit qu'il serait là"],
+                  "correct": 0,
+                  "explanation": "Au discours indirect, le présent devient imparfait."
+              }
+          ]
+      },
+      {
+          "name": "Rapporter un événement exceptionnel",
+          "questions": [
+              {
+                  "question": "Quel temps utilise-t-on pour un exploit ?",
+                  "options": ["Passé composé", "Imparfait", "Plus-que-parfait", "Passé simple"],
+                  "correct": 0,
+                  "explanation": "Le passé composé est utilisé pour les faits marquants."
+              },
+              {
+                  "question": "Quelle expression souligne l'exceptionnalité ?",
+                  "options": ["Pour la première fois", "Extraordinairement", "Contre toute attente", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces expressions mettent en valeur le caractère exceptionnel."
+              },
+              {
+                  "question": "Comment introduire un exploit ?",
+                  "options": ["Elle a réussi à...", "Elle est parvenue à...", "Elle est arrivée à...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois formulations introduisent un accomplissement notable."
+              },
+              {
+                  "question": "Quelle phrase exprime un record ?",
+                  "options": ["Il a battu le record", "Il dépassait le record", "Il allait battre le record", "Il battait le record"],
+                  "correct": 0,
+                  "explanation": "Le passé composé exprime l'accomplissement d'un record."
+              },
+              {
+                  "question": "Comment souligner l'importance d'un événement ?",
+                  "options": ["C'est la première fois que...", "Jamais auparavant...", "Pour la première fois de sa vie...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces formulations soulignent le caractère inédit."
+              }
+          ]
+      },
+      {
+          "name": "Le discours rapporté au passé",
+          "questions": [
+              {
+                  "question": "Comment le présent se transforme-t-il au discours indirect passé ?",
+                  "options": ["→ Imparfait", "→ Passé composé", "→ Présent", "→ Plus-que-parfait"],
+                  "correct": 0,
+                  "explanation": "Le présent devient imparfait au discours indirect passé."
+              },
+              {
+                  "question": "Comment le futur se transforme-t-il ?",
+                  "options": ["→ Conditionnel présent", "→ Futur", "→ Imparfait", "→ Conditionnel passé"],
+                  "correct": 0,
+                  "explanation": "Dans le discours rapporté au passé, le futur devient conditionnel présent."
+              },
+              {
+                  "question": "Quelle transformation est correcte ?",
+                  "options": ["'J'ai fini' → Il a dit qu'il avait fini", "'J'ai fini' → Il a dit qu'il a fini", "'J'ai fini' → Il a dit qu'il finissait", "'J'ai fini' → Il a dit avoir fini"],
+                  "correct": 0,
+                  "explanation": "Le passé composé devient plus-que-parfait au discours indirect."
+              },
+              {
+                  "question": "Comment les démonstratifs changent-ils ?",
+                  "options": ["'ce jour-là' → 'ce jour-là'", "'aujourd'hui' → 'ce jour-là'", "'demain' → 'le lendemain'", "Les deux dernières"],
+                  "correct": 3,
+                  "explanation": "Les démonstratifs et adverbes temporels s'adaptent au nouveau contexte."
+              },
+              {
+                  "question": "Quelle phrase est correctement transformée ?",
+                  "options": ["'Je viendrai demain' → Il a dit qu'il viendrait le lendemain", "'Je viendrai demain' → Il a dit qu'il viendrait demain", "'Je viendrai demain' → Il a dit qu'il venait le lendemain", "'Je viendrai demain' → Il a dit qu'il est venu le lendemain"],
+                  "correct": 0,
+                  "explanation": "Le futur devient conditionnel et 'demain' devient 'le lendemain'."
+              }
+          ]
+      },
+      {
+          "name": "Imaginer un passé différent",
+          "questions": [
+              {
+                  "question": "Quelle structure exprime un passé imaginaire ?",
+                  "options": ["Si + imparfait, conditionnel présent", "Si + présent, futur", "Si + passé composé, impératif", "Si + plus-que-parfait, conditionnel passé"],
+                  "correct": 3,
+                  "explanation": "Cette structure exprime l'irréel du passé."
+              },
+              {
+                  "question": "Comment exprime-t-on un regret sur le passé ?",
+                  "options": ["J'aurais dû...", "Je devrais...", "J'avais dû...", "Je dois..."],
+                  "correct": 0,
+                  "explanation": "Le conditionnel passé exprime le regret d'une action non accomplie."
+              },
+              {
+                  "question": "Quelle phrase exprime un passé alternatif ?",
+                  "options": ["Si j'avais su, j'aurais agi différemment", "Si je savais, j'agirais différemment", "Si je sais, j'agirai différemment", "Si j'ai su, j'ai agi différemment"],
+                  "correct": 0,
+                  "explanation": "La structure 'si + plus-que-parfait, conditionnel passé' exprime l'irréel du passé."
+              },
+              {
+                  "question": "Comment introduire une hypothèse sur le passé ?",
+                  "options": ["Supposons que j'aie fait...", "Imagine que j'avais fait...", "Et si j'avais fait... ?", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces formulations introduisent une hypothèse sur le passé."
+              },
+              {
+                  "question": "Quelle formulation est incorrecte ?",
+                  "options": ["Si j'étais riche, j'achèterais une maison", "Si j'avais été riche, j'aurais acheté une maison", "Si je serais riche, j'achèterais une maison", "Si j'avais de l'argent, je voyagerais"],
+                  "correct": 2,
+                  "explanation": "Après 'si', on n'utilise jamais le conditionnel."
+              }
+          ]
+      },
+      {
+          "name": "Situer un événement dans un récit au passé",
+          "questions": [
+              {
+                  "question": "Quel temps verbal décrit l'arrière-plan d'un récit ?",
+                  "options": ["Imparfait", "Passé composé", "Passé simple", "Plus-que-parfait"],
+                  "correct": 0,
+                  "explanation": "L'imparfait sert à décrire le contexte, le décor."
+              },
+              {
+                  "question": "Quel temps exprime une action ponctuelle au passé ?",
+                  "options": ["Imparfait", "Passé composé/Passé simple", "Plus-que-parfait", "Futur antérieur"],
+                  "correct": 1,
+                  "explanation": "Le passé composé (oral) ou passé simple (écrit) expriment les actions principales."
+              },
+              {
+                  "question": "Comment exprime-t-on une action antérieure dans un récit ?",
+                  "options": ["Plus-que-parfait", "Passé antérieur", "Les deux", "Passé composé"],
+                  "correct": 2,
+                  "explanation": "Le plus-que-parfait et le passé antérieur expriment l'antériorité."
+              },
+              {
+                  "question": "Quelle expression situe un événement dans un récit ?",
+                  "options": ["La veille", "Le lendemain", "Trois jours plus tôt", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces marqueurs temporels situent les événements les uns par rapport aux autres."
+              },
+              {
+                  "question": "Quelle phrase illustre la concordance des temps au passé ?",
+                  "options": ["Il a dit qu'il viendrait", "Il avait dit qu'il venait", "Il dit qu'il viendra", "Il disait qu'il vient"],
+                  "correct": 0,
+                  "explanation": "Le passé composé avec un verbe principal au passé montre la concordance."
+              }
+          ]
+      },
+      {
+          "name": "Exprimer un regret",
+          "questions": [
+              {
+                  "question": "Quelle structure exprime le regret ?",
+                  "options": ["Regretter de + infinitif", "Regretter que + subjonctif", "Les deux", "Se repentir de + nom"],
+                  "correct": 2,
+                  "explanation": "Les deux structures peuvent exprimer le regret selon le contexte."
+              },
+              {
+                  "question": "Comment exprimer un regret sur une action passée ?",
+                  "options": ["Je regrette d'avoir fait cela", "Je regrette de faire cela", "Je regrettais de faire cela", "Je vais regretter de faire cela"],
+                  "correct": 0,
+                  "explanation": "'Regretter de + infinitif passé' exprime un regret sur une action passée."
+              },
+              {
+                  "question": "Quelle formulation exprime un souhait irréalisable au passé ?",
+                  "options": ["J'aurais aimé venir", "J'aimerais venir", "J'ai aimé venir", "J'aimerai venir"],
+                  "correct": 0,
+                  "explanation": "Le conditionnel passé exprime un souhait qui n'a pas pu se réaliser."
+              },
+              {
+                  "question": "Comment exprimer un regret sur un état passé ?",
+                  "options": ["Si seulement j'avais été...", "Si seulement j'étais...", "Si seulement je serais...", "Si seulement je suis..."],
+                  "correct": 0,
+                  "explanation": "'Si seulement + plus-que-parfait' exprime un regret sur le passé."
+              },
+              {
+                  "question": "Quelle phrase exprime le remords ?",
+                  "options": ["Je m'en veux d'avoir...", "Je me reproche d'avoir...", "Je culpabilise d'avoir...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois formulations expriment le remords."
+              }
+          ]
+      },
+      {
+          "name": "L'irréel du passé",
+          "questions": [
+              {
+                  "question": "Quelle est la structure de l'irréel du passé ?",
+                  "options": ["Si + plus-que-parfait, conditionnel passé", "Si + imparfait, conditionnel présent", "Si + présent, futur", "Si + passé composé, impératif"],
+                  "correct": 0,
+                  "explanation": "Cette structure exprime une hypothèse non réalisée dans le passé."
+              },
+              {
+                  "question": "Comment exprime-t-on une condition non réalisée au passé ?",
+                  "options": ["Si j'avais su...", "Si je savais...", "Si je sais...", "Si je saurais..."],
+                  "correct": 0,
+                  "explanation": "Le plus-que-parfait après 'si' exprime une condition non réalisée au passé."
+              },
+              {
+                  "question": "Quelle phrase est correcte ?",
+                  "options": ["Si j'avais travaillé, j'aurais réussi", "Si j'aurais travaillé, j'aurais réussi", "Si j'ai travaillé, j'avais réussi", "Si je travaillais, j'aurais réussi"],
+                  "correct": 0,
+                  "explanation": "La structure correcte est 'si + plus-que-parfait, conditionnel passé'."
+              },
+              {
+                  "question": "Que peut-on utiliser à la place de 'si' ?",
+                  "options": ["À condition que", "Au cas où", "Sans", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces expressions peuvent introduire des hypothèses conditionnelles."
+              },
+              {
+                  "question": "Comment transformer 'si' en expression nominale ?",
+                  "options": ["Sans + nom", "Avec + nom", "Malgré + nom", "Grâce à + nom"],
+                  "correct": 0,
+                  "explanation": "'Sans' exprime l'absence de la condition nécessaire."
+              }
+          ]
+      },
+      {
+          "name": "Le passé récent et le futur proche dans un récit au passé",
+          "questions": [
+              {
+                  "question": "Comment exprime-t-on le passé récent dans un récit au passé ?",
+                  "options": ["Il venait de partir", "Il vient de partir", "Il va partir", "Il allait partir"],
+                  "correct": 0,
+                  "explanation": "'Venir de' à l'imparfait exprime le passé récent dans un récit au passé."
+              },
+              {
+                  "question": "Comment exprime-t-on le futur proche dans un récit au passé ?",
+                  "options": ["Il va partir", "Il allait partir", "Il part", "Il partira"],
+                  "correct": 1,
+                  "explanation": "'Aller' à l'imparfait exprime le futur proche dans un récit au passé."
+              },
+              {
+                  "question": "Quelle phrase illustre correctement le passé récent au passé ?",
+                  "options": ["Elle venait d'apprendre la nouvelle", "Elle vient d'apprendre la nouvelle", "Elle vient juste d'apprendre la nouvelle", "Elle a appris la nouvelle récemment"],
+                  "correct": 0,
+                  "explanation": "'Venir de' à l'imparfait est la structure correcte."
+              },
+              {
+                  "question": "Quelle phrase est correcte ?",
+                  "options": ["Il allait se marier quand il a eu l'accident", "Il va se marier quand il a eu l'accident", "Il s'est marié quand il a eu l'accident", "Il venait se marier quand il a eu l'accident"],
+                  "correct": 0,
+                  "explanation": "'Aller' à l'imparfait exprime un projet imminent."
+              },
+              {
+                  "question": "Comment exprime-t-on une action imminente non réalisée ?",
+                  "options": ["Il allait partir quand...", "Il est sur le point de partir quand...", "Il était sur le point de partir quand...", "Il partait quand..."],
+                  "correct": 2,
+                  "explanation": "'Être sur le point de' à l'imparfait exprime l'imminence dans le passé."
+              }
+          ]
+      },
+      {
+          "name": "L'expression du regret",
+          "questions": [
+              {
+                  "question": "Comment exprimer le regret d'une action passée ?",
+                  "options": ["Je regrette d'avoir...", "Je regrette de...", "Je regrettais...", "Je regretterai..."],
+                  "correct": 0,
+                  "explanation": "'Regretter de + infinitif passé' exprime le regret d'une action passée."
+              },
+              {
+                  "question": "Quelle structure exprime un souhait non réalisé ?",
+                  "options": ["J'aurais aimé + infinitif", "J'aimerais + infinitif", "Je voudrais + infinitif", "Je voulais + infinitif"],
+                  "correct": 0,
+                  "explanation": "Le conditionnel passé exprime un souhait qui n'a pas pu se réaliser."
+              },
+              {
+                  "question": "Quelle phrase exprime correctement un regret ?",
+                  "options": ["Si seulement j'avais étudié davantage !", "Si j'étudiais davantage !", "Si j'étudierai davantage !", "Si j'aurai étudié davantage !"],
+                  "correct": 0,
+                  "explanation": "'Si seulement + plus-que-parfait' exprime un regret sur le passé."
+              },
+              {
+                  "question": "Comment introduire un regret ?",
+                  "options": ["Malheureusement, je n'ai pas pu...", "Je regrette de ne pas avoir...", "J'aurais dû...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces trois formulations peuvent introduire un regret."
+              },
+              {
+                  "question": "Quelle expression indique un regret intense ?",
+                  "options": ["Je donnerais tout pour avoir...", "Je m'en veux terriblement d'avoir...", "Je ne me pardonnerai jamais d'avoir...", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Ces expressions indiquent un regret profond."
+              }
+          ]
+      }
+  ]
+}

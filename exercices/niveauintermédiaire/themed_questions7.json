@@ -1,0 +1,389 @@
+{
+    "categories": [
+        {
+            "name": "Parler de l'écologie",
+            "questions": [
+                {
+                    "question": "Comment exprime-t-on son engagement écologique ?",
+                    "options": ["Je recycle", "Je suis écologique", "Je m'engage pour l'environnement", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces expressions peuvent être utilisées selon le contexte."
+                },
+                {
+                    "question": "Quel terme désigne la réduction des déchets ?",
+                    "options": ["Le recyclage", "Le zéro déchet", "La réutilisation", "Le compostage"],
+                    "correct": 1,
+                    "explanation": "Le 'zéro déchet' est le mouvement visant à réduire au maximum sa production de déchets."
+                },
+                {
+                    "question": "Comment parle-t-on du changement climatique ?",
+                    "options": ["Le réchauffement global", "Le réchauffement climatique", "Le changement météorologique", "La crise climatique"],
+                    "correct": 1,
+                    "explanation": "'Le réchauffement climatique' est l'expression standard en français."
+                },
+                {
+                    "question": "Quelle expression évoque l'impact environnemental personnel ?",
+                    "options": ["L'empreinte écologique", "Le poids environnemental", "La marque verte", "La trace naturelle"],
+                    "correct": 0,
+                    "explanation": "'L'empreinte écologique' mesure l'impact individuel sur l'environnement."
+                },
+                {
+                    "question": "Comment exprime-t-on une critique des pratiques polluantes ?",
+                    "options": ["C'est mauvais", "Ce n'est pas écologique", "Cela nuit à l'environnement", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces formulations expriment une critique environnementale."
+                }
+            ]
+        },
+        {
+            "name": "Débattre sur les choix énergétiques",
+            "questions": [
+                {
+                    "question": "Comment introduit-on un argument en faveur des énergies renouvelables ?",
+                    "options": ["Les énergies renouvelables sont...", "On devrait utiliser plus de...", "L'avantage des énergies renouvelables est...", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces formulations peuvent introduire un argument."
+                },
+                {
+                    "question": "Quelle expression nuance un point de vue sur le nucléaire ?",
+                    "options": ["Le nucléaire est dangereux", "Certes, le nucléaire présente des risques, mais...", "Il faut interdire le nucléaire", "Le nucléaire, c'est l'avenir"],
+                    "correct": 1,
+                    "explanation": "L'expression avec 'certes... mais' introduit une nuance."
+                },
+                {
+                    "question": "Comment exprime-t-on une opposition dans un débat énergétique ?",
+                    "options": ["Je ne suis pas d'accord avec vous", "Contrairement à ce que vous affirmez", "Votre point de vue est erroné", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces formulations expriment une opposition."
+                },
+                {
+                    "question": "Quelle formulation compare deux options énergétiques ?",
+                    "options": ["L'éolien est plus propre que le charbon", "L'éolien et le charbon sont propres", "Le charbon est comme l'éolien", "L'éolien n'est pas propre"],
+                    "correct": 0,
+                    "explanation": "La structure 'plus... que' établit une comparaison."
+                },
+                {
+                    "question": "Comment conclut-on un argument sur la transition énergétique ?",
+                    "options": ["En résumé", "Pour conclure", "En définitive", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces expressions peuvent introduire une conclusion."
+                }
+            ]
+        },
+        {
+            "name": "Écrire un compte rendu de stage",
+            "questions": [
+                {
+                    "question": "Comment commence-t-on un compte rendu de stage ?",
+                    "options": ["Salut à tous", "Je vais vous parler de", "Dans le cadre de ma formation, j'ai effectué un stage...", "C'était bien"],
+                    "correct": 2,
+                    "explanation": "L'introduction contextuelle est la plus professionnelle."
+                },
+                {
+                    "question": "Quel temps verbal privilégie-t-on dans un compte rendu ?",
+                    "options": ["Le présent", "Le passé composé", "Le futur", "Le conditionnel"],
+                    "correct": 1,
+                    "explanation": "Le passé composé est utilisé pour relater des actions accomplies."
+                },
+                {
+                    "question": "Comment introduit-on les missions effectuées ?",
+                    "options": ["J'ai fait", "Mes missions consistaient à", "On m'a dit de faire", "Je devais"],
+                    "correct": 1,
+                    "explanation": "La formulation descriptive est la plus professionnelle."
+                },
+                {
+                    "question": "Quelle expression est appropriée pour évoquer les difficultés rencontrées ?",
+                    "options": ["C'était nul", "J'ai détesté", "J'ai rencontré quelques difficultés concernant...", "Le travail était trop dur"],
+                    "correct": 2,
+                    "explanation": "La formulation nuancée et précise est la plus professionnelle."
+                },
+                {
+                    "question": "Comment conclut-on un compte rendu de stage ?",
+                    "options": ["Enfin, c'est fini", "Pour conclure, ce stage m'a permis de...", "À bientôt pour un autre stage", "C'était bien"],
+                    "correct": 1,
+                    "explanation": "La conclusion évaluative est la plus appropriée."
+                }
+            ]
+        },
+        {
+            "name": "Parler de l'avenir",
+            "questions": [
+                {
+                    "question": "Comment exprime-t-on un projet futur certain ?",
+                    "options": ["Je vais voyager", "Je voyagerai peut-être", "J'aimerais voyager", "Je voyagerais"],
+                    "correct": 0,
+                    "explanation": "Le futur proche (aller + infinitif) exprime un projet certain."
+                },
+                {
+                    "question": "Quelle phrase évoque une prédiction ?",
+                    "options": ["Je pense que la technologie va évoluer", "La technologie évolue", "J'aimerais que la technologie évolue", "La technologie devrait évoluer"],
+                    "correct": 0,
+                    "explanation": "'Je pense que' + futur proche exprime une prédiction."
+                },
+                {
+                    "question": "Comment parle-t-on d'un espoir futur ?",
+                    "options": ["J'espère réussir", "Je vais réussir", "Je réussirai", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces formulations peuvent exprimer un espoir selon le contexte."
+                },
+                {
+                    "question": "Quelle expression indique un projet d'études ?",
+                    "options": ["Je veux étudier", "J'envisage d'étudier", "Je vais étudier", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces formulations peuvent exprimer un projet d'études."
+                },
+                {
+                    "question": "Comment évoque-t-on un avenir incertain ?",
+                    "options": ["Je ne sais pas ce qui se passera", "L'avenir nous le dira", "C'est encore flou", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces expressions évoquent l'incertitude."
+                }
+            ]
+        },
+        {
+            "name": "Faire des hypothèses",
+            "questions": [
+                {
+                    "question": "Quelle structure exprime une hypothèse sur le présent ?",
+                    "options": ["Si + présent, présent", "Si + imparfait, conditionnel présent", "Si + plus-que-parfait, conditionnel passé", "Si + présent, futur"],
+                    "correct": 0,
+                    "explanation": "Si + présent, présent exprime une hypothèse réalisable."
+                },
+                {
+                    "question": "Comment exprime-t-on une hypothèse peu probable ?",
+                    "options": ["Si j'ai le temps, je viens", "Si j'avais le temps, je viendrais", "Si j'aurais le temps, je viendrais", "Si j'ai le temps, je viendrais"],
+                    "correct": 1,
+                    "explanation": "Si + imparfait, conditionnel présent pour une hypothèse peu probable."
+                },
+                {
+                    "question": "Quelle phrase exprime un regret (hypothèse irréelle du passé) ?",
+                    "options": ["Si j'étudie, je réussis", "Si j'étudiais, je réussirais", "Si j'avais étudié, j'aurais réussi", "Si j'étudierai, je réussirai"],
+                    "correct": 2,
+                    "explanation": "Si + plus-que-parfait, conditionnel passé pour une hypothèse irréalisée."
+                },
+                {
+                    "question": "Comment exprime-t-on une condition pour le futur ?",
+                    "options": ["Si tu viens, je serai content", "Si tu venais, je serais content", "Si tu viendrais, je serais content", "Si tu es venu, je serai content"],
+                    "correct": 0,
+                    "explanation": "Si + présent, futur pour une condition future réalisable."
+                },
+                {
+                    "question": "Quelle formulation introduit une hypothèse alternative ?",
+                    "options": ["Sinon", "À moins que", "Sauf si", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces expressions introduisent une alternative hypothétique."
+                }
+            ]
+        },
+        {
+            "name": "Exprimer des interdictions",
+            "questions": [
+                {
+                    "question": "Quelle formulation est la plus ferme pour interdire ?",
+                    "options": ["Il ne faut pas", "Il est interdit de", "Veuillez ne pas", "Il serait préférable de ne pas"],
+                    "correct": 1,
+                    "explanation": "'Il est interdit de' est la formulation la plus catégorique."
+                },
+                {
+                    "question": "Comment exprime-t-on une interdiction à l'impératif négatif ?",
+                    "options": ["Tu ne fumes pas", "Ne fume pas", "Il ne faut pas fumer", "Pas fumer"],
+                    "correct": 1,
+                    "explanation": "L'impératif négatif 'ne... pas' exprime une interdiction directe."
+                },
+                {
+                    "question": "Quelle formule est la plus polie pour interdire ?",
+                    "options": ["Défense de marcher sur la pelouse", "Ne marchez pas sur la pelouse", "Nous vous prions de ne pas marcher sur la pelouse", "Interdit de marcher sur la pelouse"],
+                    "correct": 2,
+                    "explanation": "La formule avec 'nous vous prions de' est la plus polie."
+                },
+                {
+                    "question": "Comment formule-t-on une interdiction générale ?",
+                    "options": ["Vous ne devez pas", "On ne doit pas", "Il est défendu de", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces formulations expriment une interdiction générale."
+                },
+                {
+                    "question": "Quelle structure exprime une interdiction formelle dans un règlement ?",
+                    "options": ["Il est + adjectif + de", "Il est + participe passé + de", "S'abstenir de", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces structures peuvent exprimer une interdiction formelle."
+                }
+            ]
+        },
+        {
+            "name": "Le futur simple (rappel)",
+            "questions": [
+                {
+                    "question": "Comment forme-t-on le futur simple des verbes réguliers ?",
+                    "options": ["Infinitif + terminaisons", "Radical du présent + terminaisons", "Participe passé + terminaisons", "Radical de l'imparfait + terminaisons"],
+                    "correct": 0,
+                    "explanation": "Le futur simple se forme avec l'infinitif + terminaisons (-ai, -as, -a, -ons, -ez, -ont)."
+                },
+                {
+                    "question": "Quelle est la conjugaison correcte de 'être' au futur simple à la 3e personne du singulier ?",
+                    "options": ["Il êtra", "Il sera", "Il est", "Il serait"],
+                    "correct": 1,
+                    "explanation": "'Sera' est la forme correcte (verbe irrégulier)."
+                },
+                {
+                    "question": "Comment conjugue-t-on 'avoir' au futur simple à la 1ère personne du pluriel ?",
+                    "options": ["Nous avons", "Nous avrons", "Nous aurons", "Nous aurions"],
+                    "correct": 2,
+                    "explanation": "'Aurons' est la forme correcte (verbe irrégulier)."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement le futur simple ?",
+                    "options": ["Demain, je vais partir", "Demain, je pars", "Demain, je partirai", "Demain, je partirais"],
+                    "correct": 2,
+                    "explanation": "Le futur simple est la forme correcte avec 'demain'."
+                },
+                {
+                    "question": "Quel verbe est correctement conjugué au futur ?",
+                    "options": ["Ils feront", "Ils fairont", "Ils faisent", "Ils fassent"],
+                    "correct": 0,
+                    "explanation": "'Feront' est la forme correcte du futur de 'faire'."
+                }
+            ]
+        },
+        {
+            "name": "Le futur antérieur",
+            "questions": [
+                {
+                    "question": "Comment forme-t-on le futur antérieur ?",
+                    "options": ["Avoir/être au futur simple + participe passé", "Avoir/être au présent + participe passé", "Avoir/être au conditionnel + participe passé", "Avoir/être à l'imparfait + participe passé"],
+                    "correct": 0,
+                    "explanation": "Le futur antérieur = auxiliaire au futur simple + participe passé."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement le futur antérieur ?",
+                    "options": ["Quand j'ai terminé, je t'appellerai", "Quand j'aurai terminé, je t'appellerai", "Quand je terminerai, je t'appellerai", "Quand j'aurais terminé, je t'appellerai"],
+                    "correct": 1,
+                    "explanation": "Le futur antérieur exprime une action future qui précède une autre action future."
+                },
+                {
+                    "question": "Quelle est la conjugaison de 'partir' au futur antérieur à la 1ère personne du singulier ?",
+                    "options": ["Je partirai", "Je suis parti", "Je serai parti", "J'aurai parti"],
+                    "correct": 2,
+                    "explanation": "'Être' est l'auxiliaire correct pour 'partir'."
+                },
+                {
+                    "question": "Dans quel cas utilise-t-on le futur antérieur ?",
+                    "options": ["Pour une action passée", "Pour une action présente", "Pour une action future terminée avant une autre action future", "Pour une action conditionnelle"],
+                    "correct": 2,
+                    "explanation": "Le futur antérieur exprime l'antériorité par rapport à une action future."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["D'ici demain, j'ai fini", "D'ici demain, j'aurai fini", "D'ici demain, je finirais", "D'ici demain, j'ai eu fini"],
+                    "correct": 1,
+                    "explanation": "Le futur antérieur est correct pour exprimer une action qui sera terminée."
+                }
+            ]
+        },
+        {
+            "name": "Le conditionnel présent et passé",
+            "questions": [
+                {
+                    "question": "Comment forme-t-on le conditionnel présent ?",
+                    "options": ["Infinitif + terminaisons de l'imparfait", "Radical du présent + terminaisons", "Participe passé + avoir/être au présent", "Infinitif + ai, as, a, ons, ez, ont"],
+                    "correct": 0,
+                    "explanation": "Le conditionnel présent = infinitif + terminaisons de l'imparfait (-ais, -ais, -ait, -ions, -iez, -aient)."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement le conditionnel présent pour exprimer un souhait ?",
+                    "options": ["J'aime voyager", "Je vais voyager", "J'aimerais voyager", "J'ai voyagé"],
+                    "correct": 2,
+                    "explanation": "Le conditionnel présent exprime un souhait, un désir."
+                },
+                {
+                    "question": "Comment forme-t-on le conditionnel passé ?",
+                    "options": ["Avoir/être au futur + participe passé", "Avoir/être au conditionnel présent + participe passé", "Avoir/être à l'imparfait + participe passé", "Avoir/être au passé composé + participe passé"],
+                    "correct": 1,
+                    "explanation": "Le conditionnel passé = auxiliaire au conditionnel présent + participe passé."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement le conditionnel passé pour exprimer un regret ?",
+                    "options": ["J'aurais dû étudier davantage", "J'ai dû étudier davantage", "Je devrais étudier davantage", "Je devais étudier davantage"],
+                    "correct": 0,
+                    "explanation": "Le conditionnel passé avec 'devoir' exprime un regret."
+                },
+                {
+                    "question": "Dans quel contexte utilise-t-on le conditionnel passé ?",
+                    "options": ["Pour une action future", "Pour une action présente", "Pour une action passée non réalisée", "Pour une condition réalisable"],
+                    "correct": 2,
+                    "explanation": "Le conditionnel passé exprime souvent un regret ou une hypothèse irréelle du passé."
+                }
+            ]
+        },
+        {
+            "name": "Les différents moyens pour exprimer l'hypothèse",
+            "questions": [
+                {
+                    "question": "Quelle construction exprime une hypothèse réalisable ?",
+                    "options": ["Si + présent, futur/présent/impératif", "Si + imparfait, conditionnel présent", "Si + plus-que-parfait, conditionnel passé", "Au cas où + conditionnel"],
+                    "correct": 0,
+                    "explanation": "Si + présent, futur/présent/impératif exprime une hypothèse réalisable."
+                },
+                {
+                    "question": "Comment exprime-t-on une hypothèse avec 'à condition que' ?",
+                    "options": ["À condition que + indicatif", "À condition que + conditionnel", "À condition que + subjonctif", "À condition que + impératif"],
+                    "correct": 2,
+                    "explanation": "'À condition que' est suivi du subjonctif."
+                },
+                {
+                    "question": "Quelle expression est suivie du conditionnel ?",
+                    "options": ["Si", "Quand", "Au cas où", "À condition que"],
+                    "correct": 2,
+                    "explanation": "'Au cas où' est suivi du conditionnel."
+                },
+                {
+                    "question": "Quelle phrase exprime une hypothèse avec 'à moins que' ?",
+                    "options": ["À moins que tu viens", "À moins que tu viennes", "À moins que tu viendrais", "À moins que tu es venu"],
+                    "correct": 1,
+                    "explanation": "'À moins que' est suivi du subjonctif."
+                },
+                {
+                    "question": "Quelle construction exprime une hypothèse sans 'si' ?",
+                    "options": ["Avec + nom", "Sans + nom", "À + infinitif passé", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces constructions peuvent exprimer une hypothèse selon le contexte."
+                }
+            ]
+        },
+        {
+            "name": "Les pronoms y et en",
+            "questions": [
+                {
+                    "question": "Que remplace le pronom 'y' ?",
+                    "options": ["Une personne", "Un lieu", "Une chose avec 'de'", "Un animal"],
+                    "correct": 1,
+                    "explanation": "'Y' remplace un lieu ou un complément introduit par 'à'."
+                },
+                {
+                    "question": "Dans quelle phrase 'y' est-il correctement utilisé ?",
+                    "options": ["J'y pense", "J'y vois", "J'y mange", "J'y ai"],
+                    "correct": 0,
+                    "explanation": "'Penser à quelque chose' → 'y penser'."
+                },
+                {
+                    "question": "Que remplace le pronom 'en' ?",
+                    "options": ["Un lieu", "Une personne", "Un complément avec 'de'", "Un animal"],
+                    "correct": 2,
+                    "explanation": "'En' remplace un complément introduit par 'de'."
+                },
+                {
+                    "question": "Dans quelle phrase 'en' remplace-t-il une quantité ?",
+                    "options": ["J'en reviens", "J'en parle", "J'en ai trois", "J'en suis content"],
+                    "correct": 2,
+                    "explanation": "'En' peut remplacer une quantité précédée de 'de'."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement 'y' et 'en' ensemble ?",
+                    "options": ["J'y en parle", "J'en y vais", "J'y en vais", "J'y en prends"],
+                    "correct": 3,
+                    "explanation": "Ordre correct: pronom personnel, 'y', 'en', verbe."
+                }
+            ]
+        }
+    ]
+}

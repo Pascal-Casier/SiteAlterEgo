@@ -1,0 +1,459 @@
+{
+  "categories": [
+      {
+          "name": "Rendre compte d'un événement",
+          "questions": [
+              {
+                  "question": "Quelle structure est la plus adaptée pour commencer un compte-rendu ?",
+                  "options": ["Hier, il s'est passé quelque chose d'incroyable", "Je pense que...", "Peut-être que...", "Si j'avais su..."],
+                  "correct": 0,
+                  "explanation": "Une indication temporelle suivie du sujet principal est idéale pour débuter."
+              },
+              {
+                  "question": "Comment relater des actions successives ?",
+                  "options": ["En utilisant le présent", "En mélangeant passé composé et imparfait", "En employant uniquement le futur", "Sans mentionner de verbes"],
+                  "correct": 1,
+                  "explanation": "Le passé composé pour les actions ponctuelles, l'imparfait pour le contexte."
+              },
+              {
+                  "question": "Quelle phrase rapporte correctement un fait ?",
+                  "options": ["Un accident est arrivé vers 18h", "Un accident arrive demain", "Un accident allait arriver", "Un accident serait arrivé"],
+                  "correct": 0,
+                  "explanation": "Passé composé pour un événement précis et daté."
+              },
+              {
+                  "question": "Comment introduire un témoignage ?",
+                  "options": ["Selon un témoin, ...", "Je crois que...", "On dit que...", "Peut-être que..."],
+                  "correct": 0,
+                  "explanation": "'Selon un témoin' est la formule la plus neutre et objective."
+              },
+              {
+                  "question": "Quel temps utiliser pour décrire le contexte ?",
+                  "options": ["Le passé simple", "L'imparfait", "Le futur antérieur", "Le conditionnel"],
+                  "correct": 1,
+                  "explanation": "L'imparfait est le temps de la description et du contexte."
+              }
+          ]
+      },
+      {
+          "name": "Faire une suggestion, inciter à agir",
+          "questions": [
+              {
+                  "question": "Quelle formule est la plus persuasive ?",
+                  "options": ["Si on allait au cinéma ?", "Je ne sais pas", "Peut-être", "Ça m'est égal"],
+                  "correct": 0,
+                  "explanation": "La structure 'Si on + imparfait' est une suggestion engageante."
+              },
+              {
+                  "question": "Comment inciter poliment à agir ?",
+                  "options": ["Tu devrais vérifier tes sources", "Fais-le maintenant !", "C'est nul", "Je m'en fiche"],
+                  "correct": 0,
+                  "explanation": "Le conditionnel 'devrais' est une forme polie d'incitation."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement 'si + imparfait' ?",
+                  "options": ["Si tu vérifiais tes emails ?", "Si tu vérifies tes emails", "Si tu vérifieras tes emails", "Si tu as vérifié tes emails"],
+                  "correct": 0,
+                  "explanation": "La structure correcte est 'si + imparfait' pour suggérer."
+              },
+              {
+                  "question": "Comment proposer une activité ?",
+                  "options": ["Et si nous visitions le musée ?", "Visite le musée", "Je déteste les musées", "Le musée est fermé"],
+                  "correct": 0,
+                  "explanation": "'Et si nous + imparfait' est une formule de suggestion courante."
+              },
+              {
+                  "question": "Quelle phrase incite sans imposer ?",
+                  "options": ["Il serait bon de confirmer ta présence", "Confirme tout de suite !", "Tu oublies toujours", "Personne ne vient"],
+                  "correct": 0,
+                  "explanation": "Le conditionnel 'serait' atténue l'injonction."
+              }
+          ]
+      },
+      {
+          "name": "Les pronoms interrogatifs",
+          "questions": [
+              {
+                  "question": "Complétez : '___ as-tu rencontré ?'",
+                  "options": ["Qui", "Que", "Quoi", "Lequel"],
+                  "correct": 0,
+                  "explanation": "'Qui' pour une personne (complément d'objet)."
+              },
+              {
+                  "question": "Quelle question est correcte ?",
+                  "options": ["À qui penses-tu ?", "À que penses-tu ?", "À quoi penses-tu ?", "À lequel penses-tu ?"],
+                  "correct": 0,
+                  "explanation": "'À qui' pour une personne avec préposition."
+              },
+              {
+                  "question": "Complétez : '___ de ces livres préfères-tu ?'",
+                  "options": ["Qui", "Que", "Quoi", "Lequel"],
+                  "correct": 3,
+                  "explanation": "'Lequel' pour choisir parmi plusieurs éléments."
+              },
+              {
+                  "question": "Quel pronom demande une précision ?",
+                  "options": ["Qui est-ce qui", "Qu'est-ce que", "Quel", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Tous ces pronoms servent à poser des questions précises."
+              },
+              {
+                  "question": "Complétez : '___ est arrivé ?'",
+                  "options": ["Qui", "Que", "Quoi", "Lequel"],
+                  "correct": 0,
+                  "explanation": "'Qui' comme sujet de la question."
+              }
+          ]
+      },
+      {
+          "name": "Les pronoms possessifs",
+          "questions": [
+              {
+                  "question": "Complétez : 'Mon livre est rouge, ___ est bleu.' (à toi)",
+                  "options": ["le tien", "la tienne", "les tiens", "le tienne"],
+                  "correct": 0,
+                  "explanation": "'Le tien' remplace 'livre' (masculin singulier)."
+              },
+              {
+                  "question": "Quelle phrase est correcte ?",
+                  "options": ["Nos résultats sont meilleurs que les vôtres", "Nos résultats sont meilleurs que les vôtres", "Nos résultats sont meilleurs que les votre", "Nos résultats sont meilleurs que les vôtres"],
+                  "correct": 1,
+                  "explanation": "'Les vôtres' est le possessif pluriel pour 'vous'."
+              },
+              {
+                  "question": "Complétez : 'J'ai oublié mes clés, je peux prendre ___ ?' (les tiennes)",
+                  "options": ["les tiennes", "la tienne", "le tien", "les tiens"],
+                  "correct": 0,
+                  "explanation": "'Les tiennes' car 'clés' est féminin pluriel."
+              },
+              {
+                  "question": "Quel pronom remplace 'notre maison' ?",
+                  "options": ["la nôtre", "le nôtre", "les nôtres", "la vôtre"],
+                  "correct": 0,
+                  "explanation": "'La nôtre' pour une chose féminine singulière."
+              },
+              {
+                  "question": "Complétez : 'Son avis diffère de ___.' (le mien)",
+                  "options": ["le mien", "la mienne", "les miens", "les miennes"],
+                  "correct": 0,
+                  "explanation": "'Le mien' car 'avis' est masculin singulier."
+              }
+          ]
+      },
+      {
+          "name": "Réagir à un programme TV",
+          "questions": [
+              {
+                  "question": "Comment exprimer son admiration ?",
+                  "options": ["Ce documentaire était passionnant !", "C'était nul", "Je ne regarde jamais", "Peut-être"],
+                  "correct": 0,
+                  "explanation": "Un superlatif positif montre l'enthousiasme."
+              },
+              {
+                  "question": "Quelle critique est constructive ?",
+                  "options": ["Le reportage manquait de sources", "C'est de la merde", "Je déteste tout", "Trop long à mourir"],
+                  "correct": 0,
+                  "explanation": "La critique porte sur un élément précis et objectif."
+              },
+              {
+                  "question": "Comment comparer deux émissions ?",
+                  "options": ["L'ancienne version était mieux réalisée", "Tout est pareil", "Je ne sais pas", "Aucune idée"],
+                  "correct": 0,
+                  "explanation": "La comparaison utilise un critère précis (la réalisation)."
+              },
+              {
+                  "question": "Quelle phrase utilise la nominalisation ?",
+                  "options": ["La présentation était claire", "C'était présenté clairement", "Ils ont présenté clairement", "Clairement présenté"],
+                  "correct": 0,
+                  "explanation": "'La présentation' est une nominalisation du verbe 'présenter'."
+              },
+              {
+                  "question": "Comment relever un défaut technique ?",
+                  "options": ["Le montage créait des coupures gênantes", "J'aime pas", "C'est technique", "Trop compliqué"],
+                  "correct": 0,
+                  "explanation": "La critique cible un aspect technique précis."
+              }
+          ]
+      },
+      {
+          "name": "La nominalisation et le genre des noms",
+          "questions": [
+              {
+                  "question": "Quel est le nom correspondant à 'expliquer' ?",
+                  "options": ["L'explication", "L'explicage", "L'expliqueur", "L'expliquation"],
+                  "correct": 0,
+                  "explanation": "La nominalisation correcte est 'explication' (féminin)."
+              },
+              {
+                  "question": "Quel nom est masculin ?",
+                  "options": ["La description", "L'analyse", "Le commentaire", "La réponse"],
+                  "correct": 2,
+                  "explanation": "'Commentaire' est un nom masculin."
+              },
+              {
+                  "question": "Transformez 'résoudre' en nom :",
+                  "options": ["La résolution", "Le résoudage", "Le résous", "La résoudation"],
+                  "correct": 0,
+                  "explanation": "'Résolution' est la nominalisation correcte (féminin)."
+              },
+              {
+                  "question": "Quel nom est féminin ?",
+                  "options": ["Le rapport", "Le document", "L'enquête", "Le résultat"],
+                  "correct": 2,
+                  "explanation": "'Enquête' est féminin (une enquête)."
+              },
+              {
+                  "question": "Quelle nominalisation est incorrecte ?",
+                  "options": ["La compréhension", "Le développement", "La réussite", "Le finition"],
+                  "correct": 3,
+                  "explanation": "On dit 'la fin' ou 'la finalisation', pas 'le finition'."
+              }
+          ]
+      },
+      {
+          "name": "Mise en relief avec 'c'est... qui/que'",
+          "questions": [
+              {
+                  "question": "Complétez : '___ moi ___ ai trouvé la solution.'",
+                  "options": ["C'est...qui", "C'est...que", "Il est...qui", "Que...qui"],
+                  "correct": 0,
+                  "explanation": "'C'est moi qui' pour mettre en relief le sujet."
+              },
+              {
+                  "question": "Quelle phrase est correcte ?",
+                  "options": ["C'est ce document que j'ai analysé", "C'est ce document qui j'ai analysé", "C'est ce document qu'il a analysé", "C'est ce document dont j'ai analysé"],
+                  "correct": 0,
+                  "explanation": "'C'est...que' pour mettre en relief le COD."
+              },
+              {
+                  "question": "Complétez : '___ hier ___ nous avons fini.'",
+                  "options": ["C'est...qui", "C'est...que", "Que...qui", "Qui...que"],
+                  "correct": 1,
+                  "explanation": "'C'est hier que' pour souligner un complément de temps."
+              },
+              {
+                  "question": "Quelle mise en relief est incorrecte ?",
+                  "options": ["C'est toi qui as raison", "C'est cela que je veux", "C'est ici qui nous attend", "C'est lui que j'ai vu"],
+                  "correct": 2,
+                  "explanation": "Devrait être 'c'est ici que nous attendons'."
+              },
+              {
+                  "question": "Complétez : '___ ce livre ___ m'a inspiré.'",
+                  "options": ["C'est...qui", "C'est...que", "Que...qui", "Qui...que"],
+                  "correct": 0,
+                  "explanation": "'C'est ce livre qui' pour mettre en relief le sujet."
+              }
+          ]
+      },
+      {
+          "name": "Comprendre des événements médiatiques",
+          "questions": [
+              {
+                  "question": "Comment identifier l'essentiel d'un article ?",
+                  "options": ["Lire seulement le titre", "Repérer les 5W (qui, quoi, où, quand, pourquoi)", "Ignorer les citations", "Sauter les paragraphes"],
+                  "correct": 1,
+                  "explanation": "La méthode des 5W permet de cerner les informations clés."
+              },
+              {
+                  "question": "Quel élément est souvent fiable ?",
+                  "options": ["Les rumeurs anonymes", "Les citations directes", "Les titres sensationnalistes", "Les commentaires en ligne"],
+                  "correct": 1,
+                  "explanation": "Les citations attribuées à des sources identifiées sont vérifiables."
+              },
+              {
+                  "question": "Comment reconnaître un fait divers ?",
+                  "options": ["Il concerne des événements politiques", "Il rapporte un incident local précis", "Il analyse des tendances économiques", "Il présente des innovations technologiques"],
+                  "correct": 1,
+                  "explanation": "Les faits divers relatent des incidents locaux concrets."
+              },
+              {
+                  "question": "Quelle question aide à analyser un reportage ?",
+                  "options": ["Qui finance ce média ?", "Quelles sources sont citées ?", "Y a-t-il des preuves ?", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Tous ces éléments sont importants pour une analyse critique."
+              },
+              {
+                  "question": "Comment identifier un angle journalistique ?",
+                  "options": ["Repérer les mots répétés", "Analyser le ton général", "Vérifier ce qui est mis en avant", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "L'angle se déduit de ces différents éléments."
+              }
+          ]
+      },
+      {
+          "name": "Rapporter un fait divers",
+          "questions": [
+              {
+                  "question": "Quelle information est essentielle ?",
+                  "options": ["La couleur des vêtements des témoins", "L'heure et le lieu exacts", "L'avis du voisin", "Les rumeurs non confirmées"],
+                  "correct": 1,
+                  "explanation": "Les faits précis (quand, où) sont fondamentaux."
+              },
+              {
+                  "question": "Comment formuler un titre neutre ?",
+                  "options": ["Un horrible drame sanglant", "Un incendie dans un immeuble du centre-ville", "Une catastrophe inimaginable", "Une nuit de terreur"],
+                  "correct": 1,
+                  "explanation": "Le titre doit être factuel et descriptif."
+              },
+              {
+                  "question": "Quelle source privilégier ?",
+                  "options": ["Les déclarations officielles", "Les ouï-dire", "Les spéculations", "Les rumeurs"],
+                  "correct": 0,
+                  "explanation": "Les sources officielles sont les plus fiables."
+              },
+              {
+                  "question": "Comment éviter le sensationnalisme ?",
+                  "options": ["Utiliser des superlatifs excessifs", "S'en tenir aux faits vérifiés", "Ajouter des détails dramatiques", "Employer un vocabulaire émotionnel"],
+                  "correct": 1,
+                  "explanation": "Rester factuel est la meilleure pratique journalistique."
+              },
+              {
+                  "question": "Quelle structure est appropriée ?",
+                  "options": ["Chronologique", "Aléatoire", "Thématique", "Inversée"],
+                  "correct": 0,
+                  "explanation": "L'ordre chronologique est souvent le plus clair."
+              }
+          ]
+      },
+      {
+          "name": "Témoigner d'un événement",
+          "questions": [
+              {
+                  "question": "Comment commencer un témoignage ?",
+                  "options": ["Je vais vous raconter ce que j'ai vu", "C'était horrible", "Tout le monde ment", "Je ne me souviens plus"],
+                  "correct": 0,
+                  "explanation": "Une introduction claire et neutre est préférable."
+              },
+              {
+                  "question": "Quel temps utiliser pour décrire ?",
+                  "options": ["Le présent", "L'imparfait", "Le futur", "Le conditionnel"],
+                  "correct": 1,
+                  "explanation": "L'imparfait permet de décrire le contexte."
+              },
+              {
+                  "question": "Comment relater une action précise ?",
+                  "options": ["Avec le plus-que-parfait", "Avec le passé composé", "Avec le futur antérieur", "Avec le subjonctif"],
+                  "correct": 1,
+                  "explanation": "Le passé composé exprime une action ponctuelle."
+              },
+              {
+                  "question": "Quelle attitude adopter ?",
+                  "options": ["Rester factuel", "Exagérer les détails", "Inventer des éléments", "Accuser sans preuve"],
+                  "correct": 0,
+                  "explanation": "La neutralité et la précision sont essentielles."
+              },
+              {
+                  "question": "Comment conclure un témoignage ?",
+                  "options": ["C'est tout ce dont je me souviens", "Je mens souvent", "Je ne suis pas sûr", "Demandez à quelqu'un d'autre"],
+                  "correct": 0,
+                  "explanation": "Une conclusion honnête sur les limites du souvenir."
+              }
+          ]
+      },
+      {
+          "name": "Les temps du passé",
+          "questions": [
+              {
+                  "question": "Quand utiliser le plus-que-parfait ?",
+                  "options": ["Pour une action future", "Pour une action antérieure à une autre action passée", "Pour une habitude présente", "Pour une hypothèse"],
+                  "correct": 1,
+                  "explanation": "Il exprime l'antériorité dans le passé."
+              },
+              {
+                  "question": "Complétez : 'Quand je suis arrivé, ils ___ déjà ___ .' (partir)",
+                  "options": ["ont...parti", "étaient...partis", "avaient...parti", "furent...partis"],
+                  "correct": 2,
+                  "explanation": "Plus-que-parfait pour une action antérieure."
+              },
+              {
+                  "question": "Quelle phrase est correcte ?",
+                  "options": ["J'ai mangé quand il a téléphoné", "Je mangeais quand il a téléphoné", "Je mange quand il téléphone", "Je avais mangé quand il téléphonait"],
+                  "correct": 1,
+                  "explanation": "Imparfait (action en cours) + passé composé (action ponctuelle)."
+              },
+              {
+                  "question": "Comment exprimer une succession d'actions ?",
+                  "options": ["Avec des imparfaits", "Avec des plus-que-parfaits", "Avec des passés composés", "Avec des conditionnels"],
+                  "correct": 2,
+                  "explanation": "Le passé composé montre des actions successives."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement les temps ?",
+                  "options": ["Il pleuvait quand je suis sorti", "Il a plu quand je sortais", "Il pleut quand je suis sorti", "Il pleuvait quand je sortais"],
+                  "correct": 0,
+                  "explanation": "Imparfait (contexte) + passé composé (action)."
+              }
+          ]
+      },
+      {
+          "name": "La forme passive",
+          "questions": [
+              {
+                  "question": "Transformez à la voix passive : 'Le journaliste a écrit cet article'",
+                  "options": ["Cet article a été écrit par le journaliste", "Cet article était écrit par le journaliste", "Cet article écrit le journaliste", "Cet article s'est écrit par le journaliste"],
+                  "correct": 0,
+                  "explanation": "Passif avec 'avoir' au passé composé → 'a été écrit'."
+              },
+              {
+                  "question": "Quelle phrase est passive ?",
+                  "options": ["On construit un nouveau pont", "Un nouveau pont est en construction", "Les ouvriers bâtissent un pont", "Un pont a été détruit"],
+                  "correct": 3,
+                  "explanation": "'A été détruit' est une forme passive."
+              },
+              {
+                  "question": "Complétez : 'Les résultats ___ demain.' (publier)",
+                  "options": ["sont publiés", "seront publiés", "ont publié", "publient"],
+                  "correct": 1,
+                  "explanation": "Futur passif : 'seront + participe passé'."
+              },
+              {
+                  "question": "Quelle transformation est incorrecte ?",
+                  "options": ["Active : Ils annoncent les résultats → Passive : Les résultats sont annoncés", "Active : On a volé mon vélo → Passive : Mon vélo a été volé", "Active : Pierre répare la voiture → Passive : La voiture est réparée par Pierre", "Active : La pluie a inondé le sous-sol → Passive : Le sous-sol est inondé par la pluie"],
+                  "correct": 3,
+                  "explanation": "Devrait être 'a été inondé' (passé composé)."
+              },
+              {
+                  "question": "Quand utilise-t-on le passif ?",
+                  "options": ["Pour souligner l'action plutôt que l'acteur", "Quand l'acteur est inconnu ou non important", "Pour des formulations plus formelles", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Toutes ces raisons justifient l'emploi du passif."
+              }
+          ]
+      },
+      {
+          "name": "L'accord du participe passé avec le COD",
+          "questions": [
+              {
+                  "question": "Accordez correctement : 'Les lettres que j'ai ___ .' (écrire)",
+                  "options": ["écrit", "écrite", "écrites", "écrits"],
+                  "correct": 2,
+                  "explanation": "Accord avec 'lettres' (féminin pluriel) placé avant."
+              },
+              {
+                  "question": "Quelle phrase est correcte ?",
+                  "options": ["La décision qu'il a prise", "La décision qu'il a pris", "La décision qu'il a prendre", "La décision qu'il a prises"],
+                  "correct": 0,
+                  "explanation": "Accord avec 'décision' (féminin singulier) placée avant."
+              },
+              {
+                  "question": "Complétez : 'Ils se sont ___ .' (téléphoner)",
+                  "options": ["téléphoné", "téléphonés", "téléphonée", "téléphonées"],
+                  "correct": 0,
+                  "explanation": "Pas d'accord quand le COD est 'se' (ici, sens réciproque)."
+              },
+              {
+                  "question": "Accordez correctement : 'Les erreurs ? Je les ai ___ .' (corriger)",
+                  "options": ["corrigé", "corrigée", "corrigés", "corrigées"],
+                  "correct": 3,
+                  "explanation": "Accord avec 'les' (féminin pluriel) remplaçant 'erreurs'."
+              },
+              {
+                  "question": "Quelle règle s'applique quand le COD suit le verbe ?",
+                  "options": ["On accorde toujours", "On n'accorde pas", "On accorde seulement au féminin", "On accorde seulement au pluriel"],
+                  "correct": 1,
+                  "explanation": "Pas d'accord quand le COD est placé après le verbe."
+              }
+          ]
+      }
+  ]
+}

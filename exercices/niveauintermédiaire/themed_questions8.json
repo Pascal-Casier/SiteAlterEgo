@@ -1,0 +1,284 @@
+{
+    "categories": [
+        {
+            "name": "Parler de la justice",
+            "questions": [
+                {
+                    "question": "Quel terme désigne une personne qui défend les intérêts d'un accusé devant un tribunal ?",
+                    "options": ["Un juge", "Un procureur", "Un avocat", "Un greffier"],
+                    "correct": 2,
+                    "explanation": "L'avocat est chargé de défendre l'accusé lors d'un procès."
+                },
+                {
+                    "question": "Comment appelle-t-on la personne qui préside un tribunal ?",
+                    "options": ["Un juré", "Un juge", "Un témoin", "Un huissier"],
+                    "correct": 1,
+                    "explanation": "Le juge est celui qui préside le tribunal et rend la décision finale."
+                },
+                {
+                    "question": "Quelle expression signifie 'considéré innocent jusqu'à preuve du contraire' ?",
+                    "options": ["Mise en examen", "Garde à vue", "Présomption d'innocence", "Flagrant délit"],
+                    "correct": 2,
+                    "explanation": "La présomption d'innocence est un principe fondamental en droit."
+                },
+                {
+                    "question": "Quel terme utilise-t-on pour désigner une période d'emprisonnement ?",
+                    "options": ["Une amende", "Une peine", "Un sursis", "Un délit"],
+                    "correct": 1,
+                    "explanation": "Une peine désigne la sanction, comme l'emprisonnement."
+                },
+                {
+                    "question": "Comment appelle-t-on l'action de libérer un condamné avant la fin de sa peine ?",
+                    "options": ["Une grâce", "Une amnistie", "Une libération conditionnelle", "Un acquittement"],
+                    "correct": 2,
+                    "explanation": "La libération conditionnelle permet de sortir avant la fin de peine sous conditions."
+                }
+            ]
+        },
+        {
+            "name": "Écrire une lettre administrative de contestation",
+            "questions": [
+                {
+                    "question": "Quelle formule de politesse est appropriée pour commencer une lettre administrative ?",
+                    "options": ["Salut", "Cher Monsieur", "Madame, Monsieur", "Bonjour"],
+                    "correct": 2,
+                    "explanation": "'Madame, Monsieur' est la formule neutre standard pour une lettre administrative."
+                },
+                {
+                    "question": "Comment introduit-on l'objet d'une lettre administrative ?",
+                    "options": ["Objet : ...", "À propos de :", "Concernant :", "Référence :"],
+                    "correct": 0,
+                    "explanation": "La mention 'Objet :' précède l'indication du sujet de la lettre."
+                },
+                {
+                    "question": "Quelle expression permet d'introduire poliment un désaccord ?",
+                    "options": ["Je suis contre", "Je conteste", "Je me permets de contester", "C'est inacceptable"],
+                    "correct": 2,
+                    "explanation": "'Je me permets de contester' est une formule polie pour exprimer un désaccord."
+                },
+                {
+                    "question": "Quelle formule de politesse est appropriée pour terminer une lettre de contestation ?",
+                    "options": ["À bientôt", "Je vous prie d'agréer l'expression de mes salutations distinguées", "Cordialement", "Bien à vous"],
+                    "correct": 1,
+                    "explanation": "Cette formule complète est la plus formelle pour une lettre administrative."
+                },
+                {
+                    "question": "Comment faire référence à un document joint à la lettre ?",
+                    "options": ["Voir pièce jointe", "Ci-joint", "Regardez le document", "Document attaché"],
+                    "correct": 1,
+                    "explanation": "'Ci-joint' est l'expression standard pour indiquer un document accompagnant la lettre."
+                }
+            ]
+        },
+        {
+            "name": "Exprimer des doutes et des certitudes",
+            "questions": [
+                {
+                    "question": "Quelle expression indique une forte certitude ?",
+                    "options": ["Je pense que", "Je suis persuadé que", "Il me semble que", "Peut-être que"],
+                    "correct": 1,
+                    "explanation": "'Je suis persuadé que' exprime une forte conviction."
+                },
+                {
+                    "question": "Comment exprimer un doute en français ?",
+                    "options": ["Je sais que", "Je doute que", "Il est certain que", "C'est évident que"],
+                    "correct": 1,
+                    "explanation": "'Je doute que' exprime clairement une incertitude."
+                },
+                {
+                    "question": "Quelle expression suggère une probabilité élevée ?",
+                    "options": ["Il se pourrait que", "Il y a peu de chances que", "Il est fort probable que", "J'ai l'impression que"],
+                    "correct": 2,
+                    "explanation": "'Il est fort probable que' indique une probabilité élevée."
+                },
+                {
+                    "question": "Quel mode verbal utilise-t-on après 'Je doute que' ?",
+                    "options": ["Indicatif", "Subjonctif", "Conditionnel", "Impératif"],
+                    "correct": 1,
+                    "explanation": "Le doute nécessite l'emploi du subjonctif."
+                },
+                {
+                    "question": "Quelle expression marque l'incertitude ?",
+                    "options": ["À coup sûr", "Sans aucun doute", "Je suis certain que", "À mon avis"],
+                    "correct": 3,
+                    "explanation": "'À mon avis' introduit une opinion personnelle qui n'est pas présentée comme une certitude absolue."
+                }
+            ]
+        },
+        {
+            "name": "Situer des événements dans un récit au passé",
+            "questions": [
+                {
+                    "question": "Quel temps verbal utilise-t-on pour une action passée et terminée ?",
+                    "options": ["Imparfait", "Passé composé", "Plus-que-parfait", "Présent"],
+                    "correct": 1,
+                    "explanation": "Le passé composé exprime une action achevée dans le passé."
+                },
+                {
+                    "question": "Comment exprime-t-on une action qui était en cours dans le passé ?",
+                    "options": ["Passé simple", "Passé composé", "Imparfait", "Futur antérieur"],
+                    "correct": 2,
+                    "explanation": "L'imparfait décrit une action en cours de déroulement dans le passé."
+                },
+                {
+                    "question": "Quelle locution temporelle introduit une action antérieure à une autre dans le passé ?",
+                    "options": ["Tout à coup", "Pendant que", "Après que", "Avant que"],
+                    "correct": 3,
+                    "explanation": "'Avant que' indique l'antériorité d'une action par rapport à une autre."
+                },
+                {
+                    "question": "Quel temps utilise-t-on pour une action antérieure à une autre dans le passé ?",
+                    "options": ["Passé composé", "Imparfait", "Plus-que-parfait", "Passé récent"],
+                    "correct": 2,
+                    "explanation": "Le plus-que-parfait exprime une action qui s'est produite avant une autre action passée."
+                },
+                {
+                    "question": "Quelle expression permet d'introduire une rupture dans la chronologie d'un récit ?",
+                    "options": ["Ensuite", "Puis", "Soudain", "Finalement"],
+                    "correct": 2,
+                    "explanation": "'Soudain' marque une rupture dans le déroulement du récit."
+                }
+            ]
+        },
+        {
+            "name": "Faire une démonstration",
+            "questions": [
+                {
+                    "question": "Quelle expression permet d'introduire un exemple ?",
+                    "options": ["Par ailleurs", "En revanche", "À titre d'exemple", "Malgré tout"],
+                    "correct": 2,
+                    "explanation": "'À titre d'exemple' permet d'illustrer un propos par un cas concret."
+                },
+                {
+                    "question": "Comment introduit-on une conséquence logique ?",
+                    "options": ["Car", "Donc", "Pourtant", "Or"],
+                    "correct": 1,
+                    "explanation": "'Donc' est un connecteur logique qui exprime une conséquence."
+                },
+                {
+                    "question": "Quelle expression permet de structurer une démonstration ?",
+                    "options": ["D'une part... d'autre part", "À mon avis", "Évidemment", "Bien sûr"],
+                    "correct": 0,
+                    "explanation": "'D'une part... d'autre part' permet d'organiser clairement les arguments."
+                },
+                {
+                    "question": "Comment introduit-on une conclusion dans une démonstration ?",
+                    "options": ["Premièrement", "Toutefois", "Pour commencer", "En conclusion"],
+                    "correct": 3,
+                    "explanation": "'En conclusion' signale la fin de la démonstration et la synthèse des arguments."
+                },
+                {
+                    "question": "Quelle expression permet d'établir un rapport causal ?",
+                    "options": ["Bien que", "En raison de", "Cependant", "À condition que"],
+                    "correct": 1,
+                    "explanation": "'En raison de' exprime une relation de cause à effet."
+                }
+            ]
+        },
+        {
+            "name": "Les expressions du doute et de la certitude",
+            "questions": [
+                {
+                    "question": "Quelle expression indique une certitude absolue ?",
+                    "options": ["Apparemment", "Il est indéniable que", "Je suppose que", "Il paraît que"],
+                    "correct": 1,
+                    "explanation": "'Il est indéniable que' exprime une conviction totale."
+                },
+                {
+                    "question": "Comment exprime-t-on une possibilité ?",
+                    "options": ["Il est évident que", "Il se peut que", "Assurément", "Sans aucun doute"],
+                    "correct": 1,
+                    "explanation": "'Il se peut que' exprime une éventualité, une possibilité."
+                },
+                {
+                    "question": "Quelle expression marque l'incertitude ?",
+                    "options": ["Je suis certain que", "De toute évidence", "Je me demande si", "Indubitablement"],
+                    "correct": 2,
+                    "explanation": "'Je me demande si' exprime un questionnement, donc une incertitude."
+                },
+                {
+                    "question": "Après quelle expression emploie-t-on le subjonctif ?",
+                    "options": ["Je suis sûr que", "Il est certain que", "Je ne doute pas que", "Il n'est pas certain que"],
+                    "correct": 3,
+                    "explanation": "L'expression négative 'Il n'est pas certain que' requiert le subjonctif."
+                },
+                {
+                    "question": "Quelle expression marque une quasi-certitude ?",
+                    "options": ["Peut-être que", "Je suppose que", "Il est vraisemblable que", "Si je ne me trompe pas"],
+                    "correct": 2,
+                    "explanation": "'Il est vraisemblable que' exprime une forte probabilité, proche de la certitude."
+                }
+            ]
+        },
+        {
+            "name": "Les outils de substitution : la double pronominalisation et les pronoms neutres",
+            "questions": [
+                {
+                    "question": "Comment remplace-t-on 'à Pierre' et 'une lettre' dans 'J'écris une lettre à Pierre' ?",
+                    "options": ["Je le lui écris", "Je la lui écris", "Je lui l'écris", "Je lui en écris"],
+                    "correct": 1,
+                    "explanation": "'La' remplace 'une lettre' (COD) et 'lui' remplace 'à Pierre' (COI)."
+                },
+                {
+                    "question": "Quel pronom neutre remplace 'de cela' ?",
+                    "options": ["le", "y", "en", "leur"],
+                    "correct": 2,
+                    "explanation": "Le pronom 'en' remplace un complément introduit par 'de'."
+                },
+                {
+                    "question": "Comment remplace-t-on 'des cadeaux' et 'aux enfants' dans 'Il donne des cadeaux aux enfants' ?",
+                    "options": ["Il les leur donne", "Il leur les donne", "Il en leur donne", "Il leur en donne"],
+                    "correct": 0,
+                    "explanation": "'Les' remplace 'des cadeaux' (COD) et 'leur' remplace 'aux enfants' (COI)."
+                },
+                {
+                    "question": "Quel pronom neutre remplace un lieu ?",
+                    "options": ["le", "en", "y", "lui"],
+                    "correct": 2,
+                    "explanation": "Le pronom 'y' remplace un complément de lieu."
+                },
+                {
+                    "question": "Comment remplace-t-on 'à cette question' dans 'Je réponds à cette question' ?",
+                    "options": ["Je la réponds", "Je lui réponds", "J'y réponds", "J'en réponds"],
+                    "correct": 2,
+                    "explanation": "Le pronom 'y' remplace un complément introduit par 'à' (sauf personnes)."
+                }
+            ]
+        },
+        {
+            "name": "Situer un événement dans un récit au passé",
+            "questions": [
+                {
+                    "question": "Quelle expression indique la simultanéité de deux actions dans le passé ?",
+                    "options": ["Après que", "Pendant que", "Avant que", "Dès que"],
+                    "correct": 1,
+                    "explanation": "'Pendant que' exprime deux actions qui se déroulent en même temps."
+                },
+                {
+                    "question": "Quel temps utilise-t-on après 'Après avoir' ?",
+                    "options": ["Infinitif présent", "Participe passé", "Participe présent", "Gérondif"],
+                    "correct": 1,
+                    "explanation": "'Après avoir' est suivi du participe passé du verbe."
+                },
+                {
+                    "question": "Quelle préposition marque l'antériorité ?",
+                    "options": ["Depuis", "Pendant", "Lors de", "Avant"],
+                    "correct": 3,
+                    "explanation": "'Avant' indique qu'une action se produit antérieurement à une autre."
+                },
+                {
+                    "question": "Comment exprime-t-on une durée précise dans le passé ?",
+                    "options": ["Depuis", "Il y a", "Pendant", "En"],
+                    "correct": 2,
+                    "explanation": "'Pendant + durée' exprime une durée précise et limitée."
+                },
+                {
+                    "question": "Quelle expression indique le début d'une action dans le passé ?",
+                    "options": ["Aussitôt", "Au fur et à mesure", "Dès que", "Tant que"],
+                    "correct": 2,
+                    "explanation": "'Dès que' marque le commencement immédiat d'une action après une autre."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,354 @@
+{
+    "categories": [
+      {
+        "name": "Parler de ses façons d'apprendre et de son type de mémoire",
+        "questions": [
+          {
+            "question": "Comment dit-on 'I learn best by reading' ?",
+            "options": ["J'apprends mieux en lisant", "Je lis pour apprendre mieux", "J'aime lire pour apprendre", "J'apprends par lecture"],
+            "correct": 0,
+            "explanation": "La construction avec le gérondif 'en + verbe' est la plus naturelle."
+          },
+          {
+            "question": "Quelle phrase décrit une personne avec une mémoire visuelle ?",
+            "options": ["J'ai besoin d'entendre pour retenir", "Je dois écrire pour mémoriser", "Je retiens mieux ce que je vois", "Je préfère manipuler pour comprendre"],
+            "correct": 2,
+            "explanation": "La mémoire visuelle concerne l'apprentissage par la vue."
+          },
+          {
+            "question": "Comment dit-on 'My learning method is effective' ?",
+            "options": ["Ma méthode d'apprentissage est efficace", "Ma façon d'apprendre est efficace", "Mon apprentissage est efficace", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Les trois formulations sont correctes selon le contexte."
+          },
+          {
+            "question": "Quel verbe complète : 'Je _____ facilement les visages' ?",
+            "options": ["souviens", "rappelle", "retiens", "mémorise"],
+            "correct": 3,
+            "explanation": "On utilise 'mémoriser' pour exprimer la capacité à retenir."
+          },
+          {
+            "question": "Comment exprime-t-on sa difficulté à apprendre ?",
+            "options": ["J'ai du mal à apprendre", "C'est difficile pour moi d'apprendre", "Je trouve l'apprentissage compliqué", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Les trois expressions sont correctes."
+          }
+        ]
+      },
+      {
+        "name": "Relater son parcours lors d'un entretien de motivation",
+        "questions": [
+          {
+            "question": "Comment présenter son parcours professionnel ?",
+            "options": ["J'ai travaillé comme...", "Mon parcours professionnel inclut...", "J'ai occupé le poste de...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois formulations sont appropriées."
+          },
+          {
+            "question": "Quelle phrase explique votre motivation ?",
+            "options": ["Je veux ce poste parce que...", "Ce qui me motive, c'est...", "Je suis intéressé(e) par ce poste car...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois formulations sont correctes."
+          },
+          {
+            "question": "Comment parler de ses études ?",
+            "options": ["J'ai fait mes études à...", "J'ai étudié à...", "J'ai obtenu mon diplôme à...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Les trois formulations sont correctes selon le contexte."
+          },
+          {
+            "question": "Quelle expression est correcte pour parler d'une compétence acquise ?",
+            "options": ["J'ai développé la compétence de...", "J'ai appris à...", "Je maîtrise...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Les trois expressions sont correctes."
+          },
+          {
+            "question": "Comment introduire ses qualités lors d'un entretien ?",
+            "options": ["Je suis une personne...", "Mes points forts sont...", "On me décrit souvent comme...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois introductions sont appropriées."
+          }
+        ]
+      },
+      {
+        "name": "Parler de son expérience",
+        "questions": [
+          {
+            "question": "Comment dit-on 'I have been working for 5 years' ?",
+            "options": ["Je travaille depuis 5 ans", "J'ai travaillé pour 5 ans", "Je suis en train de travailler depuis 5 ans", "Je travaillais pendant 5 ans"],
+            "correct": 0,
+            "explanation": "Présent + 'depuis' pour une action qui continue."
+          },
+          {
+            "question": "Quelle phrase décrit correctement une expérience passée ?",
+            "options": ["J'ai travaillé dans une banque pendant deux ans", "J'ai été travaillé dans une banque", "Je travaille dans une banque pour deux ans", "J'étais travaillé dans une banque"],
+            "correct": 0,
+            "explanation": "Passé composé + 'pendant' pour une durée définie dans le passé."
+          },
+          {
+            "question": "Comment utiliser le verbe 'acquérir' au passé composé ?",
+            "options": ["J'ai acquéri", "J'ai acquis", "J'ai acqueru", "J'ai acquiert"],
+            "correct": 1,
+            "explanation": "Participe passé irrégulier : 'acquis'."
+          },
+          {
+            "question": "Quelle expression est correcte ?",
+            "options": ["J'ai de l'expérience en informatique", "J'ai l'expérience en informatique", "Je suis expérimenté en informatique", "Réponses A et C"],
+            "correct": 3,
+            "explanation": "Les deux formulations sont correctes."
+          },
+          {
+            "question": "Comment dit-on 'This experience taught me a lot' ?",
+            "options": ["Cette expérience m'a beaucoup appris", "Cette expérience m'a appris beaucoup", "Cette expérience a beaucoup appris à moi", "Cette expérience m'apprenait beaucoup"],
+            "correct": 0,
+            "explanation": "Ordre correct des mots et utilisation du passé composé."
+          }
+        ]
+      },
+      {
+        "name": "S'inscrire à l'université",
+        "questions": [
+          {
+            "question": "Comment dit-on 'enrollment form' ?",
+            "options": ["Formulaire d'inscription", "Forme d'inscription", "Fiche d'inscrire", "Document inscriptif"],
+            "correct": 0,
+            "explanation": "'Formulaire' est le terme exact."
+          },
+          {
+            "question": "Quelle phrase est correcte ?",
+            "options": ["Je veux m'inscrire à la licence de droit", "Je veux inscrire à la licence de droit", "Je veux m'inscrire dans la licence de droit", "Je veux inscrir à la licence de droit"],
+            "correct": 0,
+            "explanation": "Verbe pronominal avec préposition 'à'."
+          },
+          {
+            "question": "Comment demander les dates d'inscription ?",
+            "options": ["Quand sont les inscriptions ?", "Quelles sont les dates d'inscription ?", "Quand peut-on s'inscrire ?", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois questions sont correctes."
+          },
+          {
+            "question": "Quelle est la formulation correcte ?",
+            "options": ["J'ai besoin de m'inscrire", "J'ai besoin m'inscrire", "J'ai besoin que je m'inscris", "J'ai besoin pour m'inscrire"],
+            "correct": 0,
+            "explanation": "Construction avec 'besoin de' + infinitif."
+          },
+          {
+            "question": "Comment dit-on 'student card' ?",
+            "options": ["Carte d'étudiant", "Carte étudiante", "Carte estudiantine", "Carte pour étudiants"],
+            "correct": 0,
+            "explanation": "Terme officiel utilisé par les universités."
+          }
+        ]
+      },
+      {
+        "name": "Évoquer le passé",
+        "questions": [
+          {
+            "question": "Comment commence-t-on un récit au passé ?",
+            "options": ["Il était une fois...", "Autrefois...", "Quand j'étais plus jeune...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois introductions sont appropriées."
+          },
+          {
+            "question": "Quelle phrase utilise correctement l'imparfait ?",
+            "options": ["Hier, je mangeais quand le téléphone a sonné", "Hier, je mangeais un sandwich", "Hier, je mangeais à midi", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois utilisations sont correctes selon le contexte."
+          },
+          {
+            "question": "Comment dit-on 'When I was a child' ?",
+            "options": ["Quand j'ai été enfant", "Quand j'étais enfant", "Quand j'avais enfant", "Lorsque j'étais un enfant"],
+            "correct": 1,
+            "explanation": "Imparfait + pas d'article avec 'enfant'."
+          },
+          {
+            "question": "Quelle expression évoque la nostalgie ?",
+            "options": ["Dans le bon vieux temps", "À cette époque-là", "Dans ma jeunesse", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions évoquent la nostalgie."
+          },
+          {
+            "question": "Comment parler d'une habitude passée ?",
+            "options": ["J'avais l'habitude de...", "J'ai l'habitude de...", "J'ai eu l'habitude de...", "Je suis habitué à..."],
+            "correct": 0,
+            "explanation": "Imparfait pour exprimer une habitude passée."
+          }
+        ]
+      },
+      {
+        "name": "Exprimer une concession et (s')opposer",
+        "questions": [
+          {
+            "question": "Quelle conjonction exprime la concession ?",
+            "options": ["Mais", "Pourtant", "Bien que", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois conjonctions expriment la concession."
+          },
+          {
+            "question": "Quelle phrase utilise correctement 'malgré' ?",
+            "options": ["Malgré qu'il pleuve", "Malgré la pluie", "Malgré de la pluie", "Malgré il pleut"],
+            "correct": 1,
+            "explanation": "'Malgré' est suivi d'un nom ou pronom, pas d'une proposition."
+          },
+          {
+            "question": "Comment dit-on 'Even though it's difficult' ?",
+            "options": ["Même si c'est difficile", "Même que c'est difficile", "Même c'est difficile", "Même quand c'est difficile"],
+            "correct": 0,
+            "explanation": "'Même si' est la traduction correcte."
+          },
+          {
+            "question": "Quelle phrase exprime l'opposition ?",
+            "options": ["Par contre, je ne suis pas d'accord", "Au contraire, je pense différemment", "En revanche, mon opinion est opposée", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions marquent l'opposition."
+          },
+          {
+            "question": "Comment dit-on 'Nevertheless, I'll try' ?",
+            "options": ["Néanmoins, je vais essayer", "Quand même, je vais essayer", "Toutefois, je vais essayer", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois adverbes expriment la concession."
+          }
+        ]
+      },
+      {
+        "name": "L'imparfait et le passé composé (rappel)",
+        "questions": [
+          {
+            "question": "Quelle action utilise le passé composé ?",
+            "options": ["Une action ponctuelle", "Une description", "Une habitude passée", "Un état d'esprit"],
+            "correct": 0,
+            "explanation": "Le passé composé exprime une action ponctuelle, achevée."
+          },
+          {
+            "question": "Quelle phrase utilise correctement l'imparfait ?",
+            "options": ["Il a plu toute la journée", "Il pleuvait quand je suis sorti", "Il a été malade hier", "J'ai été content de te voir"],
+            "correct": 1,
+            "explanation": "Action en cours (cadre) + action ponctuelle."
+          },
+          {
+            "question": "Comment forme-t-on l'imparfait de 'faire' ?",
+            "options": ["Je faisais", "Je fesais", "Je fairais", "Je fasais"],
+            "correct": 0,
+            "explanation": "Radical 'fais-' + terminaisons de l'imparfait."
+          },
+          {
+            "question": "Quelle phrase combine correctement imparfait et passé composé ?",
+            "options": ["J'ai dormi quand le téléphone sonnait", "Je dormais quand le téléphone a sonné", "Je dormais quand le téléphone sonnait", "J'ai dormi quand le téléphone a sonné"],
+            "correct": 1,
+            "explanation": "Action en cours (imparfait) interrompue par action ponctuelle (passé composé)."
+          },
+          {
+            "question": "Pour quelle situation utilise-t-on l'imparfait ?",
+            "options": ["Pour décrire le contexte", "Pour raconter une série d'actions", "Pour parler d'un événement précis", "Pour indiquer une action terminée"],
+            "correct": 0,
+            "explanation": "L'imparfait sert à décrire le contexte, le cadre."
+          }
+        ]
+      },
+      {
+        "name": "Le plus-que-parfait",
+        "questions": [
+          {
+            "question": "Comment forme-t-on le plus-que-parfait ?",
+            "options": ["Auxiliaire au présent + participe passé", "Auxiliaire à l'imparfait + participe passé", "Auxiliaire au futur + participe passé", "Auxiliaire au passé composé + participe passé"],
+            "correct": 1,
+            "explanation": "Auxiliaire être/avoir à l'imparfait + participe passé."
+          },
+          {
+            "question": "Quelle phrase utilise correctement le plus-que-parfait ?",
+            "options": ["J'avais mangé avant de sortir", "J'ai mangé avant que je sors", "J'avais mangé avant que je sortais", "J'ai eu mangé avant de sortir"],
+            "correct": 0,
+            "explanation": "Action antérieure à une autre action passée."
+          },
+          {
+            "question": "Quelle est la valeur du plus-que-parfait ?",
+            "options": ["Exprimer une action passée", "Exprimer une action future", "Exprimer une action antérieure à une autre action passée", "Exprimer une habitude"],
+            "correct": 2,
+            "explanation": "Le plus-que-parfait exprime l'antériorité dans le passé."
+          },
+          {
+            "question": "Comment conjugue-t-on 'partir' au plus-que-parfait ?",
+            "options": ["J'avais parti", "J'étais parti", "J'ai été parti", "Je suis parti"],
+            "correct": 1,
+            "explanation": "Verbe de mouvement : auxiliaire être à l'imparfait + participe passé."
+          },
+          {
+            "question": "Quelle phrase montre une séquence chronologique correcte ?",
+            "options": ["Quand je suis arrivé, elle était partie", "Quand je suis arrivé, elle est partie", "Quand j'arrivais, elle était partie", "Quand j'étais arrivé, elle partait"],
+            "correct": 0,
+            "explanation": "Action antérieure (plus-que-parfait) + action postérieure (passé composé)."
+          }
+        ]
+      },
+      {
+        "name": "L'accord du participe passé",
+        "questions": [
+          {
+            "question": "Quand accorde-t-on le participe passé avec être ?",
+            "options": ["Jamais", "Toujours avec le sujet", "Seulement au féminin", "Avec le COD"],
+            "correct": 1,
+            "explanation": "Avec l'auxiliaire être, accord systématique avec le sujet."
+          },
+          {
+            "question": "Quelle phrase a un accord correct ?",
+            "options": ["Elles sont parties tôt", "Elles sont parti tôt", "Elles ont parties tôt", "Elles ont partis tôt"],
+            "correct": 0,
+            "explanation": "Auxiliaire être + accord avec sujet féminin pluriel."
+          },
+          {
+            "question": "Quand accorde-t-on le participe passé avec avoir ?",
+            "options": ["Toujours", "Jamais", "Avec le COD placé avant", "Avec le sujet"],
+            "correct": 2,
+            "explanation": "Accord seulement si COD placé avant le verbe."
+          },
+          {
+            "question": "Quelle phrase a un accord correct avec 'avoir' ?",
+            "options": ["La lettre que j'ai écrite", "La lettre que j'ai écrit", "La lettre que j'ai écrits", "La lettre qu'a j'ai écrit"],
+            "correct": 0,
+            "explanation": "COD 'que' (= lettre) placé avant = accord."
+          },
+          {
+            "question": "Comment accorde-t-on le participe passé des verbes pronominaux ?",
+            "options": ["Jamais", "Toujours avec le sujet", "Selon les règles de l'auxiliaire avoir", "Toujours au masculin"],
+            "correct": 2,
+            "explanation": "Généralement comme avec 'avoir' : accord si COD placé avant."
+          }
+        ]
+      },
+      {
+        "name": "Les différents moyens pour exprimer la concession et l'opposition",
+        "questions": [
+          {
+            "question": "Quel mode suit 'bien que' ?",
+            "options": ["Indicatif", "Subjonctif", "Conditionnel", "Infinitif"],
+            "correct": 1,
+            "explanation": "'Bien que' exige le subjonctif."
+          },
+          {
+            "question": "Quelle construction est correcte ?",
+            "options": ["Malgré que je sois fatigué", "Malgré je suis fatigué", "Malgré ma fatigue", "Malgré de fatigue"],
+            "correct": 2,
+            "explanation": "'Malgré' est suivi d'un nom ou groupe nominal."
+          },
+          {
+            "question": "Quelle expression peut remplacer 'pourtant' ?",
+            "options": ["Cependant", "Puisque", "Parce que", "À cause de"],
+            "correct": 0,
+            "explanation": "'Cependant' exprime aussi la concession."
+          },
+          {
+            "question": "Comment dit-on 'on the contrary' ?",
+            "options": ["En contraire", "Au contraire", "À contraire", "Du contraire"],
+            "correct": 1,
+            "explanation": "Expression fixe : 'au contraire'."
+          },
+          {
+            "question": "Quelle structure exprime l'opposition ?",
+            "options": ["D'un côté... de l'autre côté", "Tandis que", "Alors que", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois structures expriment l'opposition."
+          }
+        ]
+      }
+    ]
+  }

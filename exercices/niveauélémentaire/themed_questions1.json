@@ -1,0 +1,459 @@
+{
+    "categories": [
+        {
+            "name": "Parler d’une relation amicale",
+            "questions": [
+                {
+                    "question": "Comment décrire une amitié proche ?",
+                    "options": ["C'est une personne que je connais peu", "C'est quelqu'un avec qui je partage tout", "C'est une relation professionnelle", "C'est une connaissance de loin"],
+                    "correct": 1,
+                    "explanation": "Une amitié proche se caractérise par le partage et la confiance."
+                },
+                {
+                    "question": "Quelle phrase décrit une activité entre amis ?",
+                    "options": ["Nous travaillons ensemble", "Nous sortons souvent au cinéma", "Je ne la vois jamais", "C'est ma voisine"],
+                    "correct": 1,
+                    "explanation": "Sortir au cinéma est une activité typique entre amis."
+                },
+                {
+                    "question": "Comment dire qu'on se connaît depuis longtemps ?",
+                    "options": ["Nous nous sommes rencontrés hier", "Nous nous connaissons depuis l'enfance", "C'est une nouvelle connaissance", "Je ne me souviens pas"],
+                    "correct": 1,
+                    "explanation": "'Depuis l'enfance' indique une longue durée de relation."
+                },
+                {
+                    "question": "Quelle phrase exprime la confiance ?",
+                    "options": ["Je peux tout lui dire", "Je ne lui parle jamais", "C'est un collègue", "Nous échangeons peu"],
+                    "correct": 0,
+                    "explanation": "Pouvoir tout dire à quelqu'un montre une grande confiance."
+                },
+                {
+                    "question": "Comment parler d'un ami fidèle ?",
+                    "options": ["Il est toujours là pour moi", "Il oublie souvent mes messages", "C'est une connaissance", "Nous ne nous parlons plus"],
+                    "correct": 0,
+                    "explanation": "'Toujours là pour moi' décrit la fidélité dans une amitié."
+                }
+            ]
+        },
+        {
+            "name": "Les pronoms relatifs : qui, que, à qui",
+            "questions": [
+                {
+                    "question": "Complétez : 'La personne ___ parle est mon ami.'",
+                    "options": ["que", "qui", "à qui", "dont"],
+                    "correct": 1,
+                    "explanation": "'Qui' est le pronom relatif sujet pour 'la personne'."
+                },
+                {
+                    "question": "Complétez : 'Le livre ___ j'ai lu est passionnant.'",
+                    "options": ["qui", "que", "à qui", "dont"],
+                    "correct": 1,
+                    "explanation": "'Que' est le pronom relatif complément d'objet direct."
+                },
+                {
+                    "question": "Complétez : 'C'est l'homme ___ j'ai donné le livre.'",
+                    "options": ["qui", "que", "à qui", "dont"],
+                    "correct": 2,
+                    "explanation": "'À qui' est utilisé pour un complément d'objet indirect."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["La femme que chante est célèbre", "La femme qui chante est célèbre", "La femme à qui chante est célèbre", "La femme dont chante est célèbre"],
+                    "correct": 1,
+                    "explanation": "'Qui' est le pronom relatif sujet pour 'la femme'."
+                },
+                {
+                    "question": "Complétez : 'Les idées ___ tu penses sont intéressantes.'",
+                    "options": ["qui", "que", "à qui", "auxquelles"],
+                    "correct": 3,
+                    "explanation": "'Auxquelles' est utilisé avec 'penser à' au pluriel."
+                }
+            ]
+        },
+        {
+            "name": "Donner une définition",
+            "questions": [
+                {
+                    "question": "Comment définiriez-vous un 'ami' ?",
+                    "options": ["C'est une personne qui vous veut du bien", "C'est un objet utile", "C'est un endroit public", "C'est un animal domestique"],
+                    "correct": 0,
+                    "explanation": "Une définition d'ami inclut la notion de bienveillance."
+                },
+                {
+                    "question": "Quelle structure utilise-t-on pour définir ?",
+                    "options": ["C'est quand + proposition", "C'est + nom + qui/que", "Il était une fois", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Plusieurs structures peuvent servir à définir."
+                },
+                {
+                    "question": "Comment définir la 'générosité' ?",
+                    "options": ["C'est quand on garde tout pour soi", "C'est le fait de partager avec les autres", "C'est une couleur vive", "C'est un type de nourriture"],
+                    "correct": 1,
+                    "explanation": "La générosité est liée au partage."
+                },
+                {
+                    "question": "Quelle phrase donne une bonne définition ?",
+                    "options": ["Un voisin est quand on habite loin", "Un voisin est une personne qui habite près de chez soi", "Un voisin est un animal", "Un voisin est un objet"],
+                    "correct": 1,
+                    "explanation": "La définition correcte mentionne la proximité géographique."
+                },
+                {
+                    "question": "Comment définir 'la patience' avec 'c'est quand' ?",
+                    "options": ["C'est quand on veut tout immédiatement", "C'est quand on sait attendre calmement", "C'est quand on court vite", "C'est quand on mange beaucoup"],
+                    "correct": 1,
+                    "explanation": "La patience est la capacité à attendre calmement."
+                }
+            ]
+        },
+        {
+            "name": "Décrire une personne (caractère, défauts, qualités)",
+            "questions": [
+                {
+                    "question": "Comment décrire une personne gentille ?",
+                    "options": ["Elle est souvent méchante", "Elle aide toujours les autres", "Elle crie beaucoup", "Elle est égoïste"],
+                    "correct": 1,
+                    "explanation": "Aider les autres est un signe de gentillesse."
+                },
+                {
+                    "question": "Quel mot décrit un défaut ?",
+                    "options": ["Généreux", "Patient", "Égoïste", "Sociable"],
+                    "correct": 2,
+                    "explanation": "'Égoïste' est un défaut caractérisé par le manque de partage."
+                },
+                {
+                    "question": "Comment dire qu'une personne est sociable ?",
+                    "options": ["Elle déteste rencontrer des gens", "Elle aime rester seule", "Elle adore les rencontres", "Elle est timide"],
+                    "correct": 2,
+                    "explanation": "Une personne sociable apprécie les rencontres."
+                },
+                {
+                    "question": "Quelle phrase décrit une qualité ?",
+                    "options": ["Il ment souvent", "Il est toujours honnête", "Il oublie ses promesses", "Il critique beaucoup"],
+                    "correct": 1,
+                    "explanation": "L'honnêteté est une qualité positive."
+                },
+                {
+                    "question": "Comment décrire une personne impatiente ?",
+                    "options": ["Elle sait attendre", "Elle déteste les retards", "Elle est calme", "Elle réfléchit longtemps"],
+                    "correct": 1,
+                    "explanation": "Détester les retards est un signe d'impatience."
+                }
+            ]
+        },
+        {
+            "name": "Le passé composé avec être et l'accord du participe passé",
+            "questions": [
+                {
+                    "question": "Complétez : 'Elle ___ arrivée en retard.'",
+                    "options": ["a", "est", "as", "sont"],
+                    "correct": 1,
+                    "explanation": "'Arriver' utilise l'auxiliaire 'être' au passé composé."
+                },
+                {
+                    "question": "Accordez correctement : 'Ils ___ partis tôt.'",
+                    "options": ["ont", "sont", "a", "est"],
+                    "correct": 1,
+                    "explanation": "'Partir' utilise 'être' et le participe passé s'accorde avec le sujet."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["Nous avons descendu l'escalier", "Nous sommes descendus l'escalier", "Nous est descendu l'escalier", "Nous a descendu l'escalier"],
+                    "correct": 1,
+                    "explanation": "'Descendre' utilise 'être' et le participe passé s'accorde."
+                },
+                {
+                    "question": "Accordez correctement : 'Elle ___ née en juin.'",
+                    "options": ["a", "est", "ont", "sont"],
+                    "correct": 1,
+                    "explanation": "'Naître' utilise 'être' et le participe passé s'accorde."
+                },
+                {
+                    "question": "Complétez : 'Vous ___ tombées en ski.'",
+                    "options": ["avez", "êtes", "a", "est"],
+                    "correct": 1,
+                    "explanation": "'Tomber' utilise 'être' et le participe passé s'accorde avec 'vous' féminin pluriel."
+                }
+            ]
+        },
+        {
+            "name": "Rapporter des paroles, Le discours indirect au présent",
+            "questions": [
+                {
+                    "question": "Comment transformer : 'Je suis fatigué' (discours indirect) ?",
+                    "options": ["Il dit qu'il est fatigué", "Il dit que je suis fatigué", "Il dit qu'il a fatigué", "Il dit que il est fatigué"],
+                    "correct": 0,
+                    "explanation": "On utilise 'que' et on adapte les pronoms."
+                },
+                {
+                    "question": "Quelle phrase rapporte correctement : 'J'aime le cinéma' ?",
+                    "options": ["Elle dit qu'elle aime le cinéma", "Elle dit que j'aime le cinéma", "Elle dit qu'elle a aimé le cinéma", "Elle dit que elle aime le cinéma"],
+                    "correct": 0,
+                    "explanation": "Transformation correcte avec 'que' et changement de pronom."
+                },
+                {
+                    "question": "Comment dire : 'Il affirme : Je viendrai' (au présent) ?",
+                    "options": ["Il affirme qu'il viendra", "Il affirme qu'il vient", "Il affirme que je viendrai", "Il affirme qu'il venait"],
+                    "correct": 1,
+                    "explanation": "Le futur devient présent dans le discours indirect au présent."
+                },
+                {
+                    "question": "Transformer : 'Nous partons demain' (discours indirect)",
+                    "options": ["Ils disent qu'ils partent demain", "Ils disent que nous partons demain", "Ils disent qu'ils partaient demain", "Ils disent que ils partent demain"],
+                    "correct": 0,
+                    "explanation": "Transformation correcte avec adaptation des pronoms."
+                },
+                {
+                    "question": "Quelle phrase est correcte pour rapporter : 'Tu as raison' ?",
+                    "options": ["Il me dit que j'ai raison", "Il me dit que tu as raison", "Il me dit qu'il a raison", "Il me dit que il a raison"],
+                    "correct": 0,
+                    "explanation": "Adaptation correcte du pronom 'tu' à 'je'."
+                }
+            ]
+        },
+        {
+            "name": "Parler de ses relations de voisinage",
+            "questions": [
+                {
+                    "question": "Comment décrire un bon voisin ?",
+                    "options": ["Il fait toujours du bruit", "Il est serviable et discret", "Il ignore tout le monde", "Il critique souvent"],
+                    "correct": 1,
+                    "explanation": "Un bon voisin est serviable et respectueux."
+                },
+                {
+                    "question": "Quelle phrase décrit une relation de voisinage conflictuelle ?",
+                    "options": ["Nous échangeons souvent des cadeaux", "Nous nous disputons pour le parking", "Nous organisons des repas ensemble", "Nous gardons nos enfants mutuellement"],
+                    "correct": 1,
+                    "explanation": "Les disputes pour le parking montrent un conflit."
+                },
+                {
+                    "question": "Comment dire qu'on aide ses voisins ?",
+                    "options": ["Je leur emprunte souvent des outils", "Je leur rends rarement service", "Je leur propose mon aide", "Je les évite toujours"],
+                    "correct": 2,
+                    "explanation": "Proposer son aide montre une bonne relation."
+                },
+                {
+                    "question": "Quelle activité typique entre voisins ?",
+                    "options": ["Faire les courses pour eux", "Organiser une fête des voisins", "Ignorer leurs salutations", "Critiquer leur décoration"],
+                    "correct": 1,
+                    "explanation": "La fête des voisins est une activité typique."
+                },
+                {
+                    "question": "Comment décrire un voisin bruyant ?",
+                    "options": ["Il écoute de la musique fort la nuit", "Il parle doucement", "Il est toujours silencieux", "Il s'absente souvent"],
+                    "correct": 0,
+                    "explanation": "Écouter de la musique fort la nuit est une source de bruit."
+                }
+            ]
+        },
+        {
+            "name": "Évoquer des changements : L’imparfait et le présent pour comparer",
+            "questions": [
+                {
+                    "question": "Complétez : 'Avant, je ___ timide, maintenant je suis sociable.'",
+                    "options": ["suis", "étais", "serai", "ai été"],
+                    "correct": 1,
+                    "explanation": "L'imparfait 'étais' décrit un état passé qui a changé."
+                },
+                {
+                    "question": "Quelle phrase compare correctement passé et présent ?",
+                    "options": ["Autrefois je lisais peu, maintenant je lis beaucoup", "Je lisais beaucoup et je continue", "Je ne lisais pas et je ne lis toujours pas", "Je lis beaucoup et j'aimais lire"],
+                    "correct": 0,
+                    "explanation": "Contraste clair entre le passé (imparfait) et le présent."
+                },
+                {
+                    "question": "Comment dire qu'un quartier a changé ?",
+                    "options": ["Avant c'était calme, maintenant c'est animé", "C'était animé et ça l'est toujours", "Ce sera calme dans le futur", "C'est calme depuis toujours"],
+                    "correct": 0,
+                    "explanation": "Comparaison efficace entre passé et présent."
+                },
+                {
+                    "question": "Complétez : 'Dans le temps, nous ___ souvent au théâtre, maintenant nous y allons rarement.'",
+                    "options": ["allons", "irons", "allions", "sommes allés"],
+                    "correct": 2,
+                    "explanation": "L'imparfait 'allions' montre une habitude passée contrastant avec le présent."
+                },
+                {
+                    "question": "Quelle phrase montre un changement d'habitude ?",
+                    "options": ["Je mangeais peu de légumes, maintenant j'en mange souvent", "Je mangeais des légumes et j'en mange toujours", "Je ne mangeais pas de légumes et je n'en mange pas", "Je mangerai plus de légumes plus tard"],
+                    "correct": 0,
+                    "explanation": "Contraste entre une habitude passée et une pratique actuelle."
+                }
+            ]
+        },
+        {
+            "name": "Les structures de la comparaison",
+            "questions": [
+                {
+                    "question": "Complétez : 'Il est ___ grand que son frère.'",
+                    "options": ["plus", "très", "beaucoup", "trop"],
+                    "correct": 0,
+                    "explanation": "'Plus...que' est la structure comparative de supériorité."
+                },
+                {
+                    "question": "Comment dire qu'une chose est moins chère qu'une autre ?",
+                    "options": ["Ce livre est plus cher que l'autre", "Ce livre est moins cher que l'autre", "Ce livre est aussi cher que l'autre", "Ce livre est très cher"],
+                    "correct": 1,
+                    "explanation": "'Moins...que' exprime la comparaison d'infériorité."
+                },
+                {
+                    "question": "Quelle phrase est correcte pour une égalité ?",
+                    "options": ["Elle est plus grande que sa sœur", "Elle est moins grande que sa sœur", "Elle est aussi grande que sa sœur", "Elle est très grande"],
+                    "correct": 2,
+                    "explanation": "'Aussi...que' exprime la comparaison d'égalité."
+                },
+                {
+                    "question": "Complétez : 'Cet appartement est ___ spacieux que le précédent.'",
+                    "options": ["plus", "moins", "aussi", "toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces options peuvent compléter la phrase selon le sens voulu."
+                },
+                {
+                    "question": "Comment dire qu'un film est meilleur qu'un autre ?",
+                    "options": ["Ce film est pire que l'autre", "Ce film est aussi bon que l'autre", "Ce film est meilleur que l'autre", "Ce film est très bon"],
+                    "correct": 2,
+                    "explanation": "'Meilleur que' est le comparatif de supériorité pour 'bon'."
+                }
+            ]
+        },
+        {
+            "name": "Raconter une rencontre et les suites d'une rencontre",
+            "questions": [
+                {
+                    "question": "Comment commencer le récit d'une rencontre ?",
+                    "options": ["Je l'ai rencontré par hasard", "Je vais le rencontrer demain", "Je le rencontre souvent", "Je l'ai toujours connu"],
+                    "correct": 0,
+                    "explanation": "Le passé composé est utilisé pour le début du récit."
+                },
+                {
+                    "question": "Quelle phrase décrit une première impression ?",
+                    "options": ["Au premier abord, il m'a semblé sympathique", "Nous sommes amis depuis longtemps", "Nous nous voyons chaque semaine", "Nous allons nous marier"],
+                    "correct": 0,
+                    "explanation": "'Au premier abord' introduit une première impression."
+                },
+                {
+                    "question": "Comment dire qu'une rencontre a changé votre vie ?",
+                    "options": ["Cette rencontre n'a rien changé", "Cette rencontre a bouleversé ma vie", "Je ne me souviens pas de cette rencontre", "Cette rencontre était ordinaire"],
+                    "correct": 1,
+                    "explanation": "'A bouleversé' montre un impact important."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement l'imparfait pour décrire le contexte ?",
+                    "options": ["Il pleuvait quand nous nous sommes rencontrés", "Il a plu quand nous nous sommes rencontrés", "Il pleut quand nous nous rencontrons", "Il pleuvra quand nous nous rencontrerons"],
+                    "correct": 0,
+                    "explanation": "L'imparfait décrit le contexte, le passé composé l'action principale."
+                },
+                {
+                    "question": "Comment dire que vous êtes restés en contact ?",
+                    "options": ["Nous ne nous sommes plus revus", "Nous avons perdu contact", "Nous nous sommes écrit régulièrement", "Nous nous sommes disputés"],
+                    "correct": 2,
+                    "explanation": "'Nous nous sommes écrit' montre un contact maintenu."
+                }
+            ]
+        },
+        {
+            "name": "Le passé composé et l'imparfait",
+            "questions": [
+                {
+                    "question": "Complétez : 'Quand il ___ (pleuvoir), nous ___ (rentrer) à la maison.'",
+                    "options": ["a plu, rentrions", "pleuvait, sommes rentrés", "pleuvait, rentrions", "a plu, avons rentré"],
+                    "correct": 1,
+                    "explanation": "L'imparfait pour la description, le passé composé pour l'action."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["J'ai lu quand le téléphone a sonné", "Je lisais quand le téléphone a sonné", "Je lisais quand le téléphone sonnait", "J'ai lu quand le téléphone sonnait"],
+                    "correct": 1,
+                    "explanation": "Action en cours (imparfait) interrompue par une action soudaine (passé composé)."
+                },
+                {
+                    "question": "Complétez : 'Pendant que je ___ (cuisiner), mon ami ___ (arriver).'",
+                    "options": ["ai cuisiné, arrivait", "cuisinais, est arrivé", "cuisinais, arrivait", "ai cuisiné, est arrivé"],
+                    "correct": 1,
+                    "explanation": "Action en cours (imparfait) et action ponctuelle (passé composé)."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement les deux temps ?",
+                    "options": ["Il a neigé pendant que nous avons marché", "Il neigeait pendant que nous marchions", "Il neigeait pendant que nous avons marché", "Il a neigé pendant que nous marchions"],
+                    "correct": 2,
+                    "explanation": "Contexte (imparfait) et action principale (passé composé)."
+                },
+                {
+                    "question": "Complétez : 'Quand j'___ (être) enfant, nous ___ (voyager) souvent.'",
+                    "options": ["ai été, avons voyagé", "étais, voyagions", "étais, avons voyagé", "ai été, voyagions"],
+                    "correct": 1,
+                    "explanation": "Description d'état (imparfait) et habitude (imparfait)."
+                }
+            ]
+        },
+        {
+            "name": "Quelques participes passés irréguliers",
+            "questions": [
+                {
+                    "question": "Quel est le participe passé de 'prendre' ?",
+                    "options": ["prenu", "pris", "prendu", "preni"],
+                    "correct": 1,
+                    "explanation": "Le participe passé de 'prendre' est 'pris'."
+                },
+                {
+                    "question": "Complétez : 'J'ai ___ le livre sur l'étagère.' (mettre)",
+                    "options": ["met", "metté", "mis", "mise"],
+                    "correct": 2,
+                    "explanation": "Le participe passé de 'mettre' est 'mis'."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["Elle a couru vite", "Elle a courue vite", "Elle a couri vite", "Elle a courus vite"],
+                    "correct": 0,
+                    "explanation": "'Courir' a le participe passé 'couru', invariable."
+                },
+                {
+                    "question": "Complétez : 'Nous avons ___ toute la nuit.' (dormir)",
+                    "options": ["dormi", "dormis", "dormit", "dormé"],
+                    "correct": 0,
+                    "explanation": "Le participe passé de 'dormir' est 'dormi'."
+                },
+                {
+                    "question": "Quel est le participe passé de 'voir' ?",
+                    "options": ["voi", "voyé", "vu", "voiré"],
+                    "correct": 2,
+                    "explanation": "Le participe passé de 'voir' est 'vu'."
+                }
+            ]
+        },
+        {
+            "name": "Les marqueurs temporels : il y a, pendant, dans",
+            "questions": [
+                {
+                    "question": "Complétez : 'Je suis arrivé ___ deux jours.'",
+                    "options": ["pendant", "dans", "il y a", "en"],
+                    "correct": 2,
+                    "explanation": "'Il y a' indique une durée écoulée depuis un événement passé."
+                },
+                {
+                    "question": "Comment dire qu'un événement durera trois jours ?",
+                    "options": ["La fête aura lieu il y a trois jours", "La fête dure pendant trois jours", "La fête était dans trois jours", "La fête a eu lieu trois jours"],
+                    "correct": 1,
+                    "explanation": "'Pendant' indique la durée d'une action."
+                },
+                {
+                    "question": "Complétez : 'Nous partons ___ une heure.'",
+                    "options": ["il y a", "pendant", "dans", "en"],
+                    "correct": 2,
+                    "explanation": "'Dans' exprime un délai futur avant le début d'une action."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["J'ai habité ici il y a cinq ans", "J'habite ici pendant cinq ans", "J'habiterai ici il y a cinq ans", "J'habitais ici dans cinq ans"],
+                    "correct": 0,
+                    "explanation": "'Il y a' + durée exprime le temps écoulé depuis un événement passé."
+                },
+                {
+                    "question": "Comment dire qu'une action s'est produite récemment ?",
+                    "options": ["Je l'ai vu dans une semaine", "Je l'ai vu pendant une semaine", "Je l'ai vu il y a une semaine", "Je l'ai vu en une semaine"],
+                    "correct": 2,
+                    "explanation": "'Il y a' + courte durée indique un événement récent."
+                }
+            ]
+        }
+    ]
+}

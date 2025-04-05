@@ -1,0 +1,459 @@
+{
+  "categories": [
+      {
+          "name": "Comprendre un manifeste - Inciter à agir",
+          "questions": [
+              {
+                  "question": "Quelle formulation incite le plus à l'action ?",
+                  "options": ["Il faudrait faire quelque chose", "Nous pourrions agir", "Agissons maintenant !", "Il serait bien d'agir"],
+                  "correct": 2,
+                  "explanation": "L'impératif pluriel est la forme la plus directe pour inciter à l'action."
+              },
+              {
+                  "question": "Comment exprimer l'urgence dans un manifeste ?",
+                  "options": ["Il est possible que", "Il est temps de", "Nous pensons que", "Peut-être que"],
+                  "correct": 1,
+                  "explanation": "'Il est temps de' exprime l'urgence et la nécessité d'agir."
+              },
+              {
+                  "question": "Quelle phrase exprime le mieux un objectif collectif ?",
+                  "options": ["Je veux changer les choses", "Vous devez faire attention", "Ensemble, construisons un avenir meilleur", "Chacun fait ce qu'il peut"],
+                  "correct": 2,
+                  "explanation": "L'utilisation du 'nous' inclusif et de l'impératif collectif."
+              },
+              {
+                  "question": "Dans un manifeste, comment introduire une revendication principale ?",
+                  "options": ["Nous exigeons que", "Il serait souhaitable que", "Peut-être que", "Nous aimerions que"],
+                  "correct": 0,
+                  "explanation": "'Exiger que' est la formulation la plus forte pour une revendication."
+              },
+              {
+                  "question": "Quelle expression est typique d'un slogan mobilisateur ?",
+                  "options": ["Tous ensemble pour", "Il faudrait que", "Nous proposons de", "Serait-il possible de"],
+                  "correct": 0,
+                  "explanation": "Les slogans mobilisateurs utilisent des formulations concises et directes."
+              }
+          ]
+      },
+      {
+          "name": "Prendre position, exprimer une opinion",
+          "questions": [
+              {
+                  "question": "Comment introduire une opinion personnelle forte ?",
+                  "options": ["Je pense que", "À mon avis", "Je suis convaincu que", "Il me semble que"],
+                  "correct": 2,
+                  "explanation": "'Je suis convaincu que' exprime une certitude personnelle forte."
+              },
+              {
+                  "question": "Quelle formulation exprime le mieux un désaccord poli ?",
+                  "options": ["Tu as tort", "C'est faux", "Je ne suis pas d'accord avec cette idée", "N'importe quoi !"],
+                  "correct": 2,
+                  "explanation": "Exprimer son désaccord avec l'idée plutôt qu'avec la personne est plus poli."
+              },
+              {
+                  "question": "Pour nuancer une opinion, on utilise plutôt :",
+                  "options": ["Sans aucun doute", "Certes... mais", "Absolument", "C'est évident que"],
+                  "correct": 1,
+                  "explanation": "'Certes... mais' permet de reconnaître un point avant de le nuancer."
+              },
+              {
+                  "question": "Comment introduire un argument personnel ?",
+                  "options": ["Tout le monde sait que", "Selon mon expérience", "On dit souvent que", "Il est prouvé que"],
+                  "correct": 1,
+                  "explanation": "'Selon mon expérience' introduit un argument basé sur le vécu personnel."
+              },
+              {
+                  "question": "Quelle phrase exprime une prise de position claire ?",
+                  "options": ["Je me demande si", "On pourrait penser que", "Je défends l'idée que", "Il est possible que"],
+                  "correct": 2,
+                  "explanation": "'Je défends l'idée que' indique une position assumée et affirmée."
+              }
+          ]
+      },
+      {
+          "name": "L'expression de la nécessité avec le subjonctif ou l'infinitif",
+          "questions": [
+              {
+                  "question": "Quelle phrase exprime la nécessité avec le subjonctif ?",
+                  "options": ["Il faut partir", "Il faut que nous partions", "Nous devons partir", "Il est nécessaire de partir"],
+                  "correct": 1,
+                  "explanation": "'Il faut que + subjonctif' exprime la nécessité avec un sujet spécifique."
+              },
+              {
+                  "question": "Comment exprimer une nécessité impersonnelle ?",
+                  "options": ["Tu dois faire attention", "Il est nécessaire de faire attention", "Je dois faire attention", "Nous faisons attention"],
+                  "correct": 1,
+                  "explanation": "'Il est nécessaire de + infinitif' est une forme impersonnelle."
+              },
+              {
+                  "question": "Quand utilise-t-on le subjonctif après 'il faut' ?",
+                  "options": ["Toujours", "Jamais", "Quand le sujet est précisé", "Quand on parle au passé"],
+                  "correct": 2,
+                  "explanation": "On utilise le subjonctif quand on précise qui doit faire l'action."
+              },
+              {
+                  "question": "Quelle phrase est incorrecte ?",
+                  "options": ["Il est essentiel de comprendre", "Il est essentiel que vous comprenez", "Il est essentiel que vous compreniez", "Il faut comprendre"],
+                  "correct": 1,
+                  "explanation": "Après 'il est essentiel que', on utilise le subjonctif (compreniez)."
+              },
+              {
+                  "question": "Comment exprimer une nécessité dirigée vers quelqu'un d'autre ?",
+                  "options": ["Il faut que tu fasses", "Il faut faire", "Tu dois faire", "Les deux réponses A et C"],
+                  "correct": 3,
+                  "explanation": "On peut utiliser soit 'il faut que + subjonctif' soit 'devoir + infinitif'."
+              }
+          ]
+      },
+      {
+          "name": "Le contraste subjonctif / indicatif dans les complétives",
+          "questions": [
+              {
+                  "question": "Après 'Je pense que', on utilise :",
+                  "options": ["le subjonctif", "l'indicatif", "l'infinitif", "le conditionnel"],
+                  "correct": 1,
+                  "explanation": "L'expression d'une opinion utilise l'indicatif après 'penser que'."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement le mode verbal ?",
+                  "options": ["Je doute qu'il vient", "Je doute qu'il vienne", "Je doute qu'il viendra", "Je doute de venir"],
+                  "correct": 1,
+                  "explanation": "Le doute 'je doute que' appelle le subjonctif."
+              },
+              {
+                  "question": "Après 'Je souhaite que', on utilise :",
+                  "options": ["l'indicatif", "le subjonctif", "l'infinitif", "le participe"],
+                  "correct": 1,
+                  "explanation": "L'expression d'un souhait concernant autrui utilise le subjonctif."
+              },
+              {
+                  "question": "Quelle phrase est correcte ?",
+                  "options": ["Je suis certain qu'il vient", "Je suis certain qu'il vienne", "Je suis certain de qu'il vient", "Je suis certain pour qu'il vienne"],
+                  "correct": 0,
+                  "explanation": "La certitude 'être certain que' demande l'indicatif."
+              },
+              {
+                  "question": "Après 'Il est probable que', on utilise :",
+                  "options": ["le subjonctif", "l'indicatif", "le conditionnel", "l'impératif"],
+                  "correct": 1,
+                  "explanation": "La probabilité utilise l'indicatif, contrairement au doute."
+              }
+          ]
+      },
+      {
+          "name": "Comprendre l'historique d'un événement",
+          "questions": [
+              {
+                  "question": "Quel temps verbal est le plus approprié pour raconter un événement historique ?",
+                  "options": ["Le présent", "Le passé composé", "Le passé simple", "L'imparfait"],
+                  "correct": 2,
+                  "explanation": "Le passé simple est traditionnellement utilisé pour les récits historiques écrits."
+              },
+              {
+                  "question": "Comment introduire les origines d'un événement ?",
+                  "options": ["Soudainement", "À l'époque où", "Désormais", "Demain"],
+                  "correct": 1,
+                  "explanation": "'À l'époque où' permet de situer le contexte historique."
+              },
+              {
+                  "question": "Pour marquer la succession chronologique, on utilise :",
+                  "options": ["Pendant que", "Alors que", "D'abord... ensuite... enfin", "Quand même"],
+                  "correct": 2,
+                  "explanation": "Ces connecteurs chronologiques structurent la narration historique."
+              },
+              {
+                  "question": "Quelle expression sert à introduire les conséquences d'un événement historique ?",
+                  "options": ["À cause de", "C'est pourquoi", "En effet", "Puisque"],
+                  "correct": 1,
+                  "explanation": "'C'est pourquoi' introduit une conséquence, un résultat."
+              },
+              {
+                  "question": "Pour citer une source historique, on peut dire :",
+                  "options": ["Je sais que", "Selon les archives", "J'ai entendu que", "On m'a dit que"],
+                  "correct": 1,
+                  "explanation": "'Selon + source' est la formulation académique pour citer."
+              }
+          ]
+      },
+      {
+          "name": "Parler de ses lectures",
+          "questions": [
+              {
+                  "question": "Comment introduire le sujet d'un livre ?",
+                  "options": ["Le livre parle de", "C'est un livre avec", "Dans ce livre il y a", "Le livre contient"],
+                  "correct": 0,
+                  "explanation": "'Parler de' est l'expression standard pour présenter le sujet."
+              },
+              {
+                  "question": "Pour donner votre appréciation d'une lecture, vous dites :",
+                  "options": ["Le livre est bien", "J'ai été touché(e) par", "L'auteur a écrit", "L'histoire se passe"],
+                  "correct": 1,
+                  "explanation": "Exprimer son ressenti personnel est plus précis qu'un jugement général."
+              },
+              {
+                  "question": "Comment recommander un livre ?",
+                  "options": ["Tu devrais le lire", "C'est un bon livre", "L'auteur est connu", "Il se vend bien"],
+                  "correct": 0,
+                  "explanation": "La recommandation directe avec 'devoir' au conditionnel est la plus explicite."
+              },
+              {
+                  "question": "Pour décrire le style d'un auteur, on peut dire :",
+                  "options": ["L'histoire est intéressante", "Les personnages sont bien", "Son écriture est limpide", "Le livre est récent"],
+                  "correct": 2,
+                  "explanation": "Le style concerne la manière d'écrire, pas le contenu."
+              },
+              {
+                  "question": "Quelle expression permet de citer un passage ?",
+                  "options": ["Je me rappelle que", "Il y a une partie où", "Il dit que", "Je cite : "],
+                  "correct": 3,
+                  "explanation": "'Je cite' introduit une citation textuelle."
+              }
+          ]
+      },
+      {
+          "name": "Demander le prêt d'un objet",
+          "questions": [
+              {
+                  "question": "Quelle est la formulation la plus polie pour demander un prêt ?",
+                  "options": ["Prête-moi ton livre", "Est-ce que tu pourrais me prêter ton livre ?", "J'ai besoin de ton livre", "Donne-moi ton livre"],
+                  "correct": 1,
+                  "explanation": "Le conditionnel avec une question est plus poli que l'impératif."
+              },
+              {
+                  "question": "Comment préciser la durée d'un emprunt ?",
+                  "options": ["Je te le rends", "Je te le rendrai demain", "C'est pour longtemps", "Je vais le garder"],
+                  "correct": 1,
+                  "explanation": "Le futur simple précise l'engagement de retour avec une date."
+              },
+              {
+                  "question": "Pour insister sur le soin qu'on apportera à l'objet, on dit :",
+                  "options": ["Je vais l'utiliser", "J'en prendrai soin", "Il me servira", "C'est pour moi"],
+                  "correct": 1,
+                  "explanation": "'Prendre soin' rassure le propriétaire sur le traitement de l'objet."
+              },
+              {
+                  "question": "Quelle formule est la plus appropriée pour remercier après un prêt ?",
+                  "options": ["Merci", "C'est gentil", "Je te remercie de ta confiance", "À charge de revanche"],
+                  "correct": 2,
+                  "explanation": "Remercier pour la confiance reconnaît la valeur du prêt et l'acte généreux."
+              },
+              {
+                  "question": "Si l'objet est précieux, comment le préciser dans votre demande ?",
+                  "options": ["C'est cher ?", "Je sais que c'est important pour toi", "Ça coûte combien ?", "C'est un bel objet"],
+                  "correct": 1,
+                  "explanation": "Reconnaître la valeur (sentimentale ou autre) de l'objet montre du respect."
+              }
+          ]
+      },
+      {
+          "name": "L'expression de rapports temporels",
+          "questions": [
+              {
+                  "question": "Quelle expression indique le début d'une action ?",
+                  "options": ["depuis", "dès", "jusqu'à", "pendant"],
+                  "correct": 1,
+                  "explanation": "'Dès' marque le point de départ précis d'une action."
+              },
+              {
+                  "question": "Après 'jusqu'à ce que', on utilise :",
+                  "options": ["l'indicatif", "le subjonctif", "l'infinitif", "le participe"],
+                  "correct": 1,
+                  "explanation": "'Jusqu'à ce que' est toujours suivi du subjonctif."
+              },
+              {
+                  "question": "Quelle est la différence entre 'depuis' et 'depuis que' ?",
+                  "options": ["Aucune différence", "'Depuis' + durée / 'depuis que' + événement", "'Depuis' au présent / 'depuis que' au passé", "'Depuis' est plus formel"],
+                  "correct": 1,
+                  "explanation": "'Depuis' introduit une durée, 'depuis que' introduit un événement déclencheur."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement 'dès que' ?",
+                  "options": ["Dès que je finisse", "Dès que j'ai fini", "Dès que j'aurai fini", "Les réponses B et C"],
+                  "correct": 3,
+                  "explanation": "On peut utiliser le passé composé ou le futur antérieur selon le contexte."
+              },
+              {
+                  "question": "Quelle expression indique une durée qui continue dans le présent ?",
+                  "options": ["à partir de", "dès", "jusqu'à", "depuis"],
+                  "correct": 3,
+                  "explanation": "'Depuis' relie le passé au présent en indiquant une continuité."
+              }
+          ]
+      },
+      {
+          "name": "Les doubles pronoms",
+          "questions": [
+              {
+                  "question": "Quel est l'ordre correct des pronoms ?",
+                  "options": ["COD - COI", "COI - COD", "Réfléchi - COD", "Sujet - COD"],
+                  "correct": 1,
+                  "explanation": "L'ordre est toujours complément d'objet indirect puis direct."
+              },
+              {
+                  "question": "Comment remplacer les compléments dans 'Je donne le livre à Paul' ?",
+                  "options": ["Je le lui donne", "Je lui le donne", "Je donne le lui", "Je lui donne le"],
+                  "correct": 0,
+                  "explanation": "COI (lui) - COD (le) est l'ordre correct."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement les pronoms ?",
+                  "options": ["Je te le dis", "Je le te dis", "Je dis te le", "Je te dis le"],
+                  "correct": 0,
+                  "explanation": "Les pronoms se placent avant le verbe dans l'ordre COI-COD."
+              },
+              {
+                  "question": "Comment transformer : 'Montre cette photo à tes parents' ?",
+                  "options": ["Montre-la-leur", "Montre-leur-la", "La leur montre", "Leur la montre"],
+                  "correct": 0,
+                  "explanation": "À l'impératif affirmatif, l'ordre est COD-COI avec des traits d'union."
+              },
+              {
+                  "question": "Quelle forme est correcte pour 'Ne nous les donne pas' ?",
+                  "options": ["Ne nous les donne pas", "Ne les nous donne pas", "Ne donne pas nous les", "Ne donne pas les nous"],
+                  "correct": 0,
+                  "explanation": "À la forme négative, l'ordre reste COI-COD avant le verbe."
+              }
+          ]
+      },
+      {
+          "name": "Comprendre / donner des arguments pour la prévention",
+          "questions": [
+              {
+                  "question": "Quelle formulation est la plus efficace pour une mise en garde ?",
+                  "options": ["Il ne faut pas faire ça", "Attention à ne pas faire ça", "Évitez de faire ça", "Vous pourriez éviter de faire ça"],
+                  "correct": 2,
+                  "explanation": "L'impératif est direct et clair pour une instruction préventive."
+              },
+              {
+                  "question": "Pour introduire un risque, on utilise :",
+                  "options": ["Il y a", "Il se peut que", "On risque de", "Peut-être"],
+                  "correct": 2,
+                  "explanation": "'Risquer de' évoque directement la possibilité d'un danger."
+              },
+              {
+                  "question": "Comment formuler un conseil de prévention positif ?",
+                  "options": ["Ne faites pas", "Il vaut mieux éviter de", "Pensez à", "Pourriez-vous ne pas"],
+                  "correct": 2,
+                  "explanation": "La formulation positive est souvent plus efficace qu'une interdiction."
+              },
+              {
+                  "question": "Pour renforcer l'importance d'un conseil préventif, on dit :",
+                  "options": ["C'est important", "Je vous conseille", "Il est essentiel de", "Vous devriez"],
+                  "correct": 2,
+                  "explanation": "'Il est essentiel de' souligne le caractère indispensable de la mesure."
+              },
+              {
+                  "question": "Quelle formulation incite le plus à la responsabilité ?",
+                  "options": ["Faites attention", "C'est dangereux", "C'est à vous de veiller à", "Il faut être prudent"],
+                  "correct": 2,
+                  "explanation": "Cette formulation responsabilise directement l'interlocuteur."
+              }
+          ]
+      },
+      {
+          "name": "Exprimer son indignation - Faire un reproche",
+          "questions": [
+              {
+                  "question": "Quelle expression marque l'indignation ?",
+                  "options": ["C'est dommage", "Je suis surpris", "C'est inadmissible !", "Ce n'est pas bien"],
+                  "correct": 2,
+                  "explanation": "'Inadmissible' exprime une forte désapprobation morale."
+              },
+              {
+                  "question": "Pour faire un reproche indirect, on utilise :",
+                  "options": ["Tu aurais dû", "Tu dois", "Tu as", "Tu fais"],
+                  "correct": 0,
+                  "explanation": "Le conditionnel passé exprime un reproche sur une action non réalisée."
+              },
+              {
+                  "question": "Quelle formulation est la plus forte pour exprimer un reproche ?",
+                  "options": ["Je n'aime pas quand tu fais ça", "Comment as-tu pu faire ça ?!", "Tu ne devrais pas faire ça", "Ce n'est pas bien"],
+                  "correct": 1,
+                  "explanation": "La question rhétorique exprime l'indignation et l'incompréhension."
+              },
+              {
+                  "question": "Pour atténuer un reproche, on peut dire :",
+                  "options": ["C'est inacceptable", "Tu n'aurais jamais dû", "Il me semble que tu aurais pu", "Je t'interdis de"],
+                  "correct": 2,
+                  "explanation": "'Il me semble que' adoucit la critique en la présentant comme subjective."
+              },
+              {
+                  "question": "Quelle expression utilise l'imparfait de reproche ?",
+                  "options": ["Tu ne m'écoutes pas", "Tu ne m'as pas écouté", "Tu ne m'écoutais pas", "Tu ne m'écouterais pas"],
+                  "correct": 2,
+                  "explanation": "L'imparfait peut exprimer un reproche sur une attitude persistante."
+              }
+          ]
+      },
+      {
+          "name": "Les structures pour exprimer la conséquence",
+          "questions": [
+              {
+                  "question": "Quelle expression de conséquence est la plus neutre ?",
+                  "options": ["donc", "si bien que", "tellement... que", "au point que"],
+                  "correct": 0,
+                  "explanation": "'Donc' établit un lien logique simple sans intensité particulière."
+              },
+              {
+                  "question": "Pour exprimer une conséquence intense, on utilise :",
+                  "options": ["alors", "et", "tellement... que", "puis"],
+                  "correct": 2,
+                  "explanation": "'Tellement... que' met en valeur l'intensité de la cause et sa conséquence."
+              },
+              {
+                  "question": "Quelle structure exprime une conséquence inattendue ?",
+                  "options": ["donc", "si bien que", "par conséquent", "mais"],
+                  "correct": 1,
+                  "explanation": "'Si bien que' peut introduire une conséquence qui n'était pas nécessairement prévisible."
+              },
+              {
+                  "question": "Pour marquer une conséquence négative, on peut utiliser :",
+                  "options": ["donc", "si... que", "au point de", "toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Toutes ces structures peuvent introduire des conséquences négatives selon le contexte."
+              },
+              {
+                  "question": "Quelle phrase exprime correctement une conséquence ?",
+                  "options": ["Il a travaillé dur donc il a réussi", "Il a travaillé dur pour il a réussi", "Il a travaillé dur alors il a réussi", "Les réponses A et C"],
+                  "correct": 3,
+                  "explanation": "'Donc' et 'alors' sont des connecteurs logiques de conséquence."
+              }
+          ]
+      },
+      {
+          "name": "L'imparfait ou le conditionnel pour le reproche",
+          "questions": [
+              {
+                  "question": "Quelle phrase exprime un reproche avec l'imparfait ?",
+                  "options": ["Tu ne ranges pas ta chambre", "Tu ne rangeras pas ta chambre", "Tu ne rangeais pas ta chambre", "Tu n'as pas rangé ta chambre"],
+                  "correct": 2,
+                  "explanation": "L'imparfait suggère une action attendue qui n'a pas été réalisée."
+              },
+              {
+                  "question": "Le conditionnel passé dans un reproche exprime :",
+                  "options": ["une possibilité", "une action non réalisée", "une hypothèse", "un souhait"],
+                  "correct": 1,
+                  "explanation": "Le conditionnel passé évoque ce qui aurait dû être fait mais ne l'a pas été."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement le conditionnel de reproche ?",
+                  "options": ["Tu pouvais me prévenir", "Tu peux me prévenir", "Tu aurais pu me prévenir", "Tu as pu me prévenir"],
+                  "correct": 2,
+                  "explanation": "Le conditionnel passé 'aurais pu' exprime un reproche sur une action non réalisée."
+              },
+              {
+                  "question": "L'imparfait de reproche s'utilise plutôt pour :",
+                  "options": ["des actions ponctuelles", "des actions habituelles", "des états permanents", "des actions futures"],
+                  "correct": 0,
+                  "explanation": "L'imparfait de reproche concerne une action spécifique, contrairement à l'imparfait habituel."
+              },
+              {
+                  "question": "Quelle formulation est la plus polie pour un reproche ?",
+                  "options": ["Tu n'as pas fait ça", "Tu ne faisais pas ça", "Tu aurais dû faire ça", "Tu n'es pas capable de faire ça"],
+                  "correct": 2,
+                  "explanation": "Le conditionnel passé atténue le reproche par rapport à une forme directe."
+              }
+          ]
+      }
+  ]
+}

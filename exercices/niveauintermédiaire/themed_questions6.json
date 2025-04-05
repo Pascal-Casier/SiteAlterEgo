@@ -1,0 +1,284 @@
+{
+    "categories": [
+        {
+            "name": "Parler de ses goûts culturels",
+            "questions": [
+                {
+                    "question": "Comment exprime-t-on son opinion sur un film ?",
+                    "options": ["Je pense le film", "J'aime le film", "Le film me plaît", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces expressions peuvent être utilisées pour donner son avis."
+                },
+                {
+                    "question": "Quelle expression montre un goût prononcé pour la musique ?",
+                    "options": ["Je suis la musique", "J'écoute la musique", "Je suis passionné(e) de musique", "La musique est belle"],
+                    "correct": 2,
+                    "explanation": "'Être passionné(e) de' exprime un fort intérêt."
+                },
+                {
+                    "question": "Comment dit-on 'I don't like theater'?",
+                    "options": ["Je n'aime pas le théâtre", "Je déteste le théâtre", "Le théâtre ne me plaît pas", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces formulations expriment une préférence négative."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement le verbe 'préférer' ?",
+                    "options": ["Je préfère les romans aux BD", "Je préfère les romans que les BD", "Je préfère les romans des BD", "Je préfère les romans comme les BD"],
+                    "correct": 0,
+                    "explanation": "La structure correcte est 'préférer X à Y'."
+                },
+                {
+                    "question": "Comment exprime-t-on une préférence nuancée ?",
+                    "options": ["J'aime bien", "J'adore", "Je déteste", "J'aime pas mal"],
+                    "correct": 0,
+                    "explanation": "'J'aime bien' exprime une appréciation modérée."
+                }
+            ]
+        },
+        {
+            "name": "Faire une interview",
+            "questions": [
+                {
+                    "question": "Quelle est la formule la plus professionnelle pour débuter une interview ?",
+                    "options": ["Salut, ça va ?", "Bonjour, merci d'avoir accepté cette interview", "Hey, on commence ?", "Alors, parle-moi de toi"],
+                    "correct": 1,
+                    "explanation": "La formule avec remerciement est la plus professionnelle."
+                },
+                {
+                    "question": "Comment formuler une question ouverte ?",
+                    "options": ["Vous aimez votre métier ?", "Est-ce que vous êtes satisfait ?", "Pouvez-vous nous parler de votre parcours ?", "Depuis quand travaillez-vous ici ?"],
+                    "correct": 2,
+                    "explanation": "Une question ouverte demande une réponse développée."
+                },
+                {
+                    "question": "Quelle expression permet de relancer poliment l'interviewé ?",
+                    "options": ["Continuez", "Et sinon ?", "Pourriez-vous développer ce point ?", "Prochaine question"],
+                    "correct": 2,
+                    "explanation": "La formulation conditionnelle est polie et encourage l'élaboration."
+                },
+                {
+                    "question": "Comment conclure professionnellement une interview ?",
+                    "options": ["C'est fini", "À plus", "Merci pour votre temps et vos réponses", "On a terminé"],
+                    "correct": 2,
+                    "explanation": "La formule avec remerciement est la plus professionnelle."
+                },
+                {
+                    "question": "Quelle question évite-t-on dans une interview formelle ?",
+                    "options": ["Quel est votre salaire ?", "Quels sont vos projets ?", "Comment voyez-vous l'avenir ?", "Quelles sont vos valeurs ?"],
+                    "correct": 0,
+                    "explanation": "Les questions sur le salaire sont généralement trop personnelles."
+                }
+            ]
+        },
+        {
+            "name": "Donner ses impressions",
+            "questions": [
+                {
+                    "question": "Comment exprimer une première impression positive ?",
+                    "options": ["Ça a l'air intéressant", "Je suis sûr que c'est bien", "C'est probablement nul", "Je ne sais pas quoi penser"],
+                    "correct": 0,
+                    "explanation": "'Avoir l'air + adjectif' exprime une impression initiale."
+                },
+                {
+                    "question": "Quelle expression indique la surprise ?",
+                    "options": ["C'est comme je pensais", "Je m'y attendais", "Ça alors !", "C'est évident"],
+                    "correct": 2,
+                    "explanation": "'Ça alors !' est une exclamation de surprise."
+                },
+                {
+                    "question": "Comment dit-on 'It seems difficult to me'?",
+                    "options": ["C'est difficile", "Il me semble difficile", "Je trouve que c'est difficile", "Toutes ces réponses"],
+                    "correct": 1,
+                    "explanation": "'Il me semble + adjectif' exprime une impression personnelle."
+                },
+                {
+                    "question": "Quelle phrase exprime le doute ?",
+                    "options": ["Je suis certain", "Je me demande si...", "C'est évident que...", "Bien sûr que..."],
+                    "correct": 1,
+                    "explanation": "'Je me demande si' exprime l'incertitude."
+                },
+                {
+                    "question": "Comment exprimer une impression négative poliment ?",
+                    "options": ["C'est nul", "Je n'aime pas du tout", "Ce n'est pas vraiment mon truc", "C'est horrible"],
+                    "correct": 2,
+                    "explanation": "L'expression euphémique est plus polie."
+                }
+            ]
+        },
+        {
+            "name": "Proposer un programme à des amis dans un mail",
+            "questions": [
+                {
+                    "question": "Quelle formule de politesse commence un mail amical ?",
+                    "options": ["Bonjour à tous", "Messieurs-dames", "Cher client", "À qui de droit"],
+                    "correct": 0,
+                    "explanation": "'Bonjour à tous' est adapté pour un groupe d'amis."
+                },
+                {
+                    "question": "Comment propose-t-on une activité ?",
+                    "options": ["Vous devez venir", "Ça vous dit de... ?", "J'exige votre présence", "Venez absolument"],
+                    "correct": 1,
+                    "explanation": "'Ça vous dit de...' est une proposition informelle."
+                },
+                {
+                    "question": "Quelle expression indique un horaire de rendez-vous ?",
+                    "options": ["On doit se voir", "N'importe quand", "Je vous propose de nous retrouver à 18h", "Venez quand vous pouvez"],
+                    "correct": 2,
+                    "explanation": "La proposition claire d'un horaire est la plus précise."
+                },
+                {
+                    "question": "Comment conclut-on un mail de proposition ?",
+                    "options": ["Dites-moi vite", "Merci de me répondre rapidement", "À bientôt j'espère", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces formules peuvent conclure une proposition."
+                },
+                {
+                    "question": "Quelle formule est la plus détendue ?",
+                    "options": ["Veuillez confirmer votre présence", "Merci de m'informer", "Faites-moi signe !", "Je vous prie de bien vouloir répondre"],
+                    "correct": 2,
+                    "explanation": "'Faire signe' est une expression familière et amicale."
+                }
+            ]
+        },
+        {
+            "name": "Participer à un débat : prendre la parole, garder la parole, couper la parole",
+            "questions": [
+                {
+                    "question": "Comment prend-on poliment la parole ?",
+                    "options": ["Je voudrais ajouter quelque chose", "Écoutez-moi maintenant", "C'est à mon tour", "Taisez-vous"],
+                    "correct": 0,
+                    "explanation": "Le conditionnel est poli pour demander la parole."
+                },
+                {
+                    "question": "Quelle expression permet de garder la parole ?",
+                    "options": ["J'ai fini", "Si vous me permettez de continuer...", "C'est tout", "À vous"],
+                    "correct": 1,
+                    "explanation": "Cette formule indique poliment que l'on souhaite poursuivre."
+                },
+                {
+                    "question": "Comment interrompt-on poliment ?",
+                    "options": ["Arrêtez de parler", "Je ne suis pas d'accord", "Excusez-moi de vous interrompre, mais...", "C'est faux !"],
+                    "correct": 2,
+                    "explanation": "S'excuser avant d'interrompre est plus poli."
+                },
+                {
+                    "question": "Quelle phrase permet de recentrer le débat ?",
+                    "options": ["Vous parlez trop", "Revenons à notre sujet principal", "Vous avez tort", "Passons à autre chose"],
+                    "correct": 1,
+                    "explanation": "Cette formulation recentre sans être agressive."
+                },
+                {
+                    "question": "Comment clôture-t-on son intervention ?",
+                    "options": ["C'est tout", "Pour conclure, je dirais que...", "J'ai raison", "Je m'arrête là"],
+                    "correct": 1,
+                    "explanation": "'Pour conclure' signale clairement la fin de l'intervention."
+                }
+            ]
+        },
+        {
+            "name": "L'interrogation: La question avec l'inversion",
+            "questions": [
+                {
+                    "question": "Quelle phrase utilise correctement l'inversion ?",
+                    "options": ["Tu viens ?", "Viens-tu ?", "Est-ce que tu viens ?", "Tu viens ou ?"],
+                    "correct": 1,
+                    "explanation": "L'inversion place le verbe avant le sujet."
+                },
+                {
+                    "question": "Comment forme-t-on une question avec 'nous' ?",
+                    "options": ["Nous allons ?", "Allons-nous ?", "Est-ce que nous allons ?", "Nous allons ou ?"],
+                    "correct": 1,
+                    "explanation": "Pour 'nous', on inverse simplement le verbe et le pronom."
+                },
+                {
+                    "question": "Quelle est la forme correcte avec un nom comme sujet ?",
+                    "options": ["Pierre vient ?", "Vient Pierre ?", "Pierre vient-il ?", "Est-ce que Pierre vient ?"],
+                    "correct": 2,
+                    "explanation": "Avec un nom, on ajoute le pronom correspondant après le verbe."
+                },
+                {
+                    "question": "Comment forme-t-on une question avec 'je' ?",
+                    "options": ["Je peux ?", "Peux-je ?", "Est-ce que je peux ?", "Puis-je ?"],
+                    "correct": 3,
+                    "explanation": "'Puis-je' est la forme correcte pour ce verbe particulier."
+                },
+                {
+                    "question": "Quelle question utilise correctement l'inversion avec un mot interrogatif ?",
+                    "options": ["Où tu vas ?", "Où vas-tu ?", "Où est-ce que tu vas ?", "Tu vas où ?"],
+                    "correct": 1,
+                    "explanation": "Le mot interrogatif est suivi de l'inversion verbe-sujet."
+                }
+            ]
+        },
+        {
+            "name": "Les adverbes en -ment",
+            "questions": [
+                {
+                    "question": "Comment forme-t-on généralement un adverbe à partir d'un adjectif féminin ?",
+                    "options": ["+ -ment", "+ -ement", "+ -emment", "+ -amment"],
+                    "correct": 0,
+                    "explanation": "La règle générale est d'ajouter -ment au féminin de l'adjectif."
+                },
+                {
+                    "question": "À partir de 'lent', comment forme-t-on l'adverbe ?",
+                    "options": ["lentement", "lentment", "lentamment", "lentement"],
+                    "correct": 0,
+                    "explanation": "Lent → lente → lentement."
+                },
+                {
+                    "question": "Comment forme-t-on l'adverbe à partir de 'prudent' ?",
+                    "options": ["prudentement", "prudentment", "prudemment", "prudamment"],
+                    "correct": 2,
+                    "explanation": "Les adjectifs en -ent forment des adverbes en -emment."
+                },
+                {
+                    "question": "À partir de 'heureux', comment forme-t-on l'adverbe ?",
+                    "options": ["heureuxment", "heureusment", "heuresement", "heureusement"],
+                    "correct": 3,
+                    "explanation": "Heureux → heureuse → heureusement."
+                },
+                {
+                    "question": "Quelle est la forme adverbiale de 'bon' ?",
+                    "options": ["bonnement", "bonement", "bien", "bonment"],
+                    "correct": 2,
+                    "explanation": "'Bien' est la forme adverbiale de 'bon' (irrégulier)."
+                }
+            ]
+        },
+        {
+            "name": "Les relatives avec le subjonctif",
+            "questions": [
+                {
+                    "question": "Dans quel cas utilise-t-on le subjonctif dans une relative ?",
+                    "options": ["Toujours", "Jamais", "Quand l'antécédent est indéfini", "Quand l'antécédent est défini"],
+                    "correct": 2,
+                    "explanation": "Le subjonctif s'utilise avec un antécédent non identifié."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement le subjonctif ?",
+                    "options": ["Je cherche quelqu'un qui sait parler chinois", "Je cherche quelqu'un qui sache parler chinois", "Je cherche la personne qui sache parler chinois", "Je cherche les personnes qui sachent parler chinois"],
+                    "correct": 1,
+                    "explanation": "'Quelqu'un qui' + recherche hypothétique → subjonctif."
+                },
+                {
+                    "question": "Quelle relative utilise correctement l'indicatif ?",
+                    "options": ["C'est le seul livre que j'aie lu", "Voici un livre que j'aie lu", "Je connais un médecin qui puisse vous aider", "Voici le médecin qui peut vous aider"],
+                    "correct": 3,
+                    "explanation": "Antécédent défini ('le médecin') → indicatif."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["Je cherche un hôtel qui est au centre-ville", "Je cherche un hôtel qui soit au centre-ville", "Je vais dans l'hôtel qui soit au centre-ville", "Je vois des hôtels qui soient au centre-ville"],
+                    "correct": 1,
+                    "explanation": "'Un hôtel' (non identifié) + recherche → subjonctif."
+                },
+                {
+                    "question": "Quel temps utilise-t-on après 'C'est le seul qui...' ?",
+                    "options": ["Indicatif", "Subjonctif", "Conditionnel", "Participe"],
+                    "correct": 1,
+                    "explanation": "La restriction avec 'le seul qui' appelle le subjonctif."
+                }
+            ]
+        }
+    ]
+}

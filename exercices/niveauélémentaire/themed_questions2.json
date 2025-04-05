@@ -1,0 +1,249 @@
+{
+  "categories": [
+      {
+          "name": "Raconter une expérience universitaire/professionnelle",
+          "questions": [
+              {
+                  "question": "Comment structurer le récit d'une expérience professionnelle ?",
+                  "options": ["En mélangeant tout chronologiquement", "En présentant d'abord le contexte, puis les missions, enfin les résultats", "En omettant les dates importantes", "Sans mentionner le nom de l'entreprise"],
+                  "correct": 1,
+                  "explanation": "Une structure claire : contexte → missions → résultats permet une bonne compréhension."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement le plus-que-parfait pour une expérience passée ?",
+                  "options": ["J'avais obtenu mon diplôme avant de commencer à travailler", "J'obtiens mon diplôme avant de travailler", "Je vais obtenir mon diplôme avant de travailler", "J'obtenais mon diplôme en travaillant"],
+                  "correct": 0,
+                  "explanation": "Le plus-que-parfait (avais obtenu) exprime une antériorité par rapport à une autre action passée."
+              },
+              {
+                  "question": "Comment mentionner une responsabilité importante ?",
+                  "options": ["J'étais chargé de l'équipe projet", "Je regardais l'équipe parfois", "J'ai vu l'équipe de loin", "On m'a parlé d'une équipe"],
+                  "correct": 0,
+                  "explanation": "'Étre chargé de' montre clairement une responsabilité professionnelle."
+              },
+              {
+                  "question": "Quelle phrase décrit bien une compétence acquise ?",
+                  "options": ["J'ai appris à gérer les urgences efficacement", "J'aimais bien le café machine", "Le bureau était lumineux", "J'avais un collègue sympa"],
+                  "correct": 0,
+                  "explanation": "La phrase décrit une compétence professionnelle précise et utile."
+              },
+              {
+                  "question": "Comment relater un défi professionnel ?",
+                  "options": ["J'avais dû résoudre un problème technique complexe en urgence", "Je prends mon café à 10h", "J'aime les réunions courtes", "Mon patron était gentil"],
+                  "correct": 0,
+                  "explanation": "La phrase montre un défi concret et la manière de le surmonter."
+              }
+          ]
+      },
+      {
+          "name": "Les adverbes réguliers et irréguliers (-amment/-emment)",
+          "questions": [
+              {
+                  "question": "Quelle est la forme correcte de l'adverbe pour 'prudent' ?",
+                  "options": ["prudentement", "prudamment", "prudement", "prudiment"],
+                  "correct": 0,
+                  "explanation": "L'adverbe se forme avec le suffixe '-ment' après le féminin de l'adjectif."
+              },
+              {
+                  "question": "Transformez 'évident' en adverbe :",
+                  "options": ["évidamment", "évidemment", "évidentement", "évidentment"],
+                  "correct": 1,
+                  "explanation": "Les adjectifs en '-ent' forment des adverbes en '-emment'."
+              },
+              {
+                  "question": "Quelle phrase contient un adverbe mal orthographié ?",
+                  "options": ["Il répondit patiemment", "Elle travaille éfficacement", "Nous agissons prudemment", "Vous parlez couramment"],
+                  "correct": 2,
+                  "explanation": "'Prudemment' s'écrit avec un seul 'm' (prudent → prudente → prudemment)."
+              },
+              {
+                  "question": "Transformez 'constant' en adverbe :",
+                  "options": ["constamment", "constantement", "constamment", "constantment"],
+                  "correct": 0,
+                  "explanation": "Les adjectifs en '-ant' forment des adverbes en '-amment'."
+              },
+              {
+                  "question": "Quel adverbe est irrégulier ?",
+                  "options": ["gentiment", "vraiment", "bonnement", "brièvement"],
+                  "correct": 1,
+                  "explanation": "'Vraiment' est irrégulier (ne suit pas la règle de formation habituelle)."
+              }
+          ]
+      },
+      {
+          "name": "Rechercher un emploi : comprendre une annonce",
+          "questions": [
+              {
+                  "question": "Que signifie 'CDI' dans une annonce ?",
+                  "options": ["Contrat à Durée Indéterminée", "Contrat de Développement International", "Convention de Départ Individuel", "Comité de Direction Interne"],
+                  "correct": 0,
+                  "explanation": "CDI = Contrat à Durée Indéterminée, le type de contrat le plus stable."
+              },
+              {
+                  "question": "Quelle compétence est souvent demandée pour un poste de manager ?",
+                  "options": ["Capacité à travailler seul sans contact", "Gestion d'équipe et leadership", "Connaissance approfondie de la plomberie", "Expérience en astronautique"],
+                  "correct": 1,
+                  "explanation": "La gestion d'équipe est une compétence clé pour un poste de management."
+              },
+              {
+                  "question": "Que cherche-t-on avec '5 ans d'expérience minimum' ?",
+                  "options": ["Un stagiaire", "Un jeune diplômé", "Un professionnel confirmé", "Un bénévole"],
+                  "correct": 2,
+                  "explanation": "Cette mention indique que l'employeur recherche un profil expérimenté."
+              },
+              {
+                  "question": "Comment interpréter 'anglais courant exigé' ?",
+                  "options": ["La maîtrise occasionnelle est suffisante", "Il faut pouvoir travailler exclusivement en anglais", "Les débutants sont acceptés", "La connaissance basique ne suffit pas"],
+                  "correct": 3,
+                  "explanation": "'Courant' implique une maîtrise avancée de la langue."
+              },
+              {
+                  "question": "Que signifie 'Rémunération selon profil' ?",
+                  "options": ["Salaire identique pour tous", "Salaire fixé selon l'expérience et les compétences", "Travail bénévole obligatoire", "Pas de salaire avant 6 mois"],
+                  "correct": 1,
+                  "explanation": "Le salaire sera adapté en fonction des qualifications du candidat."
+              }
+          ]
+      },
+      {
+          "name": "Postuler pour un emploi : se présenter professionnellement",
+          "questions": [
+              {
+                  "question": "Comment commencer un entretien professionnel ?",
+                  "options": ["Bonjour, je m'appelle... et je suis ravi de cet entretien", "Salut, c'est moi le meilleur candidat", "Je veux juste savoir le salaire", "D'abord, quels sont vos avantages sociaux ?"],
+                  "correct": 0,
+                  "explanation": "Une introduction polie et professionnelle est essentielle."
+              },
+              {
+                  "question": "Quelle phrase explique bien un parcours ?",
+                  "options": ["J'ai étudié la gestion avant de travailler 5 ans en comptabilité", "J'aime le sport et les films", "Je cherche un job pas trop fatiguant", "Votre entreprise est jolie"],
+                  "correct": 0,
+                  "explanation": "La réponse montre clairement le parcours formation/expérience."
+              },
+              {
+                  "question": "Comment mettre en valeur ses compétences ?",
+                  "options": ["J'ai amélioré les processus, réduisant les coûts de 15%", "Personne ne travaille comme moi", "Je sais tout faire", "Je déteste les challenges"],
+                  "correct": 0,
+                  "explanation": "Donner des exemples concrets avec résultats mesurables est efficace."
+              },
+              {
+                  "question": "Que faut-il éviter dans un entretien ?",
+                  "options": ["Critiquer ses anciens employeurs", "Parler de ses réussites", "Poser des questions sur l'entreprise", "Préparer des exemples concrets"],
+                  "correct": 0,
+                  "explanation": "Critiquer ses anciens employeurs donne une mauvaise image."
+              },
+              {
+                  "question": "Comment conclure un entretien ?",
+                  "options": ["Merci pour cet échange, j'espère avoir l'opportunité de...", "Donnez-moi vite votre réponse", "Je prends le poste, c'est bon ?", "Vous m'appelez si vous voulez"],
+                  "correct": 0,
+                  "explanation": "Une conclusion polie et enthousiaste est appropriée."
+              }
+          ]
+      },
+      {
+          "name": "Marqueurs temporels : depuis, pendant, il y a, pour",
+          "questions": [
+              {
+                  "question": "Complétez : 'Je travaille ici ___ 3 ans.'",
+                  "options": ["pendant", "il y a", "depuis", "pour"],
+                  "correct": 2,
+                  "explanation": "'Depuis' indique une action qui a commencé dans le passé et continue."
+              },
+              {
+                  "question": "Quelle phrase est correcte ?",
+                  "options": ["J'ai étudié il y a 5 ans", "J'étudie il y a 5 ans", "Je vais étudier il y a 5 ans", "J'étudiais il y a 5 ans"],
+                  "correct": 0,
+                  "explanation": "'Il y a' + durée exprime le temps écoulé depuis un événement passé."
+              },
+              {
+                  "question": "Complétez : 'Nous partons ___ 2 semaines.'",
+                  "options": ["depuis", "pendant", "pour", "il y a"],
+                  "correct": 2,
+                  "explanation": "'Pour' exprime une durée prévue dans le futur."
+              },
+              {
+                  "question": "Quelle phrase utilise mal 'pendant' ?",
+                  "options": ["J'ai dormi pendant le vol", "Pendant mon enfance, j'aimais dessiner", "Je travaille pendant 8h par jour", "Je vais partir pendant demain"],
+                  "correct": 3,
+                  "explanation": "'Pendant' ne peut pas s'utiliser avec 'demain' (futur)."
+              },
+              {
+                  "question": "Complétez : '___ mon stage, j'ai appris beaucoup.'",
+                  "options": ["Depuis", "Il y a", "Pour", "Pendant"],
+                  "correct": 3,
+                  "explanation": "'Pendant' indique la durée d'une action passée."
+              }
+          ]
+      },
+      {
+          "name": "Donner des conseils, mettre en garde",
+          "questions": [
+              {
+                  "question": "Quelle formule est la plus appropriée pour conseiller ?",
+                  "options": ["Tu dois absolument...", "Je te conseille de...", "Fais ça ou tu seras viré", "Personne ne fait comme ça"],
+                  "correct": 1,
+                  "explanation": "La formule 'Je te conseille' est polie et professionnelle."
+              },
+              {
+                  "question": "Comment mettre en garde poliment ?",
+                  "options": ["Attention, si tu fais ça...", "T'es stupide de penser ça", "Tout le monde sait que c'est faux", "Je m'en fiche"],
+                  "correct": 0,
+                  "explanation": "'Attention' est une mise en garde claire sans agressivité."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement 'devoir' pour conseiller ?",
+                  "options": ["Tu devrais vérifier tes sources", "Tu dois partir maintenant", "Tu devras finir demain", "Toutes ces réponses"],
+                  "correct": 3,
+                  "explanation": "Toutes ces formulations sont correctes selon le contexte."
+              },
+              {
+                  "question": "Comment dire 'il faut que' + subjonctif correctement ?",
+                  "options": ["Il faut que tu vérifies les données", "Il faut que tu vérifie les données", "Il faut que tu vérifier les données", "Il faut que tu vérifions les données"],
+                  "correct": 0,
+                  "explanation": "'Il faut que' + subjonctif présent (verbes en -er : -es)."
+              },
+              {
+                  "question": "Quelle phrase exprime une nécessité avec le subjonctif ?",
+                  "options": ["Il est important que tu sois à l'heure", "Tu es à l'heure", "Sois à l'heure", "Tu dois être à l'heure"],
+                  "correct": 0,
+                  "explanation": "La structure 'il est important que' requiert le subjonctif."
+              }
+          ]
+      },
+      {
+          "name": "Le subjonctif pour exprimer la nécessité",
+          "questions": [
+              {
+                  "question": "Conjuguez 'être' au subjonctif présent : 'Il faut que je ___'",
+                  "options": ["suis", "sois", "serai", "étais"],
+                  "correct": 1,
+                  "explanation": "Le subjonctif présent de 'être' est 'que je sois'."
+              },
+              {
+                  "question": "Quelle phrase utilise correctement le subjonctif ?",
+                  "options": ["Il faut qu'il parte tôt", "Il faut qu'il part tôt", "Il faut qu'il pars tôt", "Il faut qu'il parti tôt"],
+                  "correct": 0,
+                  "explanation": "'Partir' au subjonctif présent : 'qu'il parte'."
+              },
+              {
+                  "question": "Complétez : 'Je veux que vous ___ à temps.' (finir)",
+                  "options": ["finissez", "finissiez", "finir", "finiriez"],
+                  "correct": 1,
+                  "explanation": "Subjonctif présent des verbes en -ir : '-issiez'."
+              },
+              {
+                  "question": "Quel verbe est irrégulier au subjonctif ?",
+                  "options": ["aller", "parler", "finir", "prendre"],
+                  "correct": 0,
+                  "explanation": "'Aller' a un subjonctif irrégulier : 'que j'aille, que tu ailles...'."
+              },
+              {
+                  "question": "Complétez : 'Il est nécessaire que nous ___ bien.' (s'entendre)",
+                  "options": ["nous entendons", "nous entendions", "nous entendrons", "nous avons entendu"],
+                  "correct": 1,
+                  "explanation": "Subjonctif présent des verbes pronominaux : 'que nous nous entendions'."
+              }
+          ]
+      }
+  ]
+}

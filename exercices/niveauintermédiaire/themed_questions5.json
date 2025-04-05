@@ -1,0 +1,319 @@
+{
+    "categories": [
+      {
+        "name": "S'opposer et s'engager",
+        "questions": [
+          {
+            "question": "Comment exprimer son opposition à une idée ?",
+            "options": ["Je ne suis pas d'accord avec cette idée", "Je m'oppose à cette proposition", "Je conteste ce point de vue", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois formulations expriment l'opposition."
+          },
+          {
+            "question": "Quelle expression marque un engagement fort ?",
+            "options": ["Je m'engage à défendre cette cause", "Je soutiens cette initiative", "Je suis déterminé(e) à agir", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions marquent un engagement personnel."
+          },
+          {
+            "question": "Comment manifester son désaccord poliment ?",
+            "options": ["Je comprends votre point de vue, mais je ne le partage pas", "Permettez-moi d'exprimer un avis différent", "Je respecte votre opinion, toutefois je pense que...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces formulations permettent d'exprimer un désaccord tout en restant courtois."
+          },
+          {
+            "question": "Quelle phrase exprime l'engagement collectif ?",
+            "options": ["Nous devons nous mobiliser pour cette cause", "Agissons ensemble", "Unissons nos forces pour changer les choses", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois phrases appellent à l'action collective."
+          },
+          {
+            "question": "Comment dit-on 'I'm standing against this decision' ?",
+            "options": ["Je me tiens contre cette décision", "Je m'oppose à cette décision", "Je prends position contre cette décision", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois traductions sont correctes pour exprimer l'opposition à une décision."
+          }
+        ]
+      },
+      {
+        "name": "Demander des précisions par mail",
+        "questions": [
+          {
+            "question": "Quelle formule est appropriée pour demander des précisions dans un mail professionnel ?",
+            "options": ["Pourriez-vous me donner plus de détails concernant... ?", "J'aimerais avoir des précisions sur...", "Je vous serais reconnaissant(e) de bien vouloir clarifier...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois formulations sont polies et adaptées à un contexte professionnel."
+          },
+          {
+            "question": "Comment introduire une demande d'information complémentaire ?",
+            "options": ["Suite à votre mail,", "Après lecture de votre message,", "En complément de notre échange,", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois introductions sont appropriées."
+          },
+          {
+            "question": "Quelle expression utiliser pour spécifier un point à clarifier ?",
+            "options": ["Je n'ai pas bien compris ce que vous entendez par...", "Pourriez-vous préciser ce que signifie...", "Je souhaiterais des éclaircissements sur...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois formulations permettent de demander des clarifications."
+          },
+          {
+            "question": "Comment conclure un mail demandant des précisions ?",
+            "options": ["Dans l'attente de votre réponse,", "Je vous remercie par avance pour ces précisions.", "Je reste à votre disposition pour tout complément d'information.", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois conclusions sont appropriées."
+          },
+          {
+            "question": "Quelle formulation est correcte pour demander un délai ?",
+            "options": ["Quand pensez-vous pouvoir me répondre ?", "Pourriez-vous me préciser le délai de réalisation ?", "J'aimerais savoir dans quel délai ce projet sera finalisé.", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois questions sont correctes pour demander un délai."
+          }
+        ]
+      },
+      {
+        "name": "Encourager la solidarité",
+        "questions": [
+          {
+            "question": "Comment exprimer l'idée de solidarité ?",
+            "options": ["Nous sommes tous concernés", "Agissons ensemble pour aider", "La solidarité est essentielle", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois phrases expriment l'idée de solidarité."
+          },
+          {
+            "question": "Quelle phrase encourage à l'entraide ?",
+            "options": ["Tendons la main à ceux qui en ont besoin", "Chacun peut apporter sa contribution", "Ensemble, nous pouvons faire la différence", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois phrases encouragent à l'entraide."
+          },
+          {
+            "question": "Comment appeler à la mobilisation collective ?",
+            "options": ["Mobilisons-nous pour cette cause", "Joignez-vous à notre action", "Participez à notre campagne de solidarité", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois phrases appellent à la mobilisation."
+          },
+          {
+            "question": "Quelle expression souligne l'importance de l'unité ?",
+            "options": ["L'union fait la force", "Tous pour un, un pour tous", "Seul on va plus vite, ensemble on va plus loin", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions soulignent l'importance de l'unité."
+          },
+          {
+            "question": "Comment dit-on 'Let's help each other' ?",
+            "options": ["Aidons-nous les uns les autres", "Entraidons-nous", "Soyons solidaires", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions correspondent à l'idée d'entraide mutuelle."
+          }
+        ]
+      },
+      {
+        "name": "Exprimer son soutien",
+        "questions": [
+          {
+            "question": "Comment exprimer son soutien à quelqu'un ?",
+            "options": ["Je suis de tout cœur avec vous", "Vous pouvez compter sur mon soutien", "Je vous soutiens dans cette épreuve", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions manifestent le soutien."
+          },
+          {
+            "question": "Quelle phrase exprime la solidarité face à une difficulté ?",
+            "options": ["Nous sommes à vos côtés", "Vous n'êtes pas seul(e) dans cette situation", "Nous vous soutenons", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois phrases expriment la solidarité."
+          },
+          {
+            "question": "Comment offrir son aide concrètement ?",
+            "options": ["Comment puis-je vous aider ?", "N'hésitez pas à me dire ce dont vous avez besoin", "Je suis disponible si vous avez besoin d'aide", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois questions offrent de l'aide de façon concrète."
+          },
+          {
+            "question": "Quelle expression montre qu'on pense à quelqu'un ?",
+            "options": ["Je pense à vous", "Mes pensées vous accompagnent", "Je suis avec vous par la pensée", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions montrent qu'on pense à la personne."
+          },
+          {
+            "question": "Comment dit-on 'I fully support your decision' ?",
+            "options": ["Je soutiens pleinement votre décision", "J'approuve entièrement votre choix", "Je suis totalement d'accord avec votre décision", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois traductions expriment un soutien total à une décision."
+          }
+        ]
+      },
+      {
+        "name": "Exprimer ses objectifs et ses intentions",
+        "questions": [
+          {
+            "question": "Comment exprimer un objectif ?",
+            "options": ["Mon but est de...", "Je vise à...", "Mon objectif est de...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois formulations introduisent un objectif."
+          },
+          {
+            "question": "Quelle structure exprime l'intention ?",
+            "options": ["J'ai l'intention de + infinitif", "Je compte + infinitif", "Je prévois de + infinitif", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois structures expriment l'intention."
+          },
+          {
+            "question": "Comment parler d'un projet futur ?",
+            "options": ["Je projette de...", "J'envisage de...", "Je songe à...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois verbes introduisent un projet futur."
+          },
+          {
+            "question": "Quelle expression marque la détermination ?",
+            "options": ["Je suis déterminé(e) à réussir", "Je ferai tout pour atteindre cet objectif", "Rien ne m'arrêtera", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions marquent la détermination."
+          },
+          {
+            "question": "Comment dit-on 'My goal is to improve my French' ?",
+            "options": ["Mon but est d'améliorer mon français", "Mon objectif est de perfectionner mon français", "Je vise à progresser en français", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois traductions expriment l'objectif d'améliorer son français."
+          }
+        ]
+      },
+      {
+        "name": "Exprimer la durée",
+        "questions": [
+          {
+            "question": "Comment exprimer une durée continue jusqu'au présent ?",
+            "options": ["Depuis", "Pendant", "Durant", "Pour"],
+            "correct": 0,
+            "explanation": "'Depuis' exprime une durée qui continue jusqu'au moment présent."
+          },
+          {
+            "question": "Quelle préposition indique une durée limitée dans le passé ?",
+            "options": ["Depuis", "Pendant", "Pour", "En"],
+            "correct": 1,
+            "explanation": "'Pendant' indique une durée limitée."
+          },
+          {
+            "question": "Comment dit-on 'for 3 hours' ?",
+            "options": ["Pour 3 heures", "En 3 heures", "Pendant 3 heures", "De 3 heures"],
+            "correct": 2,
+            "explanation": "On utilise 'pendant' pour exprimer une durée."
+          },
+          {
+            "question": "Quelle phrase exprime correctement une durée avec 'depuis' ?",
+            "options": ["J'habite à Paris depuis 2010", "J'habite à Paris depuis 5 ans", "J'habite à Paris depuis longtemps", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois phrases utilisent correctement 'depuis'."
+          },
+          {
+            "question": "Comment exprimer une durée future ?",
+            "options": ["Pour", "En", "Dans", "Pendant"],
+            "correct": 0,
+            "explanation": "'Pour' indique une durée future (ex: Je pars pour deux semaines)."
+          }
+        ]
+      },
+      {
+        "name": "Le participe présent et le gérondif",
+        "questions": [
+          {
+            "question": "Comment forme-t-on le participe présent ?",
+            "options": ["Radical du verbe + -ant", "Nous (présent) + -ant", "Infinitif + -ant", "Je (présent) + -ant"],
+            "correct": 1,
+            "explanation": "On prend la forme 'nous' du présent et on remplace -ons par -ant."
+          },
+          {
+            "question": "Quelle est la structure du gérondif ?",
+            "options": ["en + infinitif", "en + participe présent", "en + participe passé", "en + imparfait"],
+            "correct": 1,
+            "explanation": "Le gérondif se forme avec 'en' + participe présent."
+          },
+          {
+            "question": "Quelle phrase utilise correctement le participe présent ?",
+            "options": ["Les personnes ayant un ticket peuvent entrer", "Les personnes en ayant un ticket peuvent entrer", "Les personnes ont un ticket peuvent entrer", "Les personnes ayantes un ticket peuvent entrer"],
+            "correct": 0,
+            "explanation": "Le participe présent est utilisé sans préposition."
+          },
+          {
+            "question": "Quelle fonction peut avoir le gérondif ?",
+            "options": ["Exprimer la simultanéité", "Exprimer la manière", "Exprimer la cause", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Le gérondif peut exprimer ces trois relations."
+          },
+          {
+            "question": "Quelle phrase utilise correctement le gérondif ?",
+            "options": ["Il parle en souriant", "Il parle souriant", "Il parle avec souriant", "Il parle par souriant"],
+            "correct": 0,
+            "explanation": "Construction correcte du gérondif avec 'en'."
+          }
+        ]
+      },
+      {
+        "name": "Les différents moyens pour exprimer le but",
+        "questions": [
+          {
+            "question": "Quelle conjonction exprime le but ?",
+            "options": ["Parce que", "Puisque", "Afin que", "Comme"],
+            "correct": 2,
+            "explanation": "'Afin que' introduit un but."
+          },
+          {
+            "question": "Quelle expression suivie de l'infinitif exprime le but ?",
+            "options": ["Pour", "Afin de", "Dans le but de", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions suivies de l'infinitif expriment le but."
+          },
+          {
+            "question": "Quel mode suit 'pour que' ?",
+            "options": ["Indicatif", "Subjonctif", "Conditionnel", "Infinitif"],
+            "correct": 1,
+            "explanation": "'Pour que' est suivi du subjonctif."
+          },
+          {
+            "question": "Quelle phrase exprime correctement un but ?",
+            "options": ["Je travaille pour réussir", "J'étudie afin d'améliorer mes connaissances", "Elle s'entraîne dans le but de gagner la compétition", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois phrases expriment correctement un but."
+          },
+          {
+            "question": "Comment dit-on 'in order to succeed' ?",
+            "options": ["Pour réussir", "Afin de réussir", "Dans le but de réussir", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions peuvent traduire 'in order to succeed'."
+          }
+        ]
+      },
+      {
+        "name": "Les expressions de temps pour indiquer la durée",
+        "questions": [
+          {
+            "question": "Quelle expression indique le début d'une période ?",
+            "options": ["Depuis", "À partir de", "Dès", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions marquent le début d'une période."
+          },
+          {
+            "question": "Comment exprimer la fin d'une période ?",
+            "options": ["Jusqu'à", "Jusqu'en", "Jusqu'au", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions marquent la fin d'une période."
+          },
+          {
+            "question": "Quelle préposition utilise-t-on avec les années ?",
+            "options": ["En 2010", "À 2010", "Sur 2010", "Dans 2010"],
+            "correct": 0,
+            "explanation": "On utilise 'en' avec les années."
+          },
+          {
+            "question": "Comment exprimer une durée approximative ?",
+            "options": ["Environ", "Autour de", "À peu près", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions indiquent une durée approximative."
+          },
+          {
+            "question": "Quelle phrase exprime correctement une période complète ?",
+            "options": ["De janvier à mars", "Du lundi au vendredi", "Depuis le début jusqu'à la fin", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions indiquent une période complète avec début et fin."
+          }
+        ]
+      }
+    ]
+  }

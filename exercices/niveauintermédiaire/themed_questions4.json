@@ -1,0 +1,354 @@
+{
+    "categories": [
+      {
+        "name": "Parler des façons de s'informer",
+        "questions": [
+          {
+            "question": "Comment dit-on 'I read the news every morning' ?",
+            "options": ["Je lis les informations tous les matins", "Je regarde les nouvelles chaque matin", "Je m'informe tous les matins", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois formulations sont correctes en français."
+          },
+          {
+            "question": "Quel verbe complète : 'Je _____ l'actualité à la radio' ?",
+            "options": ["regarde", "écoute", "vois", "apprends"],
+            "correct": 1,
+            "explanation": "On 'écoute' la radio (modalité auditive)."
+          },
+          {
+            "question": "Comment parle-t-on des réseaux sociaux comme source d'information ?",
+            "options": ["Je m'informe sur les réseaux sociaux", "Je trouve des informations via les réseaux sociaux", "Je suis l'actualité sur les réseaux sociaux", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions sont correctes."
+          },
+          {
+            "question": "Quelle est la formulation correcte ?",
+            "options": ["Je consulte mes sites d'information préférés", "Je consulte à mes sites d'information préférés", "Je consulte sur mes sites d'information préférés", "Je me consulte mes sites d'information préférés"],
+            "correct": 0,
+            "explanation": "Le verbe 'consulter' est transitif direct (sans préposition)."
+          },
+          {
+            "question": "Comment dit-on 'to keep up with current events' ?",
+            "options": ["Se tenir au courant de l'actualité", "Être informé par l'actualité", "Suivre avec l'actualité", "Garder l'actualité"],
+            "correct": 0,
+            "explanation": "Expression idiomatique correcte."
+          }
+        ]
+      },
+      {
+        "name": "Donner des informations par courrier",
+        "questions": [
+          {
+            "question": "Comment commence-t-on une lettre formelle ?",
+            "options": ["Cher Monsieur,", "Madame, Monsieur,", "Salut,", "Bonjour,"],
+            "correct": 1,
+            "explanation": "Formule d'ouverture standard pour un courrier formel."
+          },
+          {
+            "question": "Quelle formule de politesse termine une lettre formelle ?",
+            "options": ["Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.", "Cordialement,", "À bientôt,", "Bien à vous,"],
+            "correct": 0,
+            "explanation": "Formule de politesse standard pour une lettre formelle."
+          },
+          {
+            "question": "Comment introduire l'objet d'un email ?",
+            "options": ["Objet :", "Sujet :", "Re :", "Concerne :"],
+            "correct": 0,
+            "explanation": "'Objet :' est le terme standard en français."
+          },
+          {
+            "question": "Quelle phrase est correcte pour demander une information ?",
+            "options": ["Je vous serais reconnaissant de bien vouloir m'indiquer...", "Je vous demande de m'indiquer...", "Pourriez-vous m'indiquer...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois formulations sont correctes selon le niveau de formalité."
+          },
+          {
+            "question": "Comment conclure un email professionnel ?",
+            "options": ["Dans l'attente de votre réponse,", "En attendant de vous lire,", "Je reste à votre disposition pour tout renseignement complémentaire.", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois formules de conclusion sont appropriées."
+          }
+        ]
+      },
+      {
+        "name": "Comprendre des titres d'actualité",
+        "questions": [
+          {
+            "question": "Quelle caractéristique est typique des titres de presse ?",
+            "options": ["Absence d'articles", "Phrases complètes", "Utilisation du passé composé", "Longues descriptions"],
+            "correct": 0,
+            "explanation": "Les titres omettent souvent les articles pour être concis."
+          },
+          {
+            "question": "Quel temps verbal est fréquent dans les titres ?",
+            "options": ["Présent de l'indicatif", "Passé composé", "Futur simple", "Conditionnel"],
+            "correct": 0,
+            "explanation": "Le présent est souvent utilisé pour décrire des événements récents."
+          },
+          {
+            "question": "Comment interpréter ce titre : 'Tension entre deux pays' ?",
+            "options": ["Il y a une tension entre deux pays", "Il y avait une tension entre deux pays", "Il y aura une tension entre deux pays", "Il pourrait y avoir une tension entre deux pays"],
+            "correct": 0,
+            "explanation": "Les phrases nominales dans les titres décrivent généralement le présent."
+          },
+          {
+            "question": "Que signifie l'abréviation 'PM' dans un titre ?",
+            "options": ["Première ministre", "Premier ministre", "Police municipale", "Parlement"],
+            "correct": 1,
+            "explanation": "Abréviation standard pour 'Premier ministre'."
+          },
+          {
+            "question": "Quel type de phrase est souvent utilisé dans les titres ?",
+            "options": ["Phrase nominale", "Phrase interrogative", "Phrase exclamative", "Phrase négative"],
+            "correct": 0,
+            "explanation": "Les phrases nominales (sans verbe conjugué) sont fréquentes."
+          }
+        ]
+      },
+      {
+        "name": "Donner son point de vue sur la une de quotidiens et savoir analyser des informations",
+        "questions": [
+          {
+            "question": "Comment introduire son opinion sur un article ?",
+            "options": ["À mon avis,", "Je pense que", "Selon moi,", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions introduisent une opinion personnelle."
+          },
+          {
+            "question": "Quelle expression analyse la crédibilité d'une information ?",
+            "options": ["Cette information semble fiable car...", "Je doute de la véracité de cette information parce que...", "Il faudrait vérifier cette information auprès d'autres sources.", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois formulations permettent d'évaluer la crédibilité."
+          },
+          {
+            "question": "Comment exprimer un désaccord avec le traitement d'une information ?",
+            "options": ["Je ne suis pas d'accord avec la façon dont ce sujet est traité", "Le journal présente ce sujet de manière biaisée", "Cette information est présentée de façon partiale", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions permettent de critiquer le traitement de l'information."
+          },
+          {
+            "question": "Quelle phrase commente la mise en page d'une une ?",
+            "options": ["Le titre principal attire l'attention sur...", "La photo en première page souligne...", "La disposition des articles suggère que...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois phrases commentent différents aspects de la mise en page."
+          },
+          {
+            "question": "Comment comparer deux traitements d'une même information ?",
+            "options": ["Contrairement au journal X, le journal Y...", "Alors que le journal X insiste sur..., le journal Y met l'accent sur...", "Le journal X et le journal Y diffèrent dans leur analyse de...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois formulations permettent de comparer des traitements journalistiques."
+          }
+        ]
+      },
+      {
+        "name": "Relater un événement dans un article narratif et comprendre un article informatif",
+        "questions": [
+          {
+            "question": "Quel temps verbal est principalement utilisé dans un article narratif ?",
+            "options": ["Présent", "Passé composé", "Imparfait", "Alternance passé composé/imparfait"],
+            "correct": 3,
+            "explanation": "Un récit alterne généralement entre ces deux temps du passé."
+          },
+          {
+            "question": "Comment structurer un article informatif ?",
+            "options": ["Introduction - développement - conclusion", "Qui ? Quoi ? Où ? Quand ? Comment ? Pourquoi ?", "Du plus important au moins important", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois approches sont utilisées dans les articles informatifs."
+          },
+          {
+            "question": "Quelle phrase introduit un témoignage dans un article ?",
+            "options": ["Selon un témoin,", "D'après une personne présente sur les lieux,", "Un témoin raconte :", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois formulations introduisent un témoignage."
+          },
+          {
+            "question": "Comment conclure un article narratif ?",
+            "options": ["En évoquant les conséquences", "En posant une question", "En ouvrant sur une perspective", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois techniques sont utilisées pour conclure un article narratif."
+          },
+          {
+            "question": "Quelle expression est typique d'un article informatif ?",
+            "options": ["Les experts s'accordent à dire que...", "Les statistiques montrent que...", "Selon les sources officielles,...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces expressions font référence à des sources d'information."
+          }
+        ]
+      },
+      {
+        "name": "Évoquer un événement non confirmé",
+        "questions": [
+          {
+            "question": "Quel mode utilise-t-on pour exprimer l'incertitude ?",
+            "options": ["Indicatif", "Subjonctif", "Conditionnel", "Impératif"],
+            "correct": 2,
+            "explanation": "Le conditionnel exprime l'incertitude, l'hypothèse."
+          },
+          {
+            "question": "Comment introduire une information non vérifiée ?",
+            "options": ["Selon des informations non confirmées,", "D'après certaines sources,", "Il semblerait que", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions marquent l'incertitude."
+          },
+          {
+            "question": "Quelle phrase évoque correctement un événement potentiel ?",
+            "options": ["Le ministre aurait démissionné", "Le ministre a peut-être démissionné", "On dit que le ministre a démissionné", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois formulations expriment l'incertitude."
+          },
+          {
+            "question": "Comment exprimer une rumeur ?",
+            "options": ["La rumeur court que...", "On rapporte que...", "Le bruit circule que...", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions introduisent une rumeur."
+          },
+          {
+            "question": "Quelle expression indique un doute sur une information ?",
+            "options": ["Cette information reste à confirmer", "Nous n'avons pas pu vérifier cette information", "Cette nouvelle doit être prise avec précaution", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois expressions expriment un doute sur la fiabilité."
+          }
+        ]
+      },
+      {
+        "name": "La phrase nominale",
+        "questions": [
+          {
+            "question": "Qu'est-ce qu'une phrase nominale ?",
+            "options": ["Une phrase sans verbe", "Une phrase avec un nom propre", "Une phrase avec un pronom", "Une phrase sans sujet"],
+            "correct": 0,
+            "explanation": "Une phrase nominale est construite autour d'un nom, sans verbe conjugué."
+          },
+          {
+            "question": "Dans quel contexte utilise-t-on souvent les phrases nominales ?",
+            "options": ["Titres de presse", "Publicités", "Panneaux d'indication", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Les phrases nominales sont fréquentes dans ces trois contextes."
+          },
+          {
+            "question": "Quel exemple est une phrase nominale ?",
+            "options": ["Accident mortel sur l'autoroute", "Un grave accident s'est produit", "La circulation est perturbée", "Les secours arrivent rapidement"],
+            "correct": 0,
+            "explanation": "Cette phrase n'a pas de verbe conjugué."
+          },
+          {
+            "question": "Quelle est la fonction principale d'une phrase nominale dans un titre ?",
+            "options": ["Économie de mots", "Impact plus fort", "Information essentielle résumée", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Les phrases nominales servent ces trois objectifs dans les titres."
+          },
+          {
+            "question": "Comment transformer 'Le président a annoncé sa démission' en phrase nominale ?",
+            "options": ["Démission du président", "Le président démissionne", "Annonce présidentielle de démission", "Président démissionnaire"],
+            "correct": 0,
+            "explanation": "Cette transformation enlève le verbe tout en gardant l'information essentielle."
+          }
+        ]
+      },
+      {
+        "name": "La forme passive",
+        "questions": [
+          {
+            "question": "Comment forme-t-on la voix passive ?",
+            "options": ["Sujet + être + participe passé + (par + agent)", "Sujet + avoir + participe passé", "On + verbe actif", "Se faire + infinitif"],
+            "correct": 0,
+            "explanation": "Structure de base de la voix passive."
+          },
+          {
+            "question": "Transformez à la voix passive : 'Le journaliste a écrit cet article'",
+            "options": ["Cet article a été écrit par le journaliste", "Cet article est écrit par le journaliste", "Cet article avait été écrit par le journaliste", "On a écrit cet article"],
+            "correct": 0,
+            "explanation": "Transformation correcte au passé composé."
+          },
+          {
+            "question": "Quand utilise-t-on la voix passive dans un article ?",
+            "options": ["Pour mettre l'accent sur l'action plutôt que sur l'agent", "Quand l'agent est inconnu ou non important", "Pour donner un ton plus objectif", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "La voix passive sert ces trois objectifs."
+          },
+          {
+            "question": "Quelle phrase est à la voix passive ?",
+            "options": ["Les résultats seront annoncés demain", "On annoncera les résultats demain", "Les résultats vont arriver demain", "Il y aura une annonce des résultats demain"],
+            "correct": 0,
+            "explanation": "Structure être + participe passé = voix passive."
+          },
+          {
+            "question": "Quel auxiliaire utilise-t-on à la voix passive ?",
+            "options": ["Être", "Avoir", "Faire", "Aller"],
+            "correct": 0,
+            "explanation": "Seul l'auxiliaire 'être' est utilisé à la voix passive."
+          }
+        ]
+      },
+      {
+        "name": "Exprimer la cause et la conséquence",
+        "questions": [
+          {
+            "question": "Quelle conjonction exprime la cause ?",
+            "options": ["Donc", "Alors", "Parce que", "Puis"],
+            "correct": 2,
+            "explanation": "'Parce que' introduit une cause."
+          },
+          {
+            "question": "Quelle expression marque une conséquence ?",
+            "options": ["En raison de", "Grâce à", "Par conséquent", "À cause de"],
+            "correct": 2,
+            "explanation": "'Par conséquent' introduit une conséquence."
+          },
+          {
+            "question": "Comment exprimer une relation de cause à effet ?",
+            "options": ["X, donc Y", "X à cause de Y", "X car Y", "X suite à Y"],
+            "correct": 0,
+            "explanation": "Cause X → Conséquence Y avec 'donc'."
+          },
+          {
+            "question": "Quelle préposition exprime la cause ?",
+            "options": ["Pour", "À", "Par", "En raison de"],
+            "correct": 3,
+            "explanation": "'En raison de' introduit une cause."
+          },
+          {
+            "question": "Comment lier deux phrases pour exprimer une conséquence ?",
+            "options": ["Il a plu, donc la route est mouillée", "Il a plu car la route est mouillée", "Il a plu comme la route est mouillée", "Il a plu parce que la route est mouillée"],
+            "correct": 0,
+            "explanation": "Pluie (cause) → Route mouillée (conséquence)."
+          }
+        ]
+      },
+      {
+        "name": "Les différents moyens pour évoquer des événements incertains",
+        "questions": [
+          {
+            "question": "Quel temps verbal exprime le doute dans le journalisme ?",
+            "options": ["Présent", "Passé composé", "Futur simple", "Conditionnel"],
+            "correct": 3,
+            "explanation": "Le conditionnel journalistique exprime l'incertitude."
+          },
+          {
+            "question": "Quelle expression indique qu'une information n'est pas confirmée ?",
+            "options": ["Selon nos informations", "D'après une source sûre", "D'après des sources non vérifiées", "Selon l'AFP"],
+            "correct": 2,
+            "explanation": "Cette expression marque explicitement le doute."
+          },
+          {
+            "question": "Comment exprimer une hypothèse dans un article ?",
+            "options": ["Il se pourrait que + subjonctif", "Si + imparfait, conditionnel présent", "Peut-être que + indicatif", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois structures expriment l'hypothèse."
+          },
+          {
+            "question": "Quelle phrase utilise correctement le conditionnel journalistique ?",
+            "options": ["Le suspect aurait quitté le pays", "Le suspect a peut-être quitté le pays", "Le suspect quitterait le pays", "On dit que le suspect a quitté le pays"],
+            "correct": 0,
+            "explanation": "Forme correcte du conditionnel passé pour une information non confirmée."
+          },
+          {
+            "question": "Quelle structure est utilisée pour évoquer une information à vérifier ?",
+            "options": ["Selon certaines rumeurs,", "Si l'on en croit certaines sources,", "Des informations non confirmées suggèrent que", "Toutes ces réponses"],
+            "correct": 3,
+            "explanation": "Ces trois introductions marquent le caractère incertain de l'information."
+          }
+        ]
+      }
+    ]
+  }

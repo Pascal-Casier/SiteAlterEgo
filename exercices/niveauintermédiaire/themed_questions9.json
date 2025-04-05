@@ -1,0 +1,284 @@
+{
+    "categories": [
+        {
+            "name": "Parler de ses voyages",
+            "questions": [
+                {
+                    "question": "Comment dit-on 'J'ai voyagé en Espagne l'année dernière' à l'imparfait ?",
+                    "options": ["Je voyageais en Espagne l'année dernière", "Je voyagerai en Espagne l'année dernière", "J'ai voyagé en Espagne l'année dernière", "Je voyage en Espagne l'année dernière"],
+                    "correct": 0,
+                    "explanation": "L'imparfait décrit une action habituelle ou en cours dans le passé."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement le passé composé pour un voyage ?",
+                    "options": ["Nous avons visité trois pays", "Nous visitions trois pays", "Nous visiterons trois pays", "Nous visitons trois pays"],
+                    "correct": 0,
+                    "explanation": "Le passé composé exprime une action ponctuelle achevée."
+                },
+                {
+                    "question": "Comment décrire un souvenir de vacances ?",
+                    "options": ["La plage était magnifique", "La plage est magnifique", "La plage sera magnifique", "La plage étant magnifique"],
+                    "correct": 0,
+                    "explanation": "L'imparfait est utilisé pour les descriptions dans le passé."
+                },
+                {
+                    "question": "Quelle expression signifie 'faire ses valises' ?",
+                    "options": ["Préparer ses bagages", "Acheter des bagages", "Ranger sa chambre", "Nettoyer ses affaires"],
+                    "correct": 0,
+                    "explanation": "Expression idiomatique pour se préparer à partir."
+                },
+                {
+                    "question": "Comment pose-t-on une question sur un voyage passé ?",
+                    "options": ["Es-tu allé à Paris ?", "Iras-tu à Paris ?", "Vas-tu à Paris ?", "Allais-tu à Paris ?"],
+                    "correct": 0,
+                    "explanation": "Le passé composé interroge sur une action spécifique."
+                }
+            ]
+        },
+        {
+            "name": "Résoudre un problème au téléphone",
+            "questions": [
+                {
+                    "question": "Que dit-on en premier lorsqu'on appelle un service client ?",
+                    "options": ["Bonjour, j'ai un problème avec...", "Donnez-moi une solution", "Problème maintenant", "Réparer vite"],
+                    "correct": 0,
+                    "explanation": "Formule polie pour commencer l'appel."
+                },
+                {
+                    "question": "Comment décrire un problème technique ?",
+                    "options": ["Mon ordinateur ne s'allume plus", "Ordinateur cassé", "Ça marche pas", "Panne"],
+                    "correct": 0,
+                    "explanation": "Description claire et complète du problème."
+                },
+                {
+                    "question": "Que demande-t-on pour obtenir de l'aide ?",
+                    "options": ["Pouvez-vous m'aider ?", "Aidez-moi", "Dépêchez-vous", "Je veux une solution"],
+                    "correct": 0,
+                    "explanation": "Formulation polie avec vouvoiement."
+                },
+                {
+                    "question": "Comment vérifier qu'on a compris la solution ?",
+                    "options": ["Si je comprends bien, je dois...", "C'est tout ?", "C'est compliqué", "Recommencez"],
+                    "correct": 0,
+                    "explanation": "Reformulation pour confirmation."
+                },
+                {
+                    "question": "Que dit-on pour conclure l'appel ?",
+                    "options": ["Merci pour votre aide, au revoir", "C'est fini", "Bye", "À plus"],
+                    "correct": 0,
+                    "explanation": "Formule de politesse standard."
+                }
+            ]
+        },
+        {
+            "name": "Faire des recommandations et des mises en garde",
+            "questions": [
+                {
+                    "question": "Comment recommander un restaurant ?",
+                    "options": ["Je vous conseille ce restaurant", "Mangez là", "Restaurant bon", "Allez-y"],
+                    "correct": 0,
+                    "explanation": "Formulation polie et complète."
+                },
+                {
+                    "question": "Quelle phrase met en garde contre un danger ?",
+                    "options": ["Attention, la route est glissante", "Route glissante", "Danger", "Tomberez"],
+                    "correct": 0,
+                    "explanation": "Formule d'avertissement standard."
+                },
+                {
+                    "question": "Comment suggérer une alternative ?",
+                    "options": ["Vous pourriez essayer plutôt...", "Faites autre chose", "Changez", "Pas bon"],
+                    "correct": 0,
+                    "explanation": "Conditionnel pour une suggestion polie."
+                },
+                {
+                    "question": "Que dire pour déconseiller quelque chose ?",
+                    "options": ["Je vous déconseille de...", "Ne fais pas ça", "Mauvais choix", "N'y allez pas"],
+                    "correct": 0,
+                    "explanation": "Formulation professionnelle."
+                },
+                {
+                    "question": "Comment exprimer un conseil urgent ?",
+                    "options": ["Il faut absolument que...", "Dépêche-toi", "Vite", "Important"],
+                    "correct": 0,
+                    "explanation": "Structure grammaticale correcte."
+                }
+            ]
+        },
+        {
+            "name": "Faire une narration au passé",
+            "questions": [
+                {
+                    "question": "Quel temps utilise-t-on pour une action soudaine dans un récit ?",
+                    "options": ["Passé simple", "Imparfait", "Présent", "Futur"],
+                    "correct": 0,
+                    "explanation": "Le passé simple pour les actions ponctuelles."
+                },
+                {
+                    "question": "Comment commencer un conte ?",
+                    "options": ["Il était une fois...", "C'est l'histoire de...", "Un jour...", "Dans le temps..."],
+                    "correct": 0,
+                    "explanation": "Formule traditionnelle."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement l'imparfait ?",
+                    "options": ["Le soleil brillait fort ce jour-là", "Le soleil brilla fort ce jour-là", "Le soleil brille fort ce jour-là", "Le soleil brillera fort ce jour-là"],
+                    "correct": 0,
+                    "explanation": "L'imparfait pour la description."
+                },
+                {
+                    "question": "Comment enchaîner deux actions passées ?",
+                    "options": ["Il mangea puis sortit", "Il mange puis sort", "Il a mangé puis est sorti", "Il mangeait puis sortait"],
+                    "correct": 0,
+                    "explanation": "Passé simple pour la narration écrite."
+                },
+                {
+                    "question": "Que signifie 'Tout à coup' dans un récit ?",
+                    "options": ["Soudainement", "Lentement", "Auparavant", "Finalement"],
+                    "correct": 0,
+                    "explanation": "Marqueur de rupture temporelle."
+                }
+            ]
+        },
+        {
+            "name": "Les indéfinis",
+            "questions": [
+                {
+                    "question": "Quel mot est un adjectif indéfini ?",
+                    "options": ["Certains", "Le", "Mon", "Ce"],
+                    "correct": 0,
+                    "explanation": "'Certains' désigne une quantité indéterminée."
+                },
+                {
+                    "question": "Comment dire 'plusieurs personnes' au féminin ?",
+                    "options": ["Plusieurs femmes", "Plusieurs femme", "Plusieures femmes", "Plusieure femme"],
+                    "correct": 0,
+                    "explanation": "'Plusieurs' est invariable."
+                },
+                {
+                    "question": "Quelle phrase utilise 'aucun' correctement ?",
+                    "options": ["Je n'ai aucun problème", "J'ai aucun problème", "Je n'ai pas aucun problème", "Je n'ai de problème aucun"],
+                    "correct": 0,
+                    "explanation": "Avec 'ne' et sans 'pas'."
+                },
+                {
+                    "question": "Que signifie 'Chaque jour' ?",
+                    "options": ["Tous les jours sans exception", "Certains jours", "Plusieurs jours", "Aucun jour"],
+                    "correct": 0,
+                    "explanation": "Désigne la totalité des unités."
+                },
+                {
+                    "question": "Comment employer 'différents' ?",
+                    "options": ["J'ai lu différents livres", "J'ai lu différent livres", "J'ai lu différente livres", "J'ai lu différentes livres"],
+                    "correct": 0,
+                    "explanation": "Accord en genre et nombre."
+                }
+            ]
+        },
+        {
+            "name": "Les différentes phrases négatives",
+            "questions": [
+                {
+                    "question": "Quelle est la négation de 'Je vois quelqu'un' ?",
+                    "options": ["Je ne vois personne", "Je vois personne", "Je ne vois pas quelqu'un", "Je ne vois aucun"],
+                    "correct": 0,
+                    "explanation": "'Personne' est le négatif de 'quelqu'un'."
+                },
+                {
+                    "question": "Comment dire 'Il n'y a plus de pain' ?",
+                    "options": ["Il ne reste plus de pain", "Il reste pas de pain", "Il ne reste aucun pain", "Il reste nul pain"],
+                    "correct": 0,
+                    "explanation": "Négation avec 'ne...plus'."
+                },
+                {
+                    "question": "Quelle phrase utilise 'rien' correctement ?",
+                    "options": ["Je n'entends rien", "J'entends rien", "Je n'entends pas rien", "Je ne entends rien"],
+                    "correct": 0,
+                    "explanation": "'Rien' se place après le verbe."
+                },
+                {
+                    "question": "Comment former une négation avec 'jamais' ?",
+                    "options": ["Je ne vais jamais au cinéma", "Je vais jamais au cinéma", "Je ne vais pas jamais au cinéma", "Je jamais vais au cinéma"],
+                    "correct": 0,
+                    "explanation": "'Jamais' entre 'ne' et le verbe."
+                },
+                {
+                    "question": "Que signifie 'ne...que' ?",
+                    "options": ["Exprimer une restriction", "Nier complètement", "Poser une question", "Affirmer fortement"],
+                    "correct": 0,
+                    "explanation": "Equivalent de 'seulement'."
+                }
+            ]
+        },
+        {
+            "name": "Les temps de la narration",
+            "questions": [
+                {
+                    "question": "Quel temps décrit le cadre d'une histoire ?",
+                    "options": ["Imparfait", "Passé simple", "Passé composé", "Futur"],
+                    "correct": 0,
+                    "explanation": "L'imparfait pour le contexte."
+                },
+                {
+                    "question": "Comment conjuguer 'prendre' au passé simple ?",
+                    "options": ["Il prit", "Il prenait", "Il a pris", "Il prend"],
+                    "correct": 0,
+                    "explanation": "Forme irrégulière du passé simple."
+                },
+                {
+                    "question": "Quelle phrase est au plus-que-parfait ?",
+                    "options": ["J'avais déjà mangé", "J'ai déjà mangé", "Je mangeais déjà", "Je mange déjà"],
+                    "correct": 0,
+                    "explanation": "Antériorité dans le passé."
+                },
+                {
+                    "question": "Quand utilise-t-on le passé antérieur ?",
+                    "options": ["Pour une action antérieure au passé simple", "Pour une action future", "Pour une action habituelle", "Pour une action en cours"],
+                    "correct": 0,
+                    "explanation": "Antériorité dans la narration littéraire."
+                },
+                {
+                    "question": "Comment reconnaître le passé simple ?",
+                    "options": ["Par ses terminaisons spécifiques", "Par l'auxiliaire avoir", "Par l'auxiliaire être", "Par l'absence de terminaison"],
+                    "correct": 0,
+                    "explanation": "Terminaisons en -a, -i, -u selon les groupes."
+                }
+            ]
+        },
+        {
+            "name": "Initiation au passé simple",
+            "questions": [
+                {
+                    "question": "Quelle est la terminaison du 1er groupe (je) ?",
+                    "options": ["-ai", "-as", "-a", "-âmes"],
+                    "correct": 0,
+                    "explanation": "Exemple : 'je parlai'."
+                },
+                {
+                    "question": "Comment conjuguer 'finir' (3e pers. singulier) ?",
+                    "options": ["Il finit", "Il finira", "Il finissait", "Il a fini"],
+                    "correct": 0,
+                    "explanation": "Terminaison -it pour le 2e groupe."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["Les enfants partirent tôt", "Les enfants partent tôt", "Les enfants sont partis tôt", "Les enfants partaient tôt"],
+                    "correct": 0,
+                    "explanation": "'Partirent' est la forme correcte."
+                },
+                {
+                    "question": "Quel verbe est conjugué dans 'Nous vînmes' ?",
+                    "options": ["Venir", "Voir", "Vivre", "Vouloir"],
+                    "correct": 0,
+                    "explanation": "Forme du passé simple."
+                },
+                {
+                    "question": "Quand utilise-t-on le passé simple ?",
+                    "options": ["Dans la narration écrite", "À l'oral courant", "Pour parler du futur", "Pour les descriptions"],
+                    "correct": 0,
+                    "explanation": "Temps littéraire pour les récits."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,354 @@
+{
+    "categories": [
+        {
+            "name": "Parler de sa consommation et de ses habitudes d'achat",
+            "questions": [
+                {
+                    "question": "Comment parler de ses habitudes d'achat alimentaires ?",
+                    "options": ["Je mange souvent...", "J'achète régulièrement...", "Je consomme généralement...", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces formulations permettent d'exprimer des habitudes de consommation."
+                },
+                {
+                    "question": "Quelle expression indique une préférence de consommation ?",
+                    "options": ["Je préfère acheter...", "J'achète toujours...", "J'ai tendance à choisir...", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces expressions traduisent une préférence dans les choix de consommation."
+                },
+                {
+                    "question": "Comment parler d'un achat occasionnel ?",
+                    "options": ["J'achète parfois...", "Il m'arrive d'acheter...", "De temps en temps, je prends...", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces expressions indiquent la fréquence occasionnelle d'un achat."
+                },
+                {
+                    "question": "Quelle phrase exprime une habitude d'achat responsable ?",
+                    "options": ["Je vérifie toujours l'origine des produits", "J'achète n'importe quoi", "Je prends le moins cher", "J'achète sans réfléchir"],
+                    "correct": 0,
+                    "explanation": "Cette phrase indique une attention particulière lors des achats."
+                },
+                {
+                    "question": "Comment exprimer sa fréquence d'achat ?",
+                    "options": ["Je fais les courses une fois par semaine", "Je vais au supermarché", "Je préfère les grandes surfaces", "J'aime faire du shopping"],
+                    "correct": 0,
+                    "explanation": "Cette formulation précise la régularité des achats."
+                }
+            ]
+        },
+        {
+            "name": "Caractériser",
+            "questions": [
+                {
+                    "question": "Comment caractériser la qualité d'un produit ?",
+                    "options": ["C'est un produit qui...", "Il s'agit d'un article...", "Ce produit est...", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces formulations permettent de décrire les caractéristiques d'un produit."
+                },
+                {
+                    "question": "Quelle expression permet de caractériser négativement ?",
+                    "options": ["Ce n'est pas terrible", "Ça laisse à désirer", "Ce n'est pas à la hauteur", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces expressions véhiculent une appréciation négative."
+                },
+                {
+                    "question": "Comment caractériser l'utilité d'un objet ?",
+                    "options": ["Ça sert à...", "C'est utile pour...", "On peut l'utiliser pour...", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces formulations décrivent la fonction ou l'utilité."
+                },
+                {
+                    "question": "Quelle phrase caractérise l'apparence d'un objet ?",
+                    "options": ["Il est fait de...", "Il ressemble à...", "Il fonctionne comme...", "Il date de..."],
+                    "correct": 1,
+                    "explanation": "'Ressembler à' décrit l'apparence ou l'aspect visuel."
+                },
+                {
+                    "question": "Comment caractériser un lieu ?",
+                    "options": ["C'est un endroit où...", "Il s'agit d'un lieu qui...", "Cet espace est...", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces formulations permettent de décrire les caractéristiques d'un lieu."
+                }
+            ]
+        },
+        {
+            "name": "Écrire un mail de réclamation",
+            "questions": [
+                {
+                    "question": "Quelle formule de politesse utilise-t-on pour commencer un mail de réclamation ?",
+                    "options": ["Bonjour", "Salut", "Madame, Monsieur", "Hey"],
+                    "correct": 2,
+                    "explanation": "'Madame, Monsieur' est la formule la plus formelle et appropriée."
+                },
+                {
+                    "question": "Comment introduire l'objet de sa réclamation ?",
+                    "options": ["Je vous écris concernant...", "J'ai un problème avec...", "Je souhaite vous faire part de mon mécontentement concernant...", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces formulations sont toutes adéquates pour introduire une réclamation."
+                },
+                {
+                    "question": "Quelle expression est à éviter dans un mail de réclamation ?",
+                    "options": ["Je vous prie de bien vouloir...", "Je vous serais reconnaissant(e) de...", "Vous devez immédiatement...", "Je vous remercie par avance"],
+                    "correct": 2,
+                    "explanation": "Cette formulation est trop directive et peut paraître agressive."
+                },
+                {
+                    "question": "Comment conclure un mail de réclamation ?",
+                    "options": ["Dans l'attente d'une réponse rapide de votre part", "Répondez-moi vite", "J'attends", "Je veux une solution"],
+                    "correct": 0,
+                    "explanation": "Cette formulation est polie tout en exprimant une attente légitime."
+                },
+                {
+                    "question": "Quelle formulation permet d'exprimer fermement son mécontentement tout en restant poli ?",
+                    "options": ["Je suis très mécontent de vos services", "Votre service est nul", "C'est inadmissible", "Je suis extrêmement déçu(e) par la qualité du service fourni"],
+                    "correct": 3,
+                    "explanation": "Cette formulation exprime le mécontentement sans être impolie."
+                }
+            ]
+        },
+        {
+            "name": "Négocier et discuter un prix",
+            "questions": [
+                {
+                    "question": "Comment demander une réduction poliment ?",
+                    "options": ["Baissez le prix", "Est-ce que vous pourriez faire un geste sur le prix ?", "C'est trop cher", "Je veux moins cher"],
+                    "correct": 1,
+                    "explanation": "Cette formulation est polie tout en étant directe."
+                },
+                {
+                    "question": "Quelle expression permet de proposer un prix inférieur ?",
+                    "options": ["Je vous propose...", "Je vous offre...", "Je vous donne...", "Les options A et B"],
+                    "correct": 3,
+                    "explanation": "Ces deux formulations sont couramment utilisées pour faire une contre-proposition."
+                },
+                {
+                    "question": "Comment justifier une demande de réduction ?",
+                    "options": ["Je suis client fidèle", "J'en prends plusieurs", "Il y a un petit défaut", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces arguments sont tous valables pour justifier une demande de réduction."
+                },
+                {
+                    "question": "Quelle phrase permet de conclure une négociation ?",
+                    "options": ["On dit ça alors ?", "Marché conclu ?", "On est d'accord ?", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces formulations permettent de finaliser l'accord."
+                },
+                {
+                    "question": "Comment refuser poliment un prix trop élevé ?",
+                    "options": ["Non, c'est trop cher", "Je vais réfléchir, merci", "C'est au-dessus de mon budget", "Les options B et C"],
+                    "correct": 3,
+                    "explanation": "Ces réponses permettent de refuser sans être impoli."
+                }
+            ]
+        },
+        {
+            "name": "Rapporter les paroles de quelqu'un",
+            "questions": [
+                {
+                    "question": "Comment introduire des paroles rapportées directement ?",
+                    "options": ["Il a dit : \"...\"", "Il a dit que...", "D'après lui...", "Selon ses dires..."],
+                    "correct": 0,
+                    "explanation": "Les deux points suivis de guillemets introduisent du discours direct."
+                },
+                {
+                    "question": "Quelle phrase utilise le discours indirect ?",
+                    "options": ["Elle a déclaré : \"Je viendrai demain\"", "Elle a déclaré qu'elle viendrait demain", "\"Je viendrai demain\", a-t-elle déclaré", "Elle a dit \"Je viendrai demain\""],
+                    "correct": 1,
+                    "explanation": "Le discours indirect utilise 'que' et modifie les temps et pronoms."
+                },
+                {
+                    "question": "Comment rapporter une question au discours indirect ?",
+                    "options": ["Il m'a demandé : \"Quelle heure est-il ?\"", "Il m'a demandé quelle heure il était", "Il a dit \"Quelle heure est-il ?\"", "Il voulait savoir : \"Quelle heure est-il ?\""],
+                    "correct": 1,
+                    "explanation": "Au discours indirect, les questions sont introduites par un verbe interrogatif."
+                },
+                {
+                    "question": "Quel verbe introduit une opinion rapportée ?",
+                    "options": ["dire", "penser", "demander", "ordonner"],
+                    "correct": 1,
+                    "explanation": "'Penser' introduit une opinion ou un avis."
+                },
+                {
+                    "question": "Comment rapporter un ordre au discours indirect ?",
+                    "options": ["Il m'a dit : \"Viens ici !\"", "Il m'a dit de venir", "Il m'a demandé si je venais", "Il a dit \"Viens ici !\""],
+                    "correct": 1,
+                    "explanation": "Les ordres indirects utilisent la construction 'dire de + infinitif'."
+                }
+            ]
+        },
+        {
+            "name": "Mettre en garde",
+            "questions": [
+                {
+                    "question": "Quelle expression est utilisée pour mettre en garde ?",
+                    "options": ["Attention à...", "Fais gaffe à...", "Prends garde à...", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces expressions servent toutes à avertir d'un danger."
+                },
+                {
+                    "question": "Comment formuler un avertissement formel ?",
+                    "options": ["Je te préviens que...", "Nous vous informons que...", "Veuillez noter que...", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces formulations peuvent toutes servir d'avertissement selon le contexte."
+                },
+                {
+                    "question": "Quelle construction exprime une conséquence possible ?",
+                    "options": ["Si tu fais ça, tu risques de...", "Tu devrais faire attention", "C'est dangereux", "Je te déconseille de faire ça"],
+                    "correct": 0,
+                    "explanation": "La construction 'si... alors' explicite les conséquences possibles."
+                },
+                {
+                    "question": "Comment exprimer une interdiction ferme ?",
+                    "options": ["Il est interdit de...", "Il est déconseillé de...", "Il vaut mieux ne pas...", "Il serait préférable d'éviter de..."],
+                    "correct": 0,
+                    "explanation": "'Il est interdit de' est l'expression la plus catégorique."
+                },
+                {
+                    "question": "Quelle phrase exprime un conseil de prudence ?",
+                    "options": ["Tu ne dois pas...", "Tu ferais mieux de...", "Il est hors de question de...", "C'est formellement interdit"],
+                    "correct": 1,
+                    "explanation": "Cette formulation suggère une prudence sans être une interdiction stricte."
+                }
+            ]
+        },
+        {
+            "name": "Les comparaisons et les degrés de la comparaison",
+            "questions": [
+                {
+                    "question": "Comment exprimer une égalité ?",
+                    "options": ["aussi ... que", "plus ... que", "moins ... que", "le/la plus ... de"],
+                    "correct": 0,
+                    "explanation": "L'égalité s'exprime avec 'aussi ... que'."
+                },
+                {
+                    "question": "Quelle structure exprime une supériorité ?",
+                    "options": ["aussi ... que", "plus ... que", "moins ... que", "le/la plus ... de"],
+                    "correct": 1,
+                    "explanation": "La supériorité s'exprime avec 'plus ... que'."
+                },
+                {
+                    "question": "Comment forme-t-on le superlatif de supériorité ?",
+                    "options": ["le/la plus ... de/du/des", "le/la moins ... de/du/des", "plus ... que tous", "le/la meilleur(e)"],
+                    "correct": 0,
+                    "explanation": "Le superlatif se forme avec 'le/la plus + adjectif'."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement le comparatif d'infériorité ?",
+                    "options": ["Il est plus grand que moi", "Il est aussi grand que moi", "Il est moins grand que moi", "Il est le plus grand"],
+                    "correct": 2,
+                    "explanation": "L'infériorité s'exprime avec 'moins ... que'."
+                },
+                {
+                    "question": "Quelle est la forme correcte du superlatif ?",
+                    "options": ["C'est la ville la plus belle", "C'est la ville plus belle", "C'est la ville très belle", "C'est la ville belle"],
+                    "correct": 0,
+                    "explanation": "Le superlatif place l'article défini avant l'adjectif."
+                }
+            ]
+        },
+        {
+            "name": "Les pronoms relatifs composés",
+            "questions": [
+                {
+                    "question": "Quel pronom relatif composé s'accorde en genre et en nombre ?",
+                    "options": ["dont", "où", "que", "lequel"],
+                    "correct": 3,
+                    "explanation": "'Lequel' s'accorde en genre et en nombre (lequel, laquelle, lesquels, lesquelles)."
+                },
+                {
+                    "question": "Quand utilise-t-on 'auquel' ?",
+                    "options": ["Après une préposition 'à'", "Pour remplacer un COD", "Pour remplacer un sujet", "Pour indiquer un lieu"],
+                    "correct": 0,
+                    "explanation": "'Auquel' est la contraction de 'à + lequel'."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement 'duquel' ?",
+                    "options": ["Le livre duquel je te parle", "Le livre lequel je te parle", "Le livre que je te parle", "Le livre dont je te parle"],
+                    "correct": 0,
+                    "explanation": "'Duquel' est la contraction de 'de + lequel'."
+                },
+                {
+                    "question": "Dans quelle phrase le pronom relatif composé est-il correct ?",
+                    "options": ["La personne à qui je pense", "La personne auquel je pense", "La personne à laquelle je pense", "La personne dont je pense"],
+                    "correct": 2,
+                    "explanation": "'À laquelle' est la forme correcte car 'personne' est féminin."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement un pronom relatif composé ?",
+                    "options": ["Les raisons pour lesquelles j'ai refusé", "Les raisons dont j'ai refusé", "Les raisons que j'ai refusé", "Les raisons lesquelles j'ai refusé"],
+                    "correct": 0,
+                    "explanation": "'Pour lesquelles' est la forme correcte après 'pour'."
+                }
+            ]
+        },
+        {
+            "name": "Le discours rapporté au présent (rappel)",
+            "questions": [
+                {
+                    "question": "Comment transforme-t-on 'je' au discours indirect ?",
+                    "options": ["je", "tu", "il/elle", "cela dépend du sujet du verbe introducteur"],
+                    "correct": 3,
+                    "explanation": "Le pronom s'adapte à la personne dont on rapporte les paroles."
+                },
+                {
+                    "question": "Comment rapporte-t-on 'Il dit : \"Je suis fatigué\"' ?",
+                    "options": ["Il dit qu'il est fatigué", "Il dit que je suis fatigué", "Il dit qu'il était fatigué", "Il dit : \"Il est fatigué\""],
+                    "correct": 0,
+                    "explanation": "Au présent, le temps reste le même mais les pronoms changent."
+                },
+                {
+                    "question": "Quelle transformation est correcte pour une question ?",
+                    "options": ["Il demande : \"Où vas-tu ?\" → Il demande où tu vas", "Il demande : \"Où vas-tu ?\" → Il demande où je vais", "Il demande : \"Où vas-tu ?\" → Il demande où il va", "Il demande : \"Où vas-tu ?\" → Il demande où vous allez"],
+                    "correct": 0,
+                    "explanation": "Les pronoms s'adaptent mais la personne à qui on s'adresse reste 'tu'."
+                },
+                {
+                    "question": "Comment transforme-t-on un ordre au discours indirect ?",
+                    "options": ["Il dit : \"Viens ici !\" → Il dit que je vienne ici", "Il dit : \"Viens ici !\" → Il dit qu'il vienne ici", "Il dit : \"Viens ici !\" → Il dit de venir ici", "Il dit : \"Viens ici !\" → Il dit que tu viens ici"],
+                    "correct": 2,
+                    "explanation": "Les ordres se transforment avec 'dire de + infinitif'."
+                },
+                {
+                    "question": "Quelle transformation est correcte pour un conseil ?",
+                    "options": ["Elle conseille : \"Prends ton parapluie\" → Elle conseille que je prenne mon parapluie", "Elle conseille : \"Prends ton parapluie\" → Elle conseille de prendre mon parapluie", "Elle conseille : \"Prends ton parapluie\" → Elle conseille de prendre son parapluie", "Elle conseille : \"Prends ton parapluie\" → Elle conseille que tu prennes ton parapluie"],
+                    "correct": 1,
+                    "explanation": "Les conseils utilisent souvent 'conseiller de + infinitif'."
+                }
+            ]
+        },
+        {
+            "name": "Le discours rapporté au passé et la concordance des temps",
+            "questions": [
+                {
+                    "question": "Comment transforme-t-on le présent quand le verbe introducteur est au passé ?",
+                    "options": ["Présent → Présent", "Présent → Imparfait", "Présent → Passé composé", "Présent → Plus-que-parfait"],
+                    "correct": 1,
+                    "explanation": "Dans la concordance des temps, le présent devient imparfait."
+                },
+                {
+                    "question": "Comment transforme-t-on le futur simple au discours indirect au passé ?",
+                    "options": ["Futur simple → Futur simple", "Futur simple → Futur antérieur", "Futur simple → Conditionnel présent", "Futur simple → Conditionnel passé"],
+                    "correct": 2,
+                    "explanation": "Le futur simple devient conditionnel présent."
+                },
+                {
+                    "question": "Quelle transformation est correcte ?",
+                    "options": ["Il a dit : \"Je viendrai demain\" → Il a dit qu'il viendra demain", "Il a dit : \"Je viendrai demain\" → Il a dit qu'il viendrait le lendemain", "Il a dit : \"Je viendrai demain\" → Il a dit qu'il est venu demain", "Il a dit : \"Je viendrai demain\" → Il a dit qu'il venait demain"],
+                    "correct": 1,
+                    "explanation": "Futur → conditionnel et 'demain' → 'le lendemain'."
+                },
+                {
+                    "question": "Comment transforme-t-on le passé composé au discours indirect au passé ?",
+                    "options": ["Passé composé → Passé composé", "Passé composé → Imparfait", "Passé composé → Plus-que-parfait", "Passé composé → Passé simple"],
+                    "correct": 2,
+                    "explanation": "Le passé composé devient plus-que-parfait."
+                },
+                {
+                    "question": "Quelle transformation est correcte pour les indicateurs temporels ?",
+                    "options": ["aujourd'hui → ce jour-là", "hier → la veille", "demain → le lendemain", "toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Tous les indicateurs temporels changent pour s'adapter au passé."
+                }
+            ]
+        }
+    ]
+}

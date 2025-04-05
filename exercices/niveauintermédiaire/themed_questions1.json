@@ -1,0 +1,389 @@
+{
+    "categories": [
+        {
+            "name": "Parler de son rapport à l'image",
+            "questions": [
+                {
+                    "question": "Comment exprimer son rapport à l'apparence physique ?",
+                    "options": ["Je me trouve beau", "Je suis beau", "Je regarde beau", "Je vois beau"],
+                    "correct": 0,
+                    "explanation": "On utilise 'se trouver + adjectif' pour exprimer son auto-perception."
+                },
+                {
+                    "question": "Quelle expression indique le manque de confiance en son image ?",
+                    "options": ["Je ne m'aime pas", "Je ne suis pas beau", "Je déteste mes photos", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces expressions traduisent un rapport négatif à son image."
+                },
+                {
+                    "question": "Comment parler de sa photogénie ?",
+                    "options": ["Je ne sors pas bien en photo", "Je ne suis pas photogénique", "Je déteste les photos", "Toutes ces réponses"],
+                    "correct": 1,
+                    "explanation": "'Être photogénique' est l'expression standard."
+                },
+                {
+                    "question": "Quelle expression utilise-t-on pour parler de son image sur les réseaux sociaux ?",
+                    "options": ["Mon profil social", "Ma présence digitale", "Mon image numérique", "Ma présence sur les réseaux"],
+                    "correct": 3,
+                    "explanation": "'Présence sur les réseaux' est l'expression courante."
+                },
+                {
+                    "question": "Comment exprimer qu'on est satisfait de son apparence ?",
+                    "options": ["Je m'accepte comme je suis", "Je suis bien dans ma peau", "Je me sens à l'aise avec mon corps", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces expressions traduisent l'acceptation de soi."
+                }
+            ]
+        },
+        {
+            "name": "Caractériser des personnes (tenue vestimentaire, caractère, comportement...)",
+            "questions": [
+                {
+                    "question": "Comment décrit-on un vêtement porté par quelqu'un ?",
+                    "options": ["Il porte un pantalon noir", "Il a un pantalon noir", "Il est en pantalon noir", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces trois formulations sont correctes selon le contexte."
+                },
+                {
+                    "question": "Quelle phrase décrit un trait de caractère ?",
+                    "options": ["Il est grand", "Il est généreux", "Il a les cheveux bruns", "Il porte des lunettes"],
+                    "correct": 1,
+                    "explanation": "'Être + adjectif de caractère' décrit la personnalité."
+                },
+                {
+                    "question": "Comment décrit-on le comportement habituel d'une personne ?",
+                    "options": ["Il fait toujours...", "Il est souvent en train de...", "Il a l'habitude de...", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces formulations décrivent des habitudes comportementales."
+                },
+                {
+                    "question": "Quelle phrase décrit l'apparence physique ?",
+                    "options": ["Elle est de taille moyenne", "Elle est intelligente", "Elle est ponctuelle", "Elle est sociable"],
+                    "correct": 0,
+                    "explanation": "La taille fait référence à l'apparence physique."
+                },
+                {
+                    "question": "Comment caractériser le style vestimentaire de quelqu'un ?",
+                    "options": ["Elle s'habille élégamment", "Elle porte des vêtements", "Elle aime les vêtements", "Elle achète des vêtements"],
+                    "correct": 0,
+                    "explanation": "'S'habiller + adverbe' décrit le style vestimentaire."
+                }
+            ]
+        },
+        {
+            "name": "Demander des informations détaillées par mail",
+            "questions": [
+                {
+                    "question": "Quelle formule de politesse utilise-t-on pour commencer un mail formel ?",
+                    "options": ["Bonjour", "Salut", "Madame, Monsieur", "Coucou"],
+                    "correct": 2,
+                    "explanation": "'Madame, Monsieur' est la formule la plus formelle."
+                },
+                {
+                    "question": "Comment demande-t-on poliment des informations dans un mail ?",
+                    "options": ["Donnez-moi des informations", "Je veux des informations", "Je souhaiterais obtenir des informations", "Informations SVP"],
+                    "correct": 2,
+                    "explanation": "Le conditionnel ('souhaiterais') est plus poli."
+                },
+                {
+                    "question": "Quelle formulation est adaptée pour conclure une demande par mail ?",
+                    "options": ["En attente", "Dans l'attente de votre réponse", "J'attends", "Répondez-moi"],
+                    "correct": 1,
+                    "explanation": "Cette formule est standard dans la correspondance formelle."
+                },
+                {
+                    "question": "Comment préciser l'objet de sa demande dans un mail ?",
+                    "options": ["Je vous écris au sujet de...", "C'est à propos de...", "Je veux parler de...", "Mon sujet est..."],
+                    "correct": 0,
+                    "explanation": "Cette formulation est claire et professionnelle."
+                },
+                {
+                    "question": "Quelle formule de politesse conclut un mail formel ?",
+                    "options": ["À bientôt", "Je vous prie d'agréer l'expression de mes salutations distinguées", "Cordialement", "Au revoir"],
+                    "correct": 1,
+                    "explanation": "C'est la formule la plus formelle pour conclure un mail."
+                }
+            ]
+        },
+        {
+            "name": "Exprimer son point de vue sur l'image de soi et la chirurgie esthétique",
+            "questions": [
+                {
+                    "question": "Comment exprimer son opinion sur la chirurgie esthétique ?",
+                    "options": ["Je pense que...", "À mon avis...", "Selon moi...", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces formulations introduisent une opinion personnelle."
+                },
+                {
+                    "question": "Quelle phrase exprime une position nuancée ?",
+                    "options": ["C'est bien", "C'est mal", "D'un côté... de l'autre...", "Je suis contre"],
+                    "correct": 2,
+                    "explanation": "Cette structure permet d'exprimer les avantages et inconvénients."
+                },
+                {
+                    "question": "Comment exprimer son désaccord poliment ?",
+                    "options": ["C'est n'importe quoi", "Je ne suis pas d'accord", "Tu as tort", "C'est faux"],
+                    "correct": 1,
+                    "explanation": "'Je ne suis pas d'accord' est une formulation neutre et polie."
+                },
+                {
+                    "question": "Quelle expression marque une concession ?",
+                    "options": ["En plus", "Par contre", "Certes, mais...", "Donc"],
+                    "correct": 2,
+                    "explanation": "'Certes, mais...' permet de nuancer son propos."
+                },
+                {
+                    "question": "Comment introduire un argument personnel ?",
+                    "options": ["Pour ma part", "On dit que", "Tout le monde sait que", "Les gens pensent que"],
+                    "correct": 0,
+                    "explanation": "'Pour ma part' introduit clairement une perspective personnelle."
+                }
+            ]
+        },
+        {
+            "name": "Donner des ordres et faire des suggestions",
+            "questions": [
+                {
+                    "question": "Comment donner un ordre direct ?",
+                    "options": ["Tu devrais faire ça", "Fais ça !", "On pourrait faire ça", "Si tu faisais ça"],
+                    "correct": 1,
+                    "explanation": "L'impératif est utilisé pour les ordres directs."
+                },
+                {
+                    "question": "Quelle formulation est une suggestion ?",
+                    "options": ["Fais-le", "Tu dois le faire", "Et si tu le faisais ?", "Je t'ordonne de le faire"],
+                    "correct": 2,
+                    "explanation": "'Et si + imparfait' est une suggestion polie."
+                },
+                {
+                    "question": "Comment adoucir un ordre ?",
+                    "options": ["Fais-le tout de suite", "Tu pourrais le faire", "Je veux que tu le fasses", "Il faut que tu le fasses"],
+                    "correct": 1,
+                    "explanation": "Le conditionnel adoucit la demande."
+                },
+                {
+                    "question": "Quelle expression est la plus autoritaire ?",
+                    "options": ["Il faudrait que tu...", "Tu devrais...", "Je te conseille de...", "Je t'interdis de..."],
+                    "correct": 3,
+                    "explanation": "'Interdire' exprime une autorité directe."
+                },
+                {
+                    "question": "Comment faire une suggestion collective ?",
+                    "options": ["Faites-le", "Et si on le faisait ?", "Vous devriez le faire", "Tu dois le faire"],
+                    "correct": 1,
+                    "explanation": "'Et si on + imparfait' suggère une action commune."
+                }
+            ]
+        },
+        {
+            "name": "Exprimer des sentiments",
+            "questions": [
+                {
+                    "question": "Comment exprimer la joie ?",
+                    "options": ["Je suis content(e)", "Je me sens bien", "Je suis heureux/heureuse", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Toutes ces expressions traduisent la joie."
+                },
+                {
+                    "question": "Quelle phrase exprime la tristesse ?",
+                    "options": ["Je suis fâché(e)", "Je suis déçu(e)", "Je suis content(e)", "Je suis surpris(e)"],
+                    "correct": 1,
+                    "explanation": "La déception est une forme de tristesse."
+                },
+                {
+                    "question": "Comment exprimer la colère ?",
+                    "options": ["Ça m'énerve", "Je suis en colère", "Je suis furieux/furieuse", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces expressions traduisent différents degrés de colère."
+                },
+                {
+                    "question": "Quelle phrase exprime la peur ?",
+                    "options": ["Je suis inquiet/inquiète", "J'ai peur", "Je suis effrayé(e)", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces expressions traduisent différents niveaux de peur."
+                },
+                {
+                    "question": "Comment exprimer la surprise ?",
+                    "options": ["Je ne m'y attendais pas", "Je suis étonné(e)", "Quelle surprise !", "Toutes ces réponses"],
+                    "correct": 3,
+                    "explanation": "Ces expressions traduisent la surprise."
+                }
+            ]
+        },
+        {
+            "name": "Les pronoms relatifs : simples (rappel) et avec des pronoms démonstratifs",
+            "questions": [
+                {
+                    "question": "Quel pronom relatif simple s'accorde en genre et en nombre ?",
+                    "options": ["qui", "que", "dont", "lequel"],
+                    "correct": 3,
+                    "explanation": "'Lequel' s'accorde (lequel, laquelle, lesquels, lesquelles)."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement 'qui' ?",
+                    "options": ["L'homme qui parle", "L'homme que parle", "L'homme dont parle", "L'homme lequel parle"],
+                    "correct": 0,
+                    "explanation": "'Qui' est sujet du verbe 'parler'."
+                },
+                {
+                    "question": "Comment utilise-t-on 'celui qui' ?",
+                    "options": ["Je préfère celui qui est rouge", "Je préfère qui est rouge", "Je préfère que celui est rouge", "Je préfère celui est rouge"],
+                    "correct": 0,
+                    "explanation": "'Celui + pronom relatif' remplace un nom masculin."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement 'ce dont' ?",
+                    "options": ["Ce dont j'ai besoin", "Ce que j'ai besoin", "Ce qui j'ai besoin", "Celui dont j'ai besoin"],
+                    "correct": 0,
+                    "explanation": "Après 'avoir besoin de', on utilise 'dont'."
+                },
+                {
+                    "question": "Comment utilise-t-on 'ce que' ?",
+                    "options": ["Ce que je veux", "Ce qui je veux", "Ce dont je veux", "Celui que je veux"],
+                    "correct": 0,
+                    "explanation": "'Ce que' est utilisé quand le pronom est COD."
+                }
+            ]
+        },
+        {
+            "name": "La mise en relief",
+            "questions": [
+                {
+                    "question": "Comment met-on un sujet en relief ?",
+                    "options": ["C'est...qui", "Il est...qui", "C'est...que", "C'est...dont"],
+                    "correct": 0,
+                    "explanation": "Pour le sujet, on utilise 'c'est...qui'."
+                },
+                {
+                    "question": "Quelle phrase met en relief un complément d'objet direct ?",
+                    "options": ["C'est lui qui j'aime", "C'est lui que j'aime", "C'est lui dont j'aime", "C'est lui lequel j'aime"],
+                    "correct": 1,
+                    "explanation": "Pour le COD, on utilise 'c'est...que'."
+                },
+                {
+                    "question": "Comment met-on en relief un complément circonstanciel de lieu ?",
+                    "options": ["C'est là que j'habite", "C'est là qui j'habite", "C'est là dont j'habite", "C'est là où j'habite"],
+                    "correct": 0,
+                    "explanation": "Pour un lieu, on utilise généralement 'c'est...que'."
+                },
+                {
+                    "question": "Quelle phrase met en relief un complément d'objet indirect ?",
+                    "options": ["C'est à lui que je parle", "C'est à lui qui je parle", "C'est lui que je parle", "C'est avec lui que je parle"],
+                    "correct": 0,
+                    "explanation": "On conserve la préposition : 'c'est à + pronom + que'."
+                },
+                {
+                    "question": "Comment met-on en relief un moment ?",
+                    "options": ["C'est demain que je pars", "C'est demain qui je pars", "C'est demain où je pars", "C'est quand je pars demain"],
+                    "correct": 0,
+                    "explanation": "Pour un moment, on utilise 'c'est...que'."
+                }
+            ]
+        },
+        {
+            "name": "Le subjonctif présent (rappel)",
+            "questions": [
+                {
+                    "question": "Quand utilise-t-on le subjonctif présent ?",
+                    "options": ["Pour exprimer un fait certain", "Pour exprimer un doute ou un souhait", "Après 'je pense que'", "Pour décrire une habitude"],
+                    "correct": 1,
+                    "explanation": "Le subjonctif exprime souvent l'incertitude ou le souhait."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement le subjonctif ?",
+                    "options": ["Il faut que tu viens", "Il faut que tu viennes", "Il faut que tu viendrais", "Il faut que tu venais"],
+                    "correct": 1,
+                    "explanation": "Après 'il faut que', on utilise le subjonctif."
+                },
+                {
+                    "question": "Comment forme-t-on le subjonctif de 'avoir' à la 1ère personne du singulier ?",
+                    "options": ["j'ai", "j'aie", "j'avais", "j'aurais"],
+                    "correct": 1,
+                    "explanation": "Le subjonctif présent de 'avoir' est 'j'aie'."
+                },
+                {
+                    "question": "Quelle conjonction est suivie du subjonctif ?",
+                    "options": ["quand", "parce que", "bien que", "puisque"],
+                    "correct": 2,
+                    "explanation": "'Bien que' exprime une concession et requiert le subjonctif."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement le subjonctif présent ?",
+                    "options": ["Je souhaite qu'il vient", "Je souhaite qu'il vienne", "Je souhaite qu'il viendra", "Je souhaite qu'il viendrait"],
+                    "correct": 1,
+                    "explanation": "Après 'souhaiter que', on utilise le subjonctif."
+                }
+            ]
+        },
+        {
+            "name": "Le subjonctif passé, l'infinitif passé",
+            "questions": [
+                {
+                    "question": "Comment forme-t-on le subjonctif passé ?",
+                    "options": ["avoir/être au subjonctif + participe passé", "avoir/être à l'indicatif + participe passé", "avoir/être au conditionnel + participe passé", "être au subjonctif + participe présent"],
+                    "correct": 0,
+                    "explanation": "Le subjonctif passé utilise l'auxiliaire au subjonctif présent."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement le subjonctif passé ?",
+                    "options": ["Je doute qu'il a réussi", "Je doute qu'il ait réussi", "Je doute qu'il aura réussi", "Je doute qu'il aurait réussi"],
+                    "correct": 1,
+                    "explanation": "Après 'douter que', on utilise le subjonctif."
+                },
+                {
+                    "question": "Comment forme-t-on l'infinitif passé ?",
+                    "options": ["avoir/être à l'infinitif + participe passé", "avoir/être au présent + participe passé", "avoir/être au subjonctif + participe passé", "être à l'infinitif + participe présent"],
+                    "correct": 0,
+                    "explanation": "L'infinitif passé se forme avec avoir/être à l'infinitif."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement l'infinitif passé ?",
+                    "options": ["Après finir le travail...", "Après avoir fini le travail...", "Après que j'ai fini le travail...", "Après que je finisse le travail..."],
+                    "correct": 1,
+                    "explanation": "L'infinitif passé s'utilise avec le même sujet que le verbe principal."
+                },
+                {
+                    "question": "Quand utilise-t-on le subjonctif passé plutôt que le présent ?",
+                    "options": ["Pour une action simultanée", "Pour une action future", "Pour une action antérieure", "Pour une habitude"],
+                    "correct": 2,
+                    "explanation": "Le subjonctif passé exprime l'antériorité par rapport au verbe principal."
+                }
+            ]
+        },
+        {
+            "name": "Subjonctif ou infinitif après les verbes de sentiment",
+            "questions": [
+                {
+                    "question": "Après 'je suis content', on utilise...",
+                    "options": ["que + subjonctif", "de + infinitif", "les deux selon le sujet", "indicatif"],
+                    "correct": 2,
+                    "explanation": "On utilise 'de + infinitif' si même sujet, 'que + subjonctif' si sujets différents."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["Je suis heureux de partir", "Je suis heureux que partir", "Je suis heureux à partir", "Je suis heureux pour partir"],
+                    "correct": 0,
+                    "explanation": "Même sujet → 'de + infinitif'."
+                },
+                {
+                    "question": "Quelle phrase utilise correctement le subjonctif ?",
+                    "options": ["Je suis désolé que tu es malade", "Je suis désolé que tu es malade", "Je suis désolé que tu sois malade", "Je suis désolé de tu sois malade"],
+                    "correct": 2,
+                    "explanation": "Sujets différents → 'que + subjonctif'."
+                },
+                {
+                    "question": "Après 'je regrette', on utilise...",
+                    "options": ["que + indicatif", "que + subjonctif", "de + infinitif", "les options B et C selon le sujet"],
+                    "correct": 3,
+                    "explanation": "Même sujet → 'de + infinitif', sujets différents → 'que + subjonctif'."
+                },
+                {
+                    "question": "Quelle phrase est correcte ?",
+                    "options": ["Je suis triste que tu parts", "Je suis triste que tu partes", "Je suis triste de tu partes", "Je suis triste pour tu partes"],
+                    "correct": 1,
+                    "explanation": "Après les verbes d'émotion + que, on utilise le subjonctif si les sujets sont différents."
+                }
+            ]
+        }
+    ]
+}
